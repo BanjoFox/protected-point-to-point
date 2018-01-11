@@ -13,7 +13,7 @@ What follows are a few of the high-level design elements which we thought were u
 We were able to come up with working code (Linux 2.6 kernel & Android Gingerbread), which I can share once I remove the proprietary crypto libraries. I also have all of the documentation/presentation slides that I authored at the time.
 
 
-##The Protected Point-to-Point solution provides a continuously secure channel for data between connection points 
+## The Protected Point-to-Point solution provides a continuously secure channel for data between connection points 
 - Encryption keys are updated without closing the connection
 - Keys can be changed frequently without detection by an outside observer
 - data sessions to proceed uninterrupted by a re-keying process
@@ -36,6 +36,6 @@ We were able to come up with working code (Linux 2.6 kernel & Android Gingerbrea
 P3 works by building an encrypted tunnel on top of another tunnel.  The "interior" tunnel, called a 'control channel' is used to pass new keys/key-related information, to the other endpoint(s).
 The "exterior" tunnel, called a 'data channel' is used for passing actual network traffic. There are some caveats though.
 
-1 - The initial handshake still needs to be done by something else (we used IPSec)
-2 - We also used a proprietary crypto library (not included), although we were thinking about having an OpenSSL port.
+- The initial handshake still needs to be done by something else (we used IPSec)
+- We also used a proprietary crypto library (not included), although we were thinking about having an OpenSSL port.
 
