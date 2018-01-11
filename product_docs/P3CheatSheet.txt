@@ -1,0 +1,33 @@
+P3 Demo Cheat Sheet. (First Draft)
+
+Laptop: 
+ -- Select the Terminal window. 
+ -- Type: prun [Enter]
+ -- Wait for terminal prompt to return.
+ -- In the exploerer window the p3demo.trace and p3demo.p3 files will dissapear. This shows that we are creating -new- traces every time we run the demo.
+
+ Android: 
+ -- Tap the icon that says "Terminal" to open it (I made a "desktop" icon for it). 
+ -- Type: su [Enter] prun [Enter]
+ -- Wait for terminal prompt to return.
+ -- Tap the Home button to return to the main screen.
+ -- Tap the Browser button to open the browser.
+ -- In the browser tap the Star button (Top right) to bring up the Bookmarks menu.
+ -- Tap the URL labeled http://192.168.0.110/words256k.html ; This should bring up a webpage with 256k worth of textual data on it.
+ -- Tap the Home button, to return to the desktop. 
+ -- Tap the Terminal button again, and type: pend [Enter]
+ -- Wait for terminal prompt to return.
+
+Laptop:
+ -- Select the Terminal window. 
+ -- Type: pend [Enter]
+ -- Wait for terminal prompt to return.
+ -- There should now be a new pair of documents in the Explorer window; p3trace.trace and p3trace.p3
+
+ 
+ Description of Demo Files:
+
+  android.trace:  The network trace showing encrypted data from a previous test.
+  android p3:  The decrypted data from the same trace with some editing to show obfuscation
+  demo.trace:  The network trace showing encrypted data from the current demo
+  demo.p3:  The decrypted data from the current demo

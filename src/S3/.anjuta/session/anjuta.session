@@ -1,0 +1,9 @@
+
+[Anjuta]
+Geometry=1056x875+105+0
+
+[File Loader]
+Files=file:///home/velocite/Projects/S3/src/s3primary.c#252%%%file:///home/velocite/Projects/S3/src/s3primary.h#1%%%file:///home/velocite/Projects/S3/src/s3base.h#1
+
+[Execution]
+Run in terminal=2

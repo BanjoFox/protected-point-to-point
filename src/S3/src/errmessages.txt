@@ -1,0 +1,103 @@
+/**
+ * \page S3KS_MSGS Secure Storage Solution Key Server Messages
+ * <b>
+ * Error messages are grouped by functionality.
+ *
+ * The text of each message is preceeded with the name of the function
+ * issuing it so that it can be found easily by software support.
+ *
+ * The Description field includes the message type in parentheses.  The
+ * meanings of the types are:
+ * <ul>
+ *  <li>Critical (CRIT):  Caused by system errors</li>
+ *  <li>Error (ERR):  Caused by application errors</li>
+ *  <li>Warning (WARN):  Does not cause application shutdown, but indicate the
+ *      need for adminstrative correction</li>
+ *  <li>Notice (NOTICE):  Information that is always reported, such as
+ *      startup</li>
+ *  <li>Information (INFO):  Information such as usage statistics.  This may be
+ *      ignored using the -I command line argument</li>
+ * </ul>
+ *
+ * The Response field describes the most reasonable first approach for
+ * troubleshooting the problem.
+ * </b>
+ */
+
+/**
+ * \page S3EE_MSGS Secure Storage Solution Encryption Engine Messages
+ * <b>
+ * Error messages are grouped by functionality.
+ *
+ * The text of each message is preceeded with the name of the function
+ * issuing it so that it can be found easily by software support.
+ *
+ * The Description field includes the message type in parentheses.  The
+ * meanings of the types are:
+ * <ul>
+ *  <li>Critical (CRIT):  Caused by system errors</li>
+ *  <li>Error (ERR):  Caused by application errors</li>
+ *  <li>Warning (WARN):  Does not cause application shutdown, but indicate the
+ *      need for adminstrative correction</li>
+ *  <li>Notice (NOTICE):  Information that is always reported, such as
+ *      startup</li>
+ *  <li>Information (INFO):  Information such as usage statistics.  This may be
+ *      ignored using the -I command line argument</li>
+ * </ul>
+ *
+ * The Response field describes the most reasonable first approach for
+ * troubleshooting the problem.
+ * </b>
+ */
+
+/**
+ * \page S3AG_MSGS Secure Storage Solution Agent Messages
+ * <b>
+ * Error messages are grouped by functionality.
+ *
+ * The text of each message is preceeded with the name of the function
+ * issuing it so that it can be found easily by software support.
+ *
+ * The Description field includes the message type in parentheses.  The
+ * meanings of the types are:
+ * <ul>
+ *  <li>Critical (CRIT):  Caused by system errors</li>
+ *  <li>Error (ERR):  Caused by application errors</li>
+ *  <li>Warning (WARN):  Does not cause application shutdown, but indicate the
+ *      need for adminstrative correction</li>
+ *  <li>Notice (NOTICE):  Information that is always reported, such as
+ *      startup</li>
+ *  <li>Information (INFO):  Information such as usage statistics.  This may be
+ *      ignored using the -I command line argument</li>
+ * </ul>
+ *
+ * The Response field describes the most reasonable first approach for
+ * troubleshooting the problem.
+ * </b>
+ */
+
+/**
+ * \page S3MSGS Secure Storage Solution Messages
+ * <b>
+ * Error messages are grouped by functionality.
+ *
+ * The text of each message is preceeded with the name of the function
+ * issuing it so that it can be found easily by software support.
+ *
+ * The Description field includes the message type in parentheses.  The
+ * meanings of the types are:
+ * <ul>
+ *  <li>Critical (CRIT):  Caused by system errors</li>
+ *  <li>Error (ERR):  Caused by application errors</li>
+ *  <li>Warning (WARN):  Does not cause application shutdown, but indicate the
+ *      need for adminstrative correction</li>
+ *  <li>Notice (NOTICE):  Information that is always reported, such as
+ *      startup</li>
+ *  <li>Information (INFO):  Information such as usage statistics.  This may be
+ *      ignored using the -I command line argument</li>
+ * </ul>
+ *
+ * The Response field describes the most reasonable first approach for
+ * troubleshooting the problem.
+ * </b>
+ */

@@ -1,0 +1,33 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="main",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="init_key_handler",height=0.2,width=0.4,color="black",URL="$p3sec__key__handler_8c.html#a49b5b5f4f7a75cca48063e04016bd520"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="p3errmsg",height=0.2,width=0.4,color="black",URL="$p3utils_8c.html#a546a24de79393ec996187050b9a78dbc"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="init_sec_net",height=0.2,width=0.4,color="black",URL="$p3sec__net_8c.html#a940bd831c894fe807e2e0d6b129f677c"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="connect_primary",height=0.2,width=0.4,color="black",URL="$tmp_8h.html#accb26ed3403f26c6bb8bb20725aa3beb"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="handle_shutdownSEC",height=0.2,width=0.4,color="black",URL="$tmp_8h.html#a448d5513b1b7646c97fe471e88a08a6f"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="tmp_session",height=0.2,width=0.4,color="black",URL="$tmp_8h.html#a580c729deca8991247f8cfd9c36b51e3"];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="init_sec_ui",height=0.2,width=0.4,color="black",URL="$p3sec__ui_8c.html#ae9c84cb692e9ae6ddf8cfc04d5e4870a"];
+  Node8 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="sec_ui_handler",height=0.2,width=0.4,color="black",URL="$p3sec__ui_8c.html#abc1bb60b629689bedd11f022ee01d883"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="sec_parse_cmdline",height=0.2,width=0.4,color="black",URL="$p3secondary_8c.html#a02066c90815eee8c433d576699f2de35"];
+  Node10 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="sec_parse_config",height=0.2,width=0.4,color="black",URL="$p3secondary_8c.html#a95db124390fde328fcbafb3c60199e0c"];
+}

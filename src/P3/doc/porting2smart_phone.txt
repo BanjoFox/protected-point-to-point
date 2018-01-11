@@ -1,0 +1,42 @@
+The steps in loading P3 on an Android (or any smart phone for that matter) are:
+
+    Kernel requirements:
+
+1) Get a cross compiler for the phone's CPU
+
+2) Get the kernel header files for the phone's OS
+
+3) Verify that there are 'hooks' in the OS for intercepting packets (netfilter code in Linux)
+
+4) Verify that the encryption library (ie Mocana) will compile with a kernel module
+
+5) Get superuser access on the phone, preferably in a command line mode
+
+6) Learn how to install kernel modules on the phone's local storage (as opposed to an SD card)
+
+7) Learn how to debug the kernel, including displaying status, reading messages, and possibly even running a debugger
+
+
+    User space requirements:
+
+1) Use the cross compiler for the phone's CPU for the P3 application component that reads configuration files and generates new keys for the kernel module, and interacts with the administration component
+
+2) Get the system libraries for a standard application
+
+3) Verify that the encryption library (ie Mocana) will compile with a kernel module
+
+4) Note that this component also requires superuser access and preferably a command line mode
+
+5) Learn how to install this component on the phone's local storage (this may be different from installing an 'app' for the smart phone)
+
+6) Learn how to debug a program on the phone (as opposed to using an emulator, which includes useful debugging tools, but may not support compiled applications)
+
+
+
+    Final product requirements:
+
+1) Learn how to package the kernel module and compiled application to be automatically installed
+
+2) Develop an administration 'app' in the phone's standard environment to interact with the compiled application
+
+

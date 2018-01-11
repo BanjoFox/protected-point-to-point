@@ -1,0 +1,17 @@
+<area shape="rect" href="$p3utils_8c.html#975a78ab2e7fa09061feb9326e1c184e" title="init_kernel_comm" alt="" coords="108,157,241,184">
+<area shape="rect" href="$p3profile_8c.html#115044c21fee0be99499431a0d3cabdc" title="p3errmsg" alt="" coords="820,309,903,336">
+<area shape="rect" href="$p3pri__net_8c.html#89559a53e37dd3a7981e5fae7891cef9" title="init_pri_net" alt="" coords="129,259,220,285">
+<area shape="rect" href="$p3pri__ui_8c.html#0ce43bdeb5457b36f85edb372461084a" title="init_pri_ui" alt="" coords="135,309,215,336">
+<area shape="rect" href="$p3utils_8c.html#4568e0281d52429066ad7f514969ecfe" title="init_raw_socket" alt="" coords="652,309,769,336">
+<area shape="rect" href="$p3utils_8c.html#48dcf53d0853bda50c969492a1bbf813" title="init_utils" alt="" coords="139,411,211,437">
+<area shape="rect" href="$p3primary_8c.html#9a6affca68405d5292a65413d834f777" title="pri_parse_cmdline" alt="" coords="292,436,428,463">
+<area shape="rect" href="$p3primary_8c.html#684cfe00f10f6b7af3456319753f8d28" title="pri_parse_config" alt="" coords="297,512,423,539">
+<area shape="rect" href="$p3pri__key__server_8c.html#0edcd21f595ebaf5ef29d150680aef15" title="init_key_serv" alt="" coords="308,107,412,133">
+<area shape="rect" href="$p3pri__key__server_8c.html#57da622d9c7396cebb20afdad7ff5d92" title="buffer_handler" alt="" coords="484,56,596,83">
+<area shape="rect" href="$p3crypto_8c.html#cdaa80371416def48998e5ff2e8d1471" title="p3_get_key" alt="" coords="664,5,757,32">
+<area shape="rect" href="$p3pri__ui_8c.html#8d3b61a360f692580799829184723627" title="pri_ui_handler" alt="" coords="305,309,415,336">
+<area shape="rect" href="$p3share_8h.html#d4ee9a93e1902e17cd3a05f4e110575a" title="getsubnetcfg" alt="" coords="659,461,763,488">
+<area shape="rect" href="$p3profile_8c.html#a44b4e5158dd78b2c1dfda311450d357" title="isallnum" alt="" coords="503,512,577,539">
+<area shape="rect" href="$p3primary_8c.html#907dc579ad8a5a95215248e02c95e63f" title="pri_init_config" alt="" coords="487,563,593,589">
+<area shape="rect" href="$p3utils_8c.html#32323aa18a7307b0c873ce87a6c82b7e" title="send_ioctl" alt="" coords="668,613,753,640">
+<area shape="rect" href="$p3primary_8c.html#a05f5881e325aa12c2225289df53b195" title="update_sechost" alt="" coords="479,664,601,691">

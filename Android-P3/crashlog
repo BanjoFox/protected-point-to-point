@@ -1,0 +1,422 @@
+--------- beginning of /dev/log/system
+E/NetlinkListener(   63): ignoring non-kernel netlink multicast message
+I/WindowManager(   97): Setting rotation to 0, animFlags=0
+I/ActivityManager(   97): Config changed: { scale=1.0 imsi=262/0 loc=en_US touch=3 keys=1/1/2 nav=3/1 orien=1 layout=34 uiMode=17 seq=14}
+--------- beginning of /dev/log/main
+D/dalvikvm(  187): GC_EXTERNAL_ALLOC freed 100K, 53% free 2958K/6215K, external 5248K/5257K, paused 85ms
+D/dalvikvm(  330): GC_EXTERNAL_ALLOC freed 401K, 51% free 3142K/6343K, external 2716K/2730K, paused 56ms
+I/ActivityManager(   97): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 97
+V/RenderScript_jni(  202): surfaceCreated
+V/RenderScript_jni(  202): surfaceChanged
+D/Launcher.Model(  202): going to save icon bitmap for info=ShortcutInfo(title=Better Terminal Emulator Pro)
+D/Launcher.Model(  202): going to save icon bitmap for info=ShortcutInfo(title=adbWireless)
+D/Launcher.Model(  202): going to save icon bitmap for info=ShortcutInfo(title=LifeRing)
+D/dalvikvm(  202): GC_EXPLICIT freed 178K, 48% free 2969K/5639K, external 4689K/5071K, paused 44ms
+D/dalvikvm(   97): GC_EXPLICIT freed 1456K, 56% free 5888K/13255K, external 3125K/3903K, paused 127ms
+D/dalvikvm(  330): GC_EXPLICIT freed 70K, 52% free 3087K/6343K, external 2737K/3418K, paused 72ms
+I/ActivityManager(   97): Starting: Intent { act=com.google.android.finsky.VIEW_MY_DOWNLOADS cmp=com.android.vending/com.google.android.finsky.activities.MainActivity bnds=[0,663][480,759] (has extras) } from pid -1
+W/ActivityManager(   97): startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { act=com.google.android.finsky.VIEW_MY_DOWNLOADS cmp=com.android.vending/com.google.android.finsky.activities.MainActivity bnds=[0,663][480,759] (has extras) }
+D/Finsky  (  419): [1] SelfUpdateScheduler.checkForSelfUpdate: Skipping self-update. Local Version [8007005] >= Server Version [0]
+V/RenderScript_jni(  202): surfaceDestroyed
+D/Volley  (  419): [10] DiskBasedCache.clear: Cache cleared.
+I/ElegantRequestDirector(  419): I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+I/ElegantRequestDirector(  419): Retrying request
+I/dalvikvm(  419): Jit: resizing JitTable from 8192 to 16384
+I/ActivityManager(   97): Displayed com.android.vending/com.google.android.finsky.activities.MainActivity: +738ms
+D/Volley  (  419): [14] DiskBasedCache.clear: Cache cleared.
+D/Finsky  (  419): [1] SelfUpdateScheduler.checkForSelfUpdate: Skipping self-update. Local Version [8007005] >= Server Version [0]
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=MyDownloadsFragment] loaded in [304 ms]
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 1107K, 51% free 4934K/10055K, external 9412K/9430K, paused 54ms
+D/dalvikvm(  419): GC_CONCURRENT freed 1748K, 49% free 5194K/10055K, external 9186K/10385K, paused 3ms+5ms
+D/dalvikvm(  202): GC_EXPLICIT freed 16K, 48% free 2957K/5639K, external 4214K/5071K, paused 87ms
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 128K, 49% free 5182K/10055K, external 9205K/10385K, paused 56ms
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [222 ms]
+I/ElegantRequestDirector(  419): I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+I/ElegantRequestDirector(  419): Retrying request
+I/ElegantRequestDirector(  419): I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+I/ElegantRequestDirector(  419): Retrying request
+I/ElegantRequestDirector(  419): I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+I/ElegantRequestDirector(  419): I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+I/ElegantRequestDirector(  419): Retrying request
+I/ElegantRequestDirector(  419): Retrying request
+I/ElegantRequestDirector(  419): I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+I/ElegantRequestDirector(  419): Retrying request
+D/dalvikvm(  419): GC_FOR_MALLOC freed 529K, 46% free 5529K/10055K, external 11478K/12116K, paused 89ms
+I/dalvikvm-heap(  419): Grow heap (frag case) to 19.067MB for 86400-byte allocation
+D/dalvikvm(  419): GC_FOR_MALLOC freed 29K, 46% free 5584K/10183K, external 11478K/12116K, paused 51ms
+D/dalvikvm(  419): GC_FOR_MALLOC freed 323K, 45% free 5619K/10183K, external 11781K/12116K, paused 75ms
+I/dalvikvm-heap(  419): Grow heap (frag case) to 19.485MB for 122306-byte allocation
+D/dalvikvm(  419): GC_FOR_MALLOC freed 0K, 45% free 5738K/10311K, external 11781K/12116K, paused 44ms
+I/dalvikvm-heap(  419): Grow heap (frag case) to 19.593MB for 113324-byte allocation
+D/dalvikvm(  419): GC_FOR_MALLOC freed 59K, 45% free 5790K/10439K, external 11781K/12116K, paused 54ms
+D/dalvikvm(  419): GC_FOR_MALLOC freed 55K, 46% free 5739K/10439K, external 10451K/12116K, paused 48ms
+I/dalvikvm-heap(  419): Grow heap (frag case) to 18.420MB for 245186-byte allocation
+D/dalvikvm(  419): GC_FOR_MALLOC freed <1K, 45% free 5979K/10695K, external 10451K/12116K, paused 39ms
+D/dalvikvm(  419): GC_FOR_MALLOC freed 119K, 46% free 5859K/10695K, external 10451K/12116K, paused 40ms
+I/dalvikvm-heap(  419): Grow heap (frag case) to 18.522MB for 228012-byte allocation
+D/dalvikvm(  419): GC_FOR_MALLOC freed 0K, 45% free 6082K/10951K, external 10451K/12116K, paused 45ms
+D/dalvikvm(  419): GC_FOR_MALLOC freed 117K, 46% free 5985K/10951K, external 9851K/11899K, paused 46ms
+D/dalvikvm(  419): GC_FOR_MALLOC freed 2K, 44% free 6173K/10951K, external 9851K/11899K, paused 46ms
+I/dalvikvm-heap(  419): Grow heap (frag case) to 18.140MB for 121201-byte allocation
+D/dalvikvm(  419): GC_FOR_MALLOC freed 240K, 46% free 6051K/11079K, external 9851K/11899K, paused 40ms
+D/dalvikvm(  419): GC_FOR_MALLOC freed 677K, 46% free 6054K/11079K, external 10180K/11899K, paused 61ms
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 280K, 45% free 6117K/11079K, external 11019K/11899K, paused 85ms
+I/ActivityManager(   97): Starting: Intent { act=android.intent.action.VIEW cmp=com.android.vending/com.google.android.finsky.activities.ScreenshotsActivity (has extras) } from pid 419
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 1615K, 47% free 5933K/11079K, external 11669K/12522K, paused 90ms
+I/ActivityManager(   97): Displayed com.android.vending/com.google.android.finsky.activities.ScreenshotsActivity: +425ms
+W/KeyCharacterMap(  419): No keyboard for id 131074
+W/KeyCharacterMap(  419): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [4217 ms]
+I/ActivityManager(   97): Starting: Intent { flg=0x20010000 cmp=com.android.vending/com.google.android.finsky.activities.PurchaseDialog (has extras) } from pid 419
+D/Finsky  (  419): [1] SelfUpdateScheduler.checkForSelfUpdate: Skipping self-update. Local Version [8007005] >= Server Version [0]
+I/ActivityManager(   97): Displayed com.android.vending/com.google.android.finsky.activities.PurchaseDialog: +134ms
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 1154K, 48% free 5770K/11079K, external 15699K/15717K, paused 59ms
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=PurchaseFragment] loaded in [295 ms]
+D/Finsky  (  419): [1] PurchaseFragment.continueCheckoutSizeCheck: No limit to bytes over mobile.
+D/Finsky  (  419): [1] Installer.downloadAndInstallAsset: Downloading and installing Better Terminal Emulator Pro.
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Better Terminal Emulator Pro' transitioned from (null) to (UNQUEUED).
+D/Finsky  (  419): [1] DownloadImpl.createObbDownload: Skipping obb download with state NOT_APPLICABLE
+D/Finsky  (  419): [1] DownloadImpl.createObbDownload: Skipping obb download with state NOT_APPLICABLE
+D/Finsky  (  419): [1] DownloadQueueImpl.add: Download Download : Better Terminal Emulator Pro added to DownloadQueue
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Better Terminal Emulator Pro' transitioned from (UNQUEUED) to (QUEUED).
+I/installd(   70): free_cache(347013) avail 126631936
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [15428 ms]
+D/Finsky  (  419): [1] DownloadQueueImpl.startDownload: Download Download : Better Terminal Emulator Pro starting
+D/dalvikvm(  419): GC_CONCURRENT freed 2196K, 48% free 5865K/11079K, external 10976K/12972K, paused 3ms+11ms
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Better Terminal Emulator Pro' transitioned from (QUEUED) to (DOWNLOADING).
+D/Finsky  (  419): [1] DownloadCompleteListener.onStart: Download Download : Better Terminal Emulator Pro: onStart called.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Better Terminal Emulator Pro: onProgress called with 0/-1 Status: 190.
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+I/DownloadManager(  330): Initiating request for download 58
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [16473 ms]
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Better Terminal Emulator Pro: onProgress called with 0/-1 Status: 192.
+W/KeyCharacterMap(  419): No keyboard for id 131074
+W/KeyCharacterMap(  419): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=MyDownloadsFragment] loaded in [26595 ms]
+D/dalvikvm(  419): GC_CONCURRENT freed 1968K, 47% free 5934K/11079K, external 10971K/12972K, paused 7ms+9ms
+I/DownloadManager(  330): Initiating request for download 58
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Better Terminal Emulator Pro: onProgress called with 0/347013 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Better Terminal Emulator Pro: onProgress called with 5792/347013 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Better Terminal Emulator Pro: onProgress called with 347013/347013 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Better Terminal Emulator Pro: onProgress called with 347013/347013 Status: 200.
+D/Finsky  (  419): [1] DownloadBroadcastReceiver.onReceive: Intent received at DownloadBroadcastReceiver
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Better Terminal Emulator Pro' transitioned from (DOWNLOADING) to (SUCCESS).
+D/Finsky  (  419): [1] DownloadCompleteListener.onComplete: Download Download : Better Terminal Emulator Pro: onComplete called
+D/Finsky  (  419): [1] DownloadQueueImpl.remove: Download Download : Better Terminal Emulator Pro removed from DownloadQueue
+I/installd(   70): free_cache(0) avail 126631936
+D/Finsky  (  419): [1] NotificationManager.showNotification: Showing notification: [package=com.magicandroidapps.bettertermpro, Title=Better Terminal Emulator Pro, Message=Updating "Better Terminal Emulator Pro"…]
+D/dalvikvm(  626): GC_EXPLICIT freed 4K, 50% free 2715K/5379K, external 1625K/2137K, paused 47ms
+W/ActivityManager(   97): No content provider found for: 
+W/ActivityManager(   97): No content provider found for: 
+D/PackageParser(   97): Scanning package: /data/app/vmdl63735756.tmp
+I/PackageManager(   97): Removing non-system package:com.magicandroidapps.bettertermpro
+I/ActivityManager(   97): Force stopping package com.magicandroidapps.bettertermpro uid=10064
+D/PackageManager(   97): Scanning package com.magicandroidapps.bettertermpro
+I/PackageManager(   97): Package com.magicandroidapps.bettertermpro codePath changed from /data/app/com.magicandroidapps.bettertermpro-2.apk to /data/app/com.magicandroidapps.bettertermpro-1.apk; Retaining data and using new
+I/PackageManager(   97): Unpacking native libraries for /data/app/com.magicandroidapps.bettertermpro-1.apk
+D/installd(   70): DexInv: --- BEGIN '/data/app/com.magicandroidapps.bettertermpro-1.apk' ---
+D/dalvikvm(  861): creating instr width table
+D/dalvikvm(  861): DexOpt: load 29ms, verify+opt 148ms
+D/installd(   70): DexInv: --- END '/data/app/com.magicandroidapps.bettertermpro-1.apk' (success) ---
+D/PackageManager(   97):   Services: com.magicandroidapps.bettertermpro.TermService
+D/PackageManager(   97):   Receivers: com.magicandroidapps.bettertermpro.OneShotAlarm
+D/PackageManager(   97):   Activities: com.magicandroidapps.bettertermpro.BetterTerm com.magicandroidapps.bettertermpro.BetterTermEmulator com.google.android.downloader.DownloaderActivity com.magicandroidapps.bettertermpro.TermShortcut com.magicandroidapps.bettertermpro.SshClient com.magicandroidapps.bettertermpro.BettertermProPreferences com.magicandroidapps.bettertermpro.WindowList
+I/ActivityManager(   97): Force stopping package com.magicandroidapps.bettertermpro uid=10064
+W/PackageManager(   97): Code path for pkg : com.magicandroidapps.bettertermpro changing from /data/app/com.magicandroidapps.bettertermpro-2.apk to /data/app/com.magicandroidapps.bettertermpro-1.apk
+W/PackageManager(   97): Resource path for pkg : com.magicandroidapps.bettertermpro changing from /data/app/com.magicandroidapps.bettertermpro-2.apk to /data/app/com.magicandroidapps.bettertermpro-1.apk
+D/dalvikvm(   97): GC_CONCURRENT freed 1327K, 55% free 6042K/13255K, external 3125K/3903K, paused 6ms+16ms
+I/installd(   70): move /data/dalvik-cache/data@app@com.magicandroidapps.bettertermpro-1.apk@classes.dex -> /data/dalvik-cache/data@app@com.magicandroidapps.bettertermpro-1.apk@classes.dex
+D/PackageManager(   97): New package installed in /data/app/com.magicandroidapps.bettertermpro-1.apk
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 984K, 53% free 5252K/11079K, external 10407K/11704K, paused 63ms
+I/ActivityManager(   97): Force stopping package com.magicandroidapps.bettertermpro uid=10064
+D/dalvikvm(  202): GC_EXPLICIT freed <1K, 48% free 2957K/5639K, external 4214K/5071K, paused 78ms
+D/VoiceDialerReceiver(  403): onReceive Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.magicandroidapps.bettertermpro flg=0x10000000 cmp=com.android.voicedialer/.VoiceDialerReceiver (has extras) }
+V/RecognizerEngine(  403): deleteCachedGrammarFiles /data/data/com.android.voicedialer/files/openentries.txt
+D/Finsky  (  419): [1] AssetStoreUpdater.onPackageRemoved: Ignoring package removal likely caused by update (com.magicandroidapps.bettertermpro).
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [706 ms]
+D/GTalkService(  224): handlePackageInstalled: re-initialize providers
+D/GTalkService(  224): [RawStanzaProvidersMgr] ##### searchProvidersFromIntent
+D/GTalkService(  224): [RawStanzaProvidersMgr] no intent receivers found
+D/VoiceDialerReceiver(  403): onReceive Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.magicandroidapps.bettertermpro flg=0x10000000 cmp=com.android.voicedialer/.VoiceDialerReceiver (has extras) }
+V/RecognizerEngine(  403): deleteCachedGrammarFiles /data/data/com.android.voicedialer/files/openentries.txt
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/dalvikvm(   97): GC_EXPLICIT freed 929K, 56% free 5898K/13255K, external 3125K/3903K, paused 134ms
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+I/Launcher(  202): setLoadOnResume
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+I/installd(   70): unlink /data/dalvik-cache/data@app@com.magicandroidapps.bettertermpro-2.apk@classes.dex
+D/Finsky  (  419): [7] 1.packageInstalled: Package install status for "com.magicandroidapps.bettertermpro" is 1
+D/Finsky  (  419): [7] NotificationManager.showNotification: Showing notification: [package=com.magicandroidapps.bettertermpro, Title=Better Terminal Emulator Pro, Message=Successfully updated.]
+D/dalvikvm(  419): GC_CONCURRENT freed 2125K, 48% free 5779K/11079K, external 11284K/12812K, paused 3ms+13ms
+I/ActivityManager(   97): Starting: Intent { flg=0x20010000 cmp=com.android.vending/com.google.android.finsky.activities.PurchaseDialog (has extras) } from pid 419
+D/Finsky  (  419): [1] SelfUpdateScheduler.checkForSelfUpdate: Skipping self-update. Local Version [8007005] >= Server Version [0]
+I/ActivityManager(   97): Displayed com.android.vending/com.google.android.finsky.activities.PurchaseDialog: +133ms
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=PurchaseFragment] loaded in [199 ms]
+D/Finsky  (  419): [1] PurchaseFragment.continueCheckoutSizeCheck: No limit to bytes over mobile.
+W/ActivityManager(   97): Activity pause timeout for HistoryRecord{40622e80 com.android.vending/com.google.android.finsky.activities.PurchaseDialog}
+D/Finsky  (  419): [1] Installer.downloadAndInstallAsset: Downloading and installing Amazon MP3.
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Amazon MP3' transitioned from (null) to (UNQUEUED).
+D/Finsky  (  419): [1] DownloadImpl.createObbDownload: Skipping obb download with state NOT_APPLICABLE
+D/Finsky  (  419): [1] DownloadImpl.createObbDownload: Skipping obb download with state NOT_APPLICABLE
+D/Finsky  (  419): [1] DownloadQueueImpl.add: Download Download : Amazon MP3 added to DownloadQueue
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Amazon MP3' transitioned from (UNQUEUED) to (QUEUED).
+I/installd(   70): free_cache(1709328) avail 126074880
+D/Finsky  (  419): [1] DownloadQueueImpl.startDownload: Download Download : Amazon MP3 starting
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [6572 ms]
+D/dalvikvm(  419): GC_CONCURRENT freed 1804K, 46% free 6023K/11079K, external 11392K/12812K, paused 2ms+7ms
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Amazon MP3' transitioned from (QUEUED) to (DOWNLOADING).
+D/Finsky  (  419): [1] DownloadCompleteListener.onStart: Download Download : Amazon MP3: onStart called.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 0/-1 Status: 190.
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+I/DownloadManager(  330): Initiating request for download 59
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 0/-1 Status: 192.
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [7614 ms]
+I/DownloadManager(  330): Initiating request for download 59
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 0/1709328 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 4344/1709328 Status: 192.
+D/dalvikvm(  419): GC_CONCURRENT freed 2040K, 47% free 5907K/11079K, external 11392K/12812K, paused 3ms+7ms
+W/KeyCharacterMap(  419): No keyboard for id 131074
+W/KeyCharacterMap(  419): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=MyDownloadsFragment] loaded in [39853 ms]
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 983496/1709328 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 1413576/1709328 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 1709328/1709328 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Amazon MP3: onProgress called with 1709328/1709328 Status: 200.
+D/Finsky  (  419): [1] DownloadBroadcastReceiver.onReceive: Intent received at DownloadBroadcastReceiver
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Amazon MP3' transitioned from (DOWNLOADING) to (SUCCESS).
+D/Finsky  (  419): [1] DownloadCompleteListener.onComplete: Download Download : Amazon MP3: onComplete called
+D/Finsky  (  419): [1] DownloadQueueImpl.remove: Download Download : Amazon MP3 removed from DownloadQueue
+I/installd(   70): free_cache(0) avail 126070784
+D/Finsky  (  419): [1] NotificationManager.showNotification: Showing notification: [package=com.amazon.mp3, Title=Amazon MP3, Message=Updating "Amazon MP3"…]
+D/dalvikvm(  626): GC_EXPLICIT freed 9K, 50% free 2717K/5379K, external 1625K/2137K, paused 66ms
+W/ActivityManager(   97): No content provider found for: 
+W/ActivityManager(   97): No content provider found for: 
+D/PackageParser(   97): Scanning package: /data/app/vmdl1831278781.tmp
+D/dalvikvm(   97): GC_CONCURRENT freed 993K, 52% free 6406K/13255K, external 3125K/3903K, paused 5ms+5ms
+D/dalvikvm(   97): GC_CONCURRENT freed 1581K, 52% free 6449K/13255K, external 3125K/3903K, paused 3ms+5ms
+D/dalvikvm(   97): GC_CONCURRENT freed 1713K, 51% free 6524K/13255K, external 3125K/3903K, paused 3ms+6ms
+D/PackageManager(   97): Removing package com.amazon.mp3
+D/PackageManager(   97): Unregistered content provider: com.amazon.mp3.client.SearchSuggestionProvider, className = com.amazon.mp3.client.SearchSuggestionProvider, isSyncable = false
+D/PackageManager(   97):   Providers: com.amazon.mp3.client.SearchSuggestionProvider
+D/PackageManager(   97):   Services: com.amazon.mp3.service.DownloadService com.amazon.mp3.service.LocaleService com.amazon.mp3.service.MetricsSubmissionService
+D/PackageManager(   97):   Receivers: com.amazon.mp3.client.receiver.FirstBootReceiver com.amazon.mp3.client.receiver.RetryDownloadsReceiver com.amazon.mp3.client.receiver.CheckLocaleReceiver com.amazon.mp3.client.receiver.MetricsSubmissionReceiver
+D/PackageManager(   97):   Activities: com.amazon.mp3.client.activity.LauncherActivity com.amazon.mp3.client.activity.HomeActivity com.amazon.mp3.client.activity.SearchActivity com.amazon.mp3.client.activity.IntentProxyActivity com.amazon.mp3.client.activity.DownloadActivity com.amazon.mp3.client.activity.BrowseActivity com.amazon.mp3.client.activity.AlbumDetailActivity com.amazon.mp3.client.activity.GenreBrowseActivity com.amazon.mp3.client.activity.PurchaseActivity com.amazon.mp3.client.activity.SettingsActivity com.amazon.mp3.client.activity.InvalidLocaleActivity
+D/PackageManager(   97): Scanning package com.amazon.mp3
+I/ActivityManager(   97): Force stopping package com.amazon.mp3 uid=10029
+W/PackageManager(   97): Trying to update system app code path from /system/app/com.amazon.mp3.apk to /data/app/com.amazon.mp3-1.apk
+I/PackageManager(   97): Unpacking native libraries for /data/app/com.amazon.mp3-1.apk
+D/installd(   70): DexInv: --- BEGIN '/data/app/com.amazon.mp3-1.apk' ---
+D/dalvikvm(  873): creating instr width table
+D/dalvikvm(  873): DexOpt: load 110ms, verify+opt 848ms
+D/dalvikvm(  419): GC_EXTERNAL_ALLOC freed 1121K, 53% free 5249K/11079K, external 12036K/12136K, paused 87ms
+D/installd(   70): DexInv: --- END '/data/app/com.amazon.mp3-1.apk' (success) ---
+I/ActivityManager(   97): Force stopping package com.amazon.mp3 uid=10029
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [282 ms]
+D/PackageManager(   97): Registered content provider: com.amazon.mp3.Media, className = com.amazon.mp3.amp.provider.MediaProvider, isSyncable = false
+W/PackageManager(   97): Code path for pkg : com.amazon.mp3 changing from /system/app/com.amazon.mp3.apk to /data/app/com.amazon.mp3-1.apk
+W/PackageManager(   97): Resource path for pkg : com.amazon.mp3 changing from /system/app/com.amazon.mp3.apk to /data/app/com.amazon.mp3-1.apk
+D/PackageManager(   97):   Providers: com.amazon.mp3.amp.provider.MediaProvider
+D/PackageManager(   97):   Services: com.amazon.mp3.amp.service.player.EvoProxyCheckService com.amazon.mp3.service.download.DownloadService com.amazon.mp3.service.LocaleService com.amazon.mp3.service.job.JobService com.amazon.mp3.amp.service.player.PlaybackService com.amazon.mp3.service.metrics.MetricsUploadService com.amazon.mp3.amp.service.sync.SyncService
+D/PackageManager(   97):   Receivers: com.amazon.mp3.amp.service.player.HeadsetControlsReceiver com.amazon.mp3.service.download.RetryDownloadsReceiver com.amazon.mp3.store.receiver.CheckLocaleReceiver com.amazon.mp3.store.receiver.FirstBootReceiver com.amazon.mp3.amp.widget.PlayerWidgetProvider com.amazon.mp3.service.download.AutoDownloadPurchaseReceiver com.amazon.mp3.util.MediaMountListener
+D/PackageManager(   97):   Activities: com.amazon.mp3.amp.activity.ArtistListActivity com.amazon.mp3.amp.activity.AlbumListActivity com.amazon.mp3.amp.activity.TrackListActivity com.amazon.mp3.amp.activity.PlaylistsListActivity com.amazon.mp3.client.activity.LauncherActivity com.amazon.mp3.amp.activity.LibraryHomeActivity com.amazon.mp3.activity.DashboardActivity com.amazon.mp3.activity.UpdateCheckActivity com.amazon.mp3.amp.activity.EmptyLibraryActivity com.amazon.mp3.amp.activity.playlist.EmptySmartPlaylistActivity com.amazon.mp3.amp.activity.AlbumDetailActivity com.amazon.mp3.amp.activity.nowplaying.NowPlayingListActivity com.amazon.mp3.amp.activity.nowplaying.NowPlayingActivity com.amazon.mp3.amp.activity.nowplaying.NowPlayingLockScreenActivity com.amazon.mp3.amp.activity.playlist.PlaylistDetailActivity com.amazon.mp3.amp.activity.playlist.EditPlaylistActivity com.amazon.mp3.amp.activity.playlist.AddToPlaylistActivity com.amazon.mp3.amp.activity.playlist.CreateOrRenamePlaylistActivity com.amazon.mp3.amp.activity.playlist.DeletePlaylistActivity com.amazon.mp3.amp.activity.playlist.SavePlaylistActivity com.amazon.mp3.amp.activity.ConfirmDownloadActivity com.amazon.mp3.amp.activity.playlist.AddToPlaylistPopupActivity com.amazon.mp3.amp.activity.ArtistDetailActivity com.amazon.mp3.amp.service.player.PlaybackErrorDialogActivity com.amazon.mp3.store.activity.StorefrontActivity com.amazon.mp3.store.activity.SearchResultTabActivity com.amazon.mp3.activity.IntentProxyActivity com.amazon.mp3.store.activity.BestSellingTabActivity com.amazon.mp3.store.activity.ArtistBrowseTabActivity com.amazon.mp3.store.activity.GenreBrowseTabActivity com.amazon.mp3.store.activity.NewReleaseTabActivity com.amazon.mp3.activity.download._old.DownloadActivity com.amazon.mp3.activity.download.DownloadActivity com.amazon.mp3.store.activity.AlbumActivity com.amazon.mp3.store.activity.TrackActivity com.amazon.mp3.store.activity.AlbumDetailActivity com.amazon.mp3.store.activity.GenreBrowseActivity com.amazon.mp3.store.activity.purchase.CirrusPurchaseActivity com.amazon.mp3.store.activity.purchase.PartnerServicePurchaseActivity com.amazon.mp3.activity.SettingsActivity com.amazon.mp3.activity.InvalidLocaleActivity com.amazon.mp3.activity.signin.StoreSignInActivity com.amazon.mp3.store.activity.ClaimCodeActivity com.amazon.mp3.activity.CirrusTermsOfUseActivity com.amazon.mp3.activity.ClearCacheActivity com.amazon.mp3.store.activity.EmptySearchResultActivity com.amazon.mp3.activity.signin.LibrarySignInActivity com.amazon.mp3.store.activity.FulfillmentPreferenceActivity com.amazon.mp3.amp.service.player.StreamingNetworkPreferenceActivity com.amazon.mp3.amp.activity.StreamingNetworkDialogActivity com.amazon.mp3.activity.DialogActivity com.amazon.mp3.amp.service.player.EvoProxyCheckActivity com.amazon.mp3.store.activity.AnywhereLocaleMismatchActivity
+I/installd(   70): move /data/dalvik-cache/data@app@com.amazon.mp3-1.apk@classes.dex -> /data/dalvik-cache/data@app@com.amazon.mp3-1.apk@classes.dex
+D/PackageManager(   97): New package installed in /data/app/com.amazon.mp3-1.apk
+I/ActivityManager(   97): Force stopping package com.amazon.mp3 uid=10029
+D/VoiceDialerReceiver(  403): onReceive Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.amazon.mp3 flg=0x10000000 cmp=com.android.voicedialer/.VoiceDialerReceiver (has extras) }
+V/RecognizerEngine(  403): deleteCachedGrammarFiles /data/data/com.android.voicedialer/files/openentries.txt
+D/Finsky  (  419): [1] AssetStoreUpdater.onPackageRemoved: Ignoring package removal likely caused by update (com.amazon.mp3).
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/dalvikvm(  246): GC_EXPLICIT freed 169K, 50% free 2932K/5767K, external 1625K/2137K, paused 596ms
+D/GTalkService(  224): handlePackageInstalled: re-initialize providers
+D/GTalkService(  224): [RawStanzaProvidersMgr] ##### searchProvidersFromIntent
+D/GTalkService(  224): [RawStanzaProvidersMgr] no intent receivers found
+D/VoiceDialerReceiver(  403): onReceive Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.amazon.mp3 flg=0x10000000 cmp=com.android.voicedialer/.VoiceDialerReceiver (has extras) }
+V/RecognizerEngine(  403): deleteCachedGrammarFiles /data/data/com.android.voicedialer/files/openentries.txt
+D/dalvikvm(   97): GC_CONCURRENT freed 1642K, 51% free 6623K/13255K, external 3125K/3903K, paused 3ms+14ms
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/dalvikvm(  419): GC_CONCURRENT freed 2037K, 47% free 5917K/11079K, external 11719K/13706K, paused 4ms+6ms
+I/Launcher(  202): setLoadOnResume
+D/dalvikvm(   97): GC_EXPLICIT freed 989K, 56% free 5918K/13255K, external 3125K/3903K, paused 82ms
+D/Finsky  (  419): [24] 1.packageInstalled: Package install status for "com.amazon.mp3" is 1
+D/Finsky  (  419): [24] NotificationManager.showNotification: Showing notification: [package=com.amazon.mp3, Title=Amazon MP3, Message=Successfully updated.]
+D/dalvikvm(  179): GC_CONCURRENT freed 1178K, 54% free 3209K/6855K, external 3850K/4028K, paused 2ms+7ms
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+D/dalvikvm(  782): GC_EXPLICIT freed 804K, 55% free 2740K/6023K, external 1625K/2137K, paused 84ms
+D/dalvikvm(  789): GC_EXPLICIT freed 370K, 44% free 3596K/6407K, external 1625K/2137K, paused 74ms
+V/Finsky  (  419): [1] 1.onResponse: Logged 5 analytics events successfully.
+D/dalvikvm(  797): GC_EXPLICIT freed 288K, 45% free 3437K/6151K, external 1625K/2137K, paused 70ms
+I/ActivityManager(   97): Starting: Intent { flg=0x20010000 cmp=com.android.vending/com.google.android.finsky.activities.PurchaseDialog (has extras) } from pid 419
+D/Finsky  (  419): [1] SelfUpdateScheduler.checkForSelfUpdate: Skipping self-update. Local Version [8007005] >= Server Version [0]
+I/ActivityManager(   97): Displayed com.android.vending/com.google.android.finsky.activities.PurchaseDialog: +116ms
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=PurchaseFragment] loaded in [214 ms]
+D/Finsky  (  419): [1] PurchaseFragment.continueCheckoutSizeCheck: No limit to bytes over mobile.
+D/Finsky  (  419): [1] Installer.downloadAndInstallAsset: Downloading and installing Twitter.
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Twitter' transitioned from (null) to (UNQUEUED).
+D/Finsky  (  419): [1] DownloadImpl.createObbDownload: Skipping obb download with state NOT_APPLICABLE
+D/Finsky  (  419): [1] DownloadImpl.createObbDownload: Skipping obb download with state NOT_APPLICABLE
+D/Finsky  (  419): [1] DownloadQueueImpl.add: Download Download : Twitter added to DownloadQueue
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Twitter' transitioned from (UNQUEUED) to (QUEUED).
+I/installd(   70): free_cache(1450322) avail 122490880
+D/dalvikvm(  419): GC_CONCURRENT freed 2005K, 47% free 5960K/11079K, external 11640K/13581K, paused 3ms+6ms
+D/Finsky  (  419): [1] DownloadQueueImpl.startDownload: Download Download : Twitter starting
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [24158 ms]
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Twitter' transitioned from (QUEUED) to (DOWNLOADING).
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+D/Finsky  (  419): [1] DownloadCompleteListener.onStart: Download Download : Twitter: onStart called.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 0/-1 Status: 190.
+D/dalvikvm(  330): GC_CONCURRENT freed 800K, 51% free 3255K/6535K, external 2186K/2730K, paused 2ms+7ms
+I/DownloadManager(  330): Initiating request for download 60
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 0/-1 Status: 192.
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [25124 ms]
+D/dalvikvm(  419): GC_CONCURRENT freed 2012K, 46% free 5995K/11079K, external 11645K/13581K, paused 3ms+6ms
+I/DownloadManager(  330): Initiating request for download 60
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 0/1450322 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 8192/1450322 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 1374152/1450322 Status: 192.
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 1450322/1450322 Status: 192.
+D/Finsky  (  419): [1] DownloadBroadcastReceiver.onReceive: Intent received at DownloadBroadcastReceiver
+D/Finsky  (  419): [1] DownloadCompleteListener.onProgress: Download Download : Twitter: onProgress called with 1450322/1450322 Status: 200.
+D/Finsky  (  419): [1] DownloadImpl.setState: Download 'Twitter' transitioned from (DOWNLOADING) to (SUCCESS).
+D/Finsky  (  419): [1] DownloadCompleteListener.onComplete: Download Download : Twitter: onComplete called
+D/Finsky  (  419): [1] DownloadQueueImpl.remove: Download Download : Twitter removed from DownloadQueue
+I/installd(   70): free_cache(0) avail 122486784
+D/Finsky  (  419): [1] NotificationManager.showNotification: Showing notification: [package=com.twitter.android, Title=Twitter, Message=Updating "Twitter"…]
+D/dalvikvm(  626): GC_EXPLICIT freed 10K, 50% free 2717K/5379K, external 1625K/2137K, paused 49ms
+W/ActivityManager(   97): No content provider found for: 
+W/ActivityManager(   97): No content provider found for: 
+D/PackageParser(   97): Scanning package: /data/app/vmdl-1629732453.tmp
+D/dalvikvm(   97): GC_FOR_MALLOC freed 957K, 53% free 6267K/13255K, external 3125K/3903K, paused 63ms
+D/dalvikvm(   97): GC_CONCURRENT freed 1329K, 51% free 6611K/13255K, external 3125K/3903K, paused 3ms+6ms
+D/dalvikvm(   97): GC_CONCURRENT freed 1691K, 50% free 6637K/13255K, external 3125K/3903K, paused 4ms+7ms
+D/dalvikvm(   97): GC_CONCURRENT freed 1692K, 50% free 6685K/13255K, external 3125K/3903K, paused 3ms+6ms
+D/PackageManager(   97): Removing package com.twitter.android
+D/PackageManager(   97): Unregistered content provider: com.twitter.android.provider.TwitterProvider, className = com.twitter.android.provider.TwitterProvider, isSyncable = false
+D/PackageManager(   97): Unregistered content provider: com.twitter.android.provider.UserValuesProvider, className = com.twitter.android.provider.UserValuesProvider, isSyncable = false
+D/PackageManager(   97):   Providers: com.twitter.android.provider.TwitterProvider com.twitter.android.provider.UserValuesProvider
+D/PackageManager(   97):   Services: com.twitter.android.service.TwitterService com.twitter.android.client.AppService com.twitter.android.RemoveRawContactsService com.twitter.android.platform.TwitterAuthenticationService com.twitter.android.platform.TwitterContactsSyncAdapterService com.twitter.android.platform.TwitterDataSyncAdapterService
+D/PackageManager(   97):   Receivers: com.twitter.android.AccountsChangedReceiver com.twitter.android.WidgetLargeProvider com.twitter.android.WidgetSmallProvider
+D/PackageManager(   97):   Activities: com.twitter.android.WizardStartActivity com.twitter.android.LoginActivity com.twitter.android.HtmlAboutActivity com.twitter.android.HomeActivity com.twitter.android.SettingsSyncContactsActivity com.twitter.android.SettingsActivity com.twitter.android.ProfileActivity com.twitter.android.TweetsTabActivity com.twitter.android.TimelineActivity com.twitter.android.UsersActivity com.twitter.android.ListsActivity com.twitter.android.MessagesTabActivity com.twitter.android.MessagesActivity com.twitter.android.RetweetsTabActivity com.twitter.android.MyListsTabActivity com.twitter.android.ListTabActivity com.twitter.android.ProfileActivity com.twitter.android.SearchActivity com.twitter.android.SearchTweetsActivity com.twitter.android.SearchUsersActivity com.twitter.android.TrendsTabActivity com.twitter.android.TrendsActivity com.twitter.android.StatusLocationActivity com.twitter.android.ListCreateEditActivity com.twitter.android.PostActivity com.twitter.android.platform.AuthenticatorActivity com.twitter.android.TweetActivity
+D/PackageManager(   97):   Permissions: com.twitter.android.permission.READ_DATA com.twitter.android.permission.RESTRICTED
+D/PackageManager(   97): Scanning package com.twitter.android
+I/ActivityManager(   97): Force stopping package com.twitter.android uid=10039
+W/PackageManager(   97): Trying to update system app code path from /system/app/Twitter.apk to /data/app/com.twitter.android-1.apk
+I/PackageManager(   97): Unpacking native libraries for /data/app/com.twitter.android-1.apk
+D/installd(   70): DexInv: --- BEGIN '/data/app/com.twitter.android-1.apk' ---
+D/dalvikvm(  883): creating instr width table
+D/dalvikvm(  883): DexOpt: load 68ms, verify+opt 451ms
+D/installd(   70): DexInv: --- END '/data/app/com.twitter.android-1.apk' (success) ---
+D/PackageManager(   97): Registered content provider: com.twitter.android.provider.TwitterProvider, className = com.twitter.android.provider.TwitterProvider, isSyncable = false
+D/PackageManager(   97): Registered content provider: com.twitter.android.provider.GlobalDatabaseProvider, className = com.twitter.android.provider.GlobalDatabaseProvider, isSyncable = false
+I/ActivityManager(   97): Force stopping package com.twitter.android uid=10039
+W/PackageManager(   97): Code path for pkg : com.twitter.android changing from /system/app/Twitter.apk to /data/app/com.twitter.android-1.apk
+W/PackageManager(   97): Resource path for pkg : com.twitter.android changing from /system/app/Twitter.apk to /data/app/com.twitter.android-1.apk
+D/PackageManager(   97):   Providers: com.twitter.android.provider.TwitterProvider com.twitter.android.provider.GlobalDatabaseProvider
+D/PackageManager(   97):   Services: com.twitter.android.service.TwitterService com.twitter.android.client.AppService com.twitter.android.platform.RemoveRawContactsService com.twitter.android.platform.TwitterAuthenticationService com.twitter.android.platform.TwitterContactsSyncService com.twitter.android.platform.TwitterDataSyncService com.twitter.android.platform.C2DMService com.twitter.android.service.ScribeService
+D/PackageManager(   97):   Receivers: com.twitter.android.platform.AccountsChangedReceiver com.twitter.android.client.WidgetLargeProvider com.twitter.android.client.WidgetSmallProvider com.twitter.android.client.AppBroadcastReceiver com.twitter.android.platform.InstallReferralReceiver com.twitter.android.platform.C2DMReceiver
+D/PackageManager(   97):   Activities: com.twitter.android.LoginActivity com.twitter.android.AboutActivity com.twitter.android.SettingsActivity com.twitter.android.WidgetSettingsActivity com.twitter.android.ProfileActivity com.twitter.android.HomeTabActivity com.twitter.android.TimelineActivity com.twitter.android.UsersActivity com.twitter.android.ListsActivity com.twitter.android.MessagesActivity com.twitter.android.ListTabActivity com.twitter.android.SearchActivity com.twitter.android.SearchTabActivity com.twitter.android.SearchTweetsActivity com.twitter.android.SearchUsersActivity com.twitter.android.ListCreateEditActivity com.twitter.android.PostActivity com.twitter.android.AuthenticatorActivity com.twitter.android.TweetActivity com.twitter.android.MessagesThreadActivity com.twitter.android.EditProfileActivity com.twitter.android.ProfileTabActivity com.twitter.android.DialogActivity com.twitter.android.SULActivity com.twitter.android.ConversationActivity com.twitter.android.SignUpActivity com.twitter.android.StartActivity com.twitter.android.WelcomeActivity com.twitter.android.ImageActivity com.twitter.android.WebViewActivity com.twitter.android.DraftsActivity com.twitter.android.AccountsActivity com.twitter.android.AccountSettingsActivity
+D/PackageManager(   97):   Permissions: com.twitter.android.permission.READ_DATA com.twitter.android.permission.RESTRICTED com.twitter.android.permission.C2D_MESSAGE
+I/installd(   70): move /data/dalvik-cache/data@app@com.twitter.android-1.apk@classes.dex -> /data/dalvik-cache/data@app@com.twitter.android-1.apk@classes.dex
+D/PackageManager(   97): New package installed in /data/app/com.twitter.android-1.apk
+W/PackageManager(   97): Unknown permission com.android.vending.permission.UPDATE_MARKET_FAILURE in package com.android.vending.updater
+W/PackageManager(   97): Unknown permission android.permission.ADD_SYSTEM_SERVICE in package com.android.phone
+W/PackageManager(   97): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.browser (protectionLevel=2 flags=0x9be45)
+W/PackageManager(   97): Unknown permission com.google.android.providers.gmail.permission.WRITE_GMAIL in package com.qo.android.htcgep
+W/PackageManager(   97): Unknown permission com.google.android.providers.gmail.permission.READ_GMAIL in package com.qo.android.htcgep
+W/PackageManager(   97): Not granting permission android.permission.DEVICE_POWER to package com.google.android.deskclock (protectionLevel=2 flags=0x8be45)
+W/PackageManager(   97): Unknown permission android.permission.ACCESS_COARSE in package mobi.infolife.taskmanager
+W/PackageManager(   97): Not granting permission com.google.android.gm.permission.READ_GMAIL to package com.google.android.apps.uploader (protectionLevel=2 flags=0xbe45)
+W/PackageManager(   97): Unknown permission android.permission.ACCESS_PHONE_SUB_INFO in package com.agis.android.apps.lifering
+W/PackageManager(   97): Unknown permission android.permission.READ_EXTERNAL_STORAGE in package com.android.vending
+W/PackageManager(   97): Not granting permission android.permission.CHANGE_COMPONENT_ENABLED_STATE to package com.android.vending (protectionLevel=3 flags=0xabec5)
+W/PackageManager(   97): Not granting permission android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS to package com.android.vending (protectionLevel=2 flags=0xabec5)
+W/PackageManager(   97): Unknown permission com.android.providers.im.permission.READ_ONLY in package com.google.android.apps.maps
+W/PackageManager(   97): Unknown permission com.google.android.apps.googlevoice.REMOTE_INTENT in package com.google.android.apps.googlevoice
+W/PackageManager(   97): Unknown permission com.google.android.permission.RECEIVE_DATA_MESSAGE in package com.google.android.apps.googlevoice
+W/PackageManager(   97): Unknown permission com.google.android.permission.SEND_DATA_MESSAGE in package com.google.android.apps.googlevoice
+I/ActivityManager(   97): Force stopping package com.twitter.android uid=10039
+D/VoiceDialerReceiver(  403): onReceive Intent { act=android.intent.action.PACKAGE_REMOVED dat=package:com.twitter.android flg=0x10000000 cmp=com.android.voicedialer/.VoiceDialerReceiver (has extras) }
+V/RecognizerEngine(  403): deleteCachedGrammarFiles /data/data/com.android.voicedialer/files/openentries.txt
+D/Finsky  (  419): [1] AssetStoreUpdater.onPackageRemoved: Ignoring package removal likely caused by update (com.twitter.android).
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/dalvikvm(  246): GC_EXPLICIT freed 168K, 50% free 2932K/5767K, external 1625K/2137K, paused 134ms
+D/GTalkService(  224): handlePackageInstalled: re-initialize providers
+D/GTalkService(  224): [RawStanzaProvidersMgr] ##### searchProvidersFromIntent
+D/GTalkService(  224): [RawStanzaProvidersMgr] no intent receivers found
+D/VoiceDialerReceiver(  403): onReceive Intent { act=android.intent.action.PACKAGE_ADDED dat=package:com.twitter.android flg=0x10000000 cmp=com.android.voicedialer/.VoiceDialerReceiver (has extras) }
+V/RecognizerEngine(  403): deleteCachedGrammarFiles /data/data/com.android.voicedialer/files/openentries.txt
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=DetailsFragment] loaded in [33732 ms]
+I/ActivityManager(   97): Start proc com.twitter.android for broadcast com.twitter.android/.platform.InstallReferralReceiver: pid=885 uid=10039 gids={3003, 1015}
+I/ActivityThread(  885): Pub com.twitter.android.provider.GlobalDatabaseProvider: com.twitter.android.provider.GlobalDatabaseProvider
+I/ActivityThread(  885): Pub com.twitter.android.provider.TwitterProvider: com.twitter.android.provider.TwitterProvider
+D/dalvikvm(   97): GC_CONCURRENT freed 1555K, 49% free 6876K/13255K, external 3125K/3903K, paused 4ms+42ms
+I/ActivityManager(   97): No longer want com.koushikdutta.rommanager (pid 455): hidden #16
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/dalvikvm(  419): GC_CONCURRENT freed 1946K, 45% free 6096K/11079K, external 11640K/13581K, paused 3ms+8ms
+D/dalvikvm(   97): GC_EXPLICIT freed 1163K, 56% free 5921K/13255K, external 3125K/3903K, paused 85ms
+I/VoiceActionsFactory(  514): Applications list changed, recalculating supported actions
+D/Finsky  (  419): [8] 1.packageInstalled: Package install status for "com.twitter.android" is 1
+D/Finsky  (  419): [8] NotificationManager.showNotification: Showing notification: [package=com.twitter.android, Title=Twitter, Message=Successfully updated.]
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+D/dalvikvm(  419): GC_CONCURRENT freed 2436K, 49% free 5708K/11079K, external 11525K/13569K, paused 5ms+6ms
+I/Launcher(  202): setLoadOnResume
+W/KeyCharacterMap(  419): No keyboard for id 131074
+W/KeyCharacterMap(  419): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+D/Finsky  (  419): [1] PageFragment.rebindViews: Page [class=MyDownloadsFragment] loaded in [83107 ms]
+D/Finsky  (  419): [1] 1.onResponse: Phonesky checkin succeeded for account
+D/Finsky  (  419): [1] 1.attemptNextSync: Done checking in.
+D/dalvikvm(  806): GC_EXPLICIT freed 71K, 49% free 3714K/7239K, external 1625K/2137K, paused 65ms
+I/wpa_supplicant(  250): CTRL-EVENT-STATE-CHANGE id=0 state=6 BSSID=00:00:00:00:00:00
+V/WifiMonitor(   97): Event [CTRL-EVENT-STATE-CHANGE id=0 state=6 BSSID=00:00:00:00:00:00]
+V/WifiStateTracker(   97): Changing supplicant state: COMPLETED ==> GROUP_HANDSHAKE
+I/wpa_supplicant(  250): WPA: Group rekeying completed with 00:16:b6:51:2c:53 [GTK=TKIP]
+I/wpa_supplicant(  250): CTRL-EVENT-STATE-CHANGE id=0 state=7 BSSID=00:00:00:00:00:00
+V/WifiMonitor(   97): Event [WPA: Group rekeying completed with 00:16:b6:51:2c:53 [GTK=TKIP]]
+V/WifiMonitor(   97): Event [CTRL-EVENT-STATE-CHANGE id=0 state=7 BSSID=00:00:00:00:00:00]
+V/WifiStateTracker(   97): Changing supplicant state: GROUP_HANDSHAKE ==> COMPLETED
+I/ActivityManager(   97): No longer want com.google.android.voicesearch (pid 514): hidden #16
+W/InputManagerService(   97): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@4080acb8
+I/ActivityManager(   97): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10200000 cmp=com.android.launcher/com.android.launcher2.Launcher } from pid 97
+V/RenderScript_jni(  202): surfaceCreated
+V/RenderScript_jni(  202): surfaceChanged
+D/Launcher.Model(  202): going to save icon bitmap for info=ShortcutInfo(title=adbWireless)
+D/Launcher.Model(  202): going to save icon bitmap for info=ShortcutInfo(title=LifeRing)
+D/dalvikvm(  202): GC_EXPLICIT freed 119K, 48% free 2968K/5639K, external 4387K/5071K, paused 45ms
+V/Finsky  (  419): [1] 1.onResponse: Logged 8 analytics events successfully.
+D/dalvikvm(  419): GC_EXPLICIT freed 1545K, 55% free 5045K/11079K, external 11680K/13569K, paused 95ms
+D/dalvikvm(  626): GC_EXPLICIT freed 8K, 50% free 2714K/5379K, external 1625K/2137K, paused 59ms
+D/dalvikvm(  643): GC_EXPLICIT freed 8K, 50% free 2708K/5379K, external 1625K/2137K, paused 70ms
+D/dalvikvm(  352): GC_EXPLICIT freed 21K, 50% free 2745K/5447K, external 1625K/2137K, paused 58ms
+D/dalvikvm(  403): GC_EXPLICIT freed 31K, 50% free 2710K/5379K, external 1625K/2137K, paused 60ms
+D/dalvikvm(  472): GC_EXPLICIT freed 36K, 49% free 2774K/5379K, external 1625K/2137K, paused 87ms
+D/dalvikvm(  246): GC_EXPLICIT freed 167K, 50% free 2933K/5767K, external 1625K/2137K, paused 80ms
+D/dalvikvm(  330): GC_EXPLICIT freed 405K, 52% free 3164K/6535K, external 2186K/2730K, paused 88ms
+W/KeyCharacterMap(  202): No keyboard for id 131074
+W/KeyCharacterMap(  202): Using default keymap: /system/usr/keychars/qwerty.kcm.bin
+W/InputManagerService(   97): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@406d7020
+I/ActivityManager(   97): Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.settings/.Settings } from pid 202
+V/RenderScript_jni(  202): surfaceDestroyed
+D/dalvikvm(  532): GC_EXTERNAL_ALLOC freed 402K, 49% free 3029K/5895K, external 2616K/2706K, paused 48ms
+I/ActivityManager(   97): Displayed com.android.settings/.Settings: +340ms
+D/dalvikvm(  532): GC_EXTERNAL_ALLOC freed 65K, 49% free 3056K/5895K, external 3566K/3610K, paused 33ms
+I/ActivityManager(   97): Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.DeviceInfoSettings } from pid 532
+I/ActivityManager(   97): Displayed com.android.settings/.DeviceInfoSettings: +381ms
+D/dalvikvm(  202): GC_EXPLICIT freed 84K, 47% free 3008K/5639K, external 4379K/5071K, paused 70ms
+D/lib_locapi(   97): loc_event_cb: xtra download requst
+I/wpa_supplicant(  250): CTRL-EVENT-STATE-CHANGE id=0 state=6 BSSID=00:00:00:00:00:00
+V/WifiMonitor(   97): Event [CTRL-EVENT-STATE-CHANGE id=0 state=6 BSSID=00:00:00:00:00:00]
+V/WifiStateTracker(   97): Changing supplicant state: COMPLETED ==> GROUP_HANDSHAKE
+I/wpa_supplicant(  250): WPA: Group rekeying completed with 00:16:b6:51:2c:53 [GTK=TKIP]
+I/wpa_supplicant(  250): CTRL-EVENT-STATE-CHANGE id=0 state=7 BSSID=00:00:00:00:00:00
+V/WifiMonitor(   97): Event [WPA: Group rekeying completed with 00:16:b6:51:2c:53 [GTK=TKIP]]
+V/WifiMonitor(   97): Event [CTRL-EVENT-STATE-CHANGE id=0 state=7 BSSID=00:00:00:00:00:00]
+V/WifiStateTracker(   97): Changing supplicant state: GROUP_HANDSHAKE ==> COMPLETED
+D/dalvikvm(  532): GC_EXTERNAL_ALLOC freed 118K, 48% free 3104K/5895K, external 3162K/3252K, paused 34ms
+D/dalvikvm(  419): GC_EXPLICIT freed 101K, 56% free 4944K/11079K, external 9769K/11817K, paused 84ms

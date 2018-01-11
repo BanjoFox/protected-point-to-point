@@ -1,0 +1,22 @@
+##
+## Instructions to install P3 onto an Android device
+## Note: The phone MUST be rooted for these instructions to work.
+##
+
+1. Enable USB debugging on the phone and connect your it to the computer. 
+	- You can enable USB Debugging by going to Settings > Applications > Development and checkmark USB Debugging option.
+   
+2. Extract AGIS package into a user accessible location.
+
+3. Using a text editor, open the p3.config and modify the configuration as needed.
+
+4.  Open up a terminal window and navigate to the directory where the files were extracted and go into the p3 directory.
+
+5. In the terminal type: adb.exe push [p3_files] /data/local/tmp
+	- Linux users should use: ./adb push [p3_files] /data/local/tmp
+
+6. Now type: adb shell /data/local/tmp/./p3install.sh
+
+7. Wait for P3 installer to report "Success!" 
+
+8. P3 should now be installed onto the phone.

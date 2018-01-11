@@ -1,0 +1,30 @@
+## Process this file with automake to produce Makefile.in
+
+CC = /home/pete/android/mydroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-gcc
+LD = /home/pete/android/mydroid/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/arm-eabi/bin/ld
+
+bin_PROGRAMS = \
+	p3secondary
+
+p3secondary_CFLAGS =\
+	 -I/home/pete/android/mydroid/prebuilt/ndk/android-ndk-r4/platforms/android-5/arch-arm/usr/include\
+	 -D_p3_SECONDARY=1\
+	 -Wall\
+	 -g
+
+p3secondary_SOURCES = \
+	p3secondary.c \
+	p3sec_net.c \
+	p3sec_key_handler.c \
+	p3sec_ui.c \
+	p3utils.c
+
+p3secondary_LDFLAGS = \
+	-L/home/pete/android/mydroid/prebuilt/ndk/android-ndk-r4/platforms/android-5/arch-arm/usr/lib \
+	-nostdlib\
+	 -Wl,--entry=main,-rpath-link=/home/pete/android/mydroid/prebuilt/ndk/android-ndk-r4/platforms/android-5/arch-arm/usr/lib,-dynamic-linker=/system/bin/linker \
+	-dynamic-linker=/system/bin/linker \
+	-lc
+
+p3secondary_LDADD = 
+

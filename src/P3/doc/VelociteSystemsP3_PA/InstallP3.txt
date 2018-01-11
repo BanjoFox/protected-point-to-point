@@ -1,0 +1,58 @@
+               Installing P3 on Linux
+
+These are the installation instructions for Velocite Systems P3 package on a
+Linux system.  There are three packages for different distributions of Linux.
+If a specific distribution is required and it is not included in this group,
+contact Velocite Systems.
+
+- Runtime requirement list
+
+    Distribution    Kernel level
+	------------    ------------
+	Redhat			2.6.18-274.7.1.el5
+	CentOS          2.6.18-274.7.1.el5
+	Ubuntu          2.6.31-23-generic
+
+
+- Installation files
+
+The installation files for each distribution is in the directory by that name.
+Each package includes and installation script and a README file for specific
+instructions about that package.
+
+- Install Documentation (if needed)
+
+The quick start instructions for installing Velocite Systems P3 on Linux are:
+
+  1) Login as root
+    su
+  2) Change to the appropriate directory and r and edit the appropriate configuration file
+	cd [distro_name]
+    vi p3primary.conf
+	  OR
+    vi p3secondary.conf
+  3) Run the installation script
+    ./install.sh
+
+- User Manual/Help File
+- Troubleshooting Documentation
+
+The P3 Functional Description is a PDF file. This contains appendices for
+configuring P3 and a description of error messages.
+
+
+- Running P3
+
+Currently P3 must be started manually.  An init script may be created by the
+superuser to automate this a boot time.
+
+  To start the P3 system, login as root and run the P3 startup script
+    p3run p
+	  OR
+    p3run s
+
+  To stop the P3 system, login as root and run the P3 startup script
+    p3stop p
+	  OR
+    p3stop s
+

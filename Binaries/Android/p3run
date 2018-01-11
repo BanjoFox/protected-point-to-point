@@ -1,0 +1,13 @@
+# /bin/sh
+#
+# This script must be run by root
+
+cd /data/local/tmp
+
+echo "Start p3secondary kernel module"
+insmod p3secondary.ko
+
+sleep 2
+echo "Start p3syssecondary user space application"
+./p3syssecondary &
+

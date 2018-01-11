@@ -1,0 +1,25 @@
+##
+## This is a listing of all the Important Global paths on 
+## ubuntu-test 50. 
+##
+
+## Android Development Root ##
+/android
+
+## git repo(s) ##
+# HTC Kernel Repository
+/android/msm/
+
+## Android SDK ##
+# SDK root
+/android/sdk/
+
+# adb Path
+/android/sdk/platform-tools/
+
+## Android NDK ##
+# Cross-Compiler Path
+/android/ndk/toolchains/arm-linux-androideabi-4.4.3/prebuilt/linux-x86/bin/
+
+## HTC Kernel Source ##
+/android/git/msm/

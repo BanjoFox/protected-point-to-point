@@ -1,0 +1,13 @@
+<area shape="rect" href="$p3utils_8c.html#975a78ab2e7fa09061feb9326e1c184e" title="init_kernel_comm" alt="" coords="116,157,249,184">
+<area shape="rect" href="$p3profile_8c.html#115044c21fee0be99499431a0d3cabdc" title="p3errmsg" alt="" coords="831,183,913,209">
+<area shape="rect" href="$p3pri__net_8c.html#89559a53e37dd3a7981e5fae7891cef9" title="init_pri_net" alt="" coords="137,259,228,285">
+<area shape="rect" href="$p3pri__ui_8c.html#0ce43bdeb5457b36f85edb372461084a" title="init_pri_ui" alt="" coords="143,309,223,336">
+<area shape="rect" href="$p3sec__net_8c.html#940bd831c894fe807e2e0d6b129f677c" title="init_sec_net" alt="" coords="135,360,231,387">
+<area shape="rect" href="$p3sec__ui_8c.html#e9c84cb692e9ae6ddf8cfc04d5e4870a" title="init_sec_ui" alt="" coords="139,411,227,437">
+<area shape="rect" href="$p3primaryplus_8c.html#cc723f502973364a37547be2d2e473a7" title="priplus_parse_cmdline" alt="" coords="473,448,636,475">
+<area shape="rect" href="$p3primaryplus_8c.html#54ce93c6b6ec20feb16b71e07078f3dc" title="priplus_parse_config" alt="" coords="107,512,259,539">
+<area shape="rect" href="$p3pri__key__server_8c.html#0edcd21f595ebaf5ef29d150680aef15" title="init_key_serv" alt="" coords="313,107,417,133">
+<area shape="rect" href="$p3pri__key__server_8c.html#57da622d9c7396cebb20afdad7ff5d92" title="buffer_handler" alt="" coords="499,56,611,83">
+<area shape="rect" href="$p3crypto_8c.html#cdaa80371416def48998e5ff2e8d1471" title="p3_get_key" alt="" coords="687,5,780,32">
+<area shape="rect" href="$p3pri__ui_8c.html#8d3b61a360f692580799829184723627" title="pri_ui_handler" alt="" coords="311,309,420,336">
+<area shape="rect" href="$p3sec__ui_8c.html#bc1bb60b629689bedd11f022ee01d883" title="sec_ui_handler" alt="" coords="308,411,423,437">

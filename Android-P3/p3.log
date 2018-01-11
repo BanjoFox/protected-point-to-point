@@ -1,0 +1,2327 @@
+59478] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55535.719024] batt:  99%, 4148 mV, 0 mA (0 avg), 31.7 C, 1353 mAh
+<6>[55585.783264] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55635.957702] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55686.021728] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55736.096374] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55786.158935] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55836.238922] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55886.351379] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55936.425109] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[55986.483764] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56036.698608] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56086.784149] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56136.867828] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56186.932312] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56236.992584] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56287.088500] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56337.198944] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56387.309173] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56437.402587] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56487.575775] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56537.641235] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56587.696838] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56637.758483] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56691.152923] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56741.213104] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56810.510650] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56860.584594] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56910.651641] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[56960.718597] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57010.780853] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57060.959045] batt:  99%, 4153 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57111.108703] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57161.312225] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57211.377136] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57264.062072] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57314.307586] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57364.409790] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57414.653594] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57464.712493] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57514.776397] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57564.845184] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57614.901702] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57664.958343] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57715.024383] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57770.569610] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57820.632080] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1355 mAh
+<6>[57870.691497] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57920.754333] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[57970.812225] batt:  99%, 4148 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[58020.876159] batt:  99%, 4153 mV, 0 mA (0 avg), 31.8 C, 1353 mAh
+<6>[58020.876831] batt: charging POKE CHARGER
+<6>[58070.937652] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1355 mAh
+<6>[58120.995910] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1355 mAh
+<6>[58171.054748] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1355 mAh
+<6>[58221.114196] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1353 mAh
+<6>[58271.177764] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1353 mAh
+<6>[58321.243927] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1353 mAh
+<6>[58371.296051] batt:  99%, 4148 mV, 0 mA (0 avg), 32.0 C, 1353 mAh
+<6>[58395.939392] msm72k_udc: msm72k_udc: suspend
+<6>[58397.453308] cable_status_update: status=0
+<6>[58397.453796] msm72k_udc: ONLINE -> OFFLINE
+<6>[58397.454406] msm_hsusb: disable pullup
+<4>[58397.454742] ### notify_usb_connected(0) ###
+<6>[58397.455108] msm72k_udc: usb_ept_queue_xfer() called while offline
+<6>[58397.455871] adb_release
+<6>[58397.456848] adb_open
+<3>[58397.457702] init: sys_prop: permission denied uid:2000  name:adb.connected
+<6>[58397.459045] usb: notify offline
+<3>[58397.481658] init: sys_prop: permission denied uid:2000  name:adb.connected
+<6>[58397.483428] adb_release
+<6>[58397.483917] adb_open
+<6>[58397.517669] msm_hsusb_phy_reset: success
+<6>[58397.527740] batt: charging OFF [FULL]
+<6>[58397.608917] sony_tft_set_pwm_val: 18
+<6>[58397.625000] sony_tft_set_pwm_val: 17
+<6>[58397.641662] sony_tft_set_pwm_val: 16
+<6>[58397.657806] sony_tft_set_pwm_val: 15
+<6>[58397.674133] sony_tft_set_pwm_val: 14
+<6>[58397.690429] sony_tft_set_pwm_val: 13
+<6>[58397.706939] sony_tft_set_pwm_val: 12
+<6>[58397.723083] sony_tft_set_pwm_val: 11
+<6>[58397.739410] sony_tft_set_pwm_val: 10
+<6>[58397.763336] sony_tft_set_pwm_val: 8
+<6>[58397.772857] sony_tft_set_pwm_val: 7
+<6>[58397.788635] sony_tft_set_pwm_val: 6
+<6>[58397.803955] sony_tft_set_pwm_val: 5
+<6>[58397.820220] sony_tft_set_pwm_val: 4
+<6>[58397.836486] sony_tft_set_pwm_val: 3
+<6>[58397.852813] sony_tft_set_pwm_val: 2
+<6>[58397.869476] sony_tft_set_pwm_val: 1
+<6>[58397.885650] request_suspend_state: sleep (0->3) at 58393158193446 (2011-10-11 13:39:53.886474629 UTC)
+<7>[58397.886657] flashlight_control: mode 0 -> 0
+<6>[58397.887023] flashlight_control: off
+<6>[58397.889251] capella_cm3602_ioctl cmd 1
+<6>[58397.890686] sony_tft_set_pwm_val: 0
+<6>[58397.899780] lcdc_blank: ()
+<6>[58397.900421] sony_tft_panel_blank: +()
+<6>[58397.905059] capella_cm3602_ioctl cmd 1
+<6>[58398.218231] sony_tft_panel_blank: -()
+<6>[58398.219604] mahimahi_ts_power: power 0
+<6>[58398.230529] lcdc_suspend: suspending
+<4>[58398.330932] save exit: isCheckpointed 1
+<4>[58398.404205] save exit: isCheckpointed 1
+<4>[58398.458129] save exit: isCheckpointed 1
+<6>[58398.617584] suspend: enter suspend
+<6>[58398.617980] PM: Syncing filesystems ... done.
+<4>[58398.697967] Freezing user space processes ... (elapsed 0.02 seconds) done.
+<4>[58398.721343] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58398.745605] power_suspend_late return 0
+<6>[58398.745605] clocks on: uart_clk
+<6>[58398.746063] wakeup wake lock: gpio_kp
+<4>[58398.754577] Restarting tasks ... done.
+<6>[58398.797821] suspend: exit suspend, ret = 0 (2011-10-11 13:40:02.544494628 UTC)
+<6>[58398.798522] active wake lock PowerManagerService
+<6>[58398.798889] active wake lock gpio_kp
+<6>[58398.799560] suspend: abort suspend
+<6>[58399.017089] suspend: enter suspend
+<6>[58399.017486] PM: Syncing filesystems ... done.
+<4>[58399.097442] Freezing user space processes ... (elapsed 0.02 seconds) done.
+<4>[58399.120697] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58399.143341] power_suspend_late return 0
+<6>[58399.143341] clocks on: uart_clk
+<6>[58399.143859] wakeup wake lock: gpio_input
+<4>[58399.151977] Restarting tasks ... 
+<6>[58399.162689] request_suspend_state: wakeup (3->0) at 58394436208607 (2011-10-11 13:40:04.511932373 UTC)
+<6>[58399.174835] capella_cm3602_ioctl cmd 2
+<6>[58399.175231] capella_cm3602_disable
+<6>[58399.175903] capella_cm3602_disable: already disabled
+<6>[58399.176269] capella_cm3602_ioctl cmd 1
+<4>[58399.178131] done.
+<6>[58399.178863] suspend: exit suspend, ret = 0 (2011-10-11 13:40:04.528137207 UTC)
+<6>[58399.179260] active wake lock main
+<6>[58399.179626] active wake lock PowerManagerService
+<6>[58399.186676] capella_cm3602_ioctl cmd 1
+<6>[58399.190734] sony_tft_set_pwm_val: 1
+<6>[58399.220062] suspend: abort suspend
+<6>[58399.220275] lcdc_resume: resuming
+<6>[58399.231689] mahimahi_ts_power: power 1
+<6>[58399.261840] sony_tft_set_pwm_val: 3
+<6>[58399.264221] sony_tft_set_pwm_val: 4
+<6>[58399.266418] lcdc_unblank: ()
+<6>[58399.266784] sony_tft_panel_unblank: +()
+<6>[58399.596527] sony_tft_set_pwm_val: 4
+<6>[58399.597045] sony_tft_panel_unblank: -()
+<6>[58399.597106] sony_tft_set_pwm_val: 5
+<6>[58399.597595] sony_tft_set_pwm_val: 26
+<6>[58399.604217] sony_tft_set_pwm_val: 27
+<6>[58399.620666] sony_tft_set_pwm_val: 29
+<6>[58399.638732] sony_tft_set_pwm_val: 30
+<6>[58399.658416] sony_tft_set_pwm_val: 31
+<6>[58399.675720] sony_tft_set_pwm_val: 32
+<6>[58399.691192] sony_tft_set_pwm_val: 33
+<6>[58399.707794] sony_tft_set_pwm_val: 34
+<6>[58399.724121] sony_tft_set_pwm_val: 35
+<6>[58399.741088] sony_tft_set_pwm_val: 36
+<6>[58399.756042] sony_tft_set_pwm_val: 37
+<6>[58399.772369] sony_tft_set_pwm_val: 39
+<6>[58399.788665] sony_tft_set_pwm_val: 40
+<6>[58399.804962] sony_tft_set_pwm_val: 41
+<6>[58399.821624] sony_tft_set_pwm_val: 42
+<6>[58399.837829] sony_tft_set_pwm_val: 43
+<6>[58399.854095] sony_tft_set_pwm_val: 44
+<6>[58399.870666] sony_tft_set_pwm_val: 45
+<6>[58399.887237] sony_tft_set_pwm_val: 46
+<6>[58399.903350] sony_tft_set_pwm_val: 47
+<6>[58399.919647] sony_tft_set_pwm_val: 49
+<6>[58399.936004] sony_tft_set_pwm_val: 50
+<6>[58399.952453] sony_tft_set_pwm_val: 51
+<6>[58399.968170] sony_tft_set_pwm_val: 52
+<6>[58399.984466] sony_tft_set_pwm_val: 53
+<6>[58400.000793] sony_tft_set_pwm_val: 54
+<6>[58400.017089] sony_tft_set_pwm_val: 55
+<6>[58400.033386] sony_tft_set_pwm_val: 56
+<6>[58400.049682] sony_tft_set_pwm_val: 58
+<6>[58400.065979] sony_tft_set_pwm_val: 59
+<6>[58400.082946] sony_tft_set_pwm_val: 60
+<6>[58400.098846] sony_tft_set_pwm_val: 61
+<6>[58400.115142] sony_tft_set_pwm_val: 62
+<6>[58400.131408] sony_tft_set_pwm_val: 63
+<6>[58400.147735] sony_tft_set_pwm_val: 64
+<6>[58400.164062] sony_tft_set_pwm_val: 65
+<6>[58400.180450] sony_tft_set_pwm_val: 66
+<6>[58400.207336] sony_tft_set_pwm_val: 68
+<6>[58400.213562] sony_tft_set_pwm_val: 69
+<6>[58400.230163] sony_tft_set_pwm_val: 70
+<6>[58412.065795] batt:  99%, 4128 mV, -161 mA (0 avg), 32.1 C, 1353 mAh
+<6>[58415.943450] disabling adb
+<6>[58415.943572] msm_hsusb: disable pullup
+<6>[58415.956573] msm_hsusb: enable pullup
+<6>[58415.956756] adb_release
+<6>[58462.205871] batt:  99%, 4123 mV, -155 mA (-171 avg), 31.8 C, 1350 mAh
+<6>[58491.933532] sony_tft_set_pwm_val: 66
+<6>[58491.948486] sony_tft_set_pwm_val: 63
+<6>[58491.965026] sony_tft_set_pwm_val: 60
+<6>[58491.980895] sony_tft_set_pwm_val: 57
+<6>[58491.997192] sony_tft_set_pwm_val: 54
+<6>[58492.013458] sony_tft_set_pwm_val: 51
+<6>[58492.029724] sony_tft_set_pwm_val: 48
+<6>[58492.046020] sony_tft_set_pwm_val: 45
+<6>[58492.062347] sony_tft_set_pwm_val: 41
+<6>[58492.078643] sony_tft_set_pwm_val: 38
+<6>[58492.095550] sony_tft_set_pwm_val: 35
+<6>[58492.111907] sony_tft_set_pwm_val: 32
+<6>[58492.128326] sony_tft_set_pwm_val: 29
+<6>[58492.144165] sony_tft_set_pwm_val: 26
+<6>[58492.160491] sony_tft_set_pwm_val: 23
+<6>[58492.175872] sony_tft_set_pwm_val: 20
+<6>[58498.935272] sony_tft_set_pwm_val: 16
+<6>[58498.949401] sony_tft_set_pwm_val: 13
+<6>[58498.965728] sony_tft_set_pwm_val: 10
+<6>[58498.982086] sony_tft_set_pwm_val: 6
+<6>[58498.998443] sony_tft_set_pwm_val: 3
+<6>[58499.014923] request_suspend_state: sleep (0->3) at 58494288442480 (2011-10-11 13:41:44.364166246 UTC)
+<7>[58499.015869] flashlight_control: mode 0 -> 0
+<6>[58499.016235] flashlight_control: off
+<6>[58499.017059] capella_cm3602_ioctl cmd 1
+<6>[58499.019195] sony_tft_set_pwm_val: 0
+<6>[58499.026947] capella_cm3602_ioctl cmd 1
+<6>[58499.030120] lcdc_blank: ()
+<6>[58499.030517] sony_tft_panel_blank: +()
+<6>[58499.279693] sony_tft_panel_blank: -()
+<6>[58499.281280] mahimahi_ts_power: power 0
+<6>[58499.290466] lcdc_suspend: suspending
+<4>[58499.367431] save exit: isCheckpointed 1
+<4>[58499.482879] save exit: isCheckpointed 1
+<6>[58499.516784] active wake lock SMD_DS, time left 13
+<6>[58499.646545] wake lock SMD_DS, expired
+<4>[58499.720275] save exit: isCheckpointed 1
+<6>[58499.796600] suspend: enter suspend
+<6>[58499.796997] PM: Syncing filesystems ... done.
+<4>[58499.876953] Freezing user space processes ... (elapsed 0.02 seconds) done.
+<4>[58499.902496] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58499.925445] power_suspend_late return 0
+<6>[58499.925445] clocks on: uart_clk
+<6>[58499.931335] wakeup wake lock: SMD_RPCCALL
+<4>[58499.938110] Restarting tasks ... done.
+<6>[58499.979736] suspend: exit suspend, ret = 0 (2011-10-11 13:41:49.543151855 UTC)
+<6>[58499.980102] active wake lock PowerManagerService
+<6>[58499.980804] suspend: abort suspend
+<4>[58500.271301] save exit: isCheckpointed 1
+<6>[58500.345977] suspend: enter suspend
+<6>[58500.346252] PM: Syncing filesystems ... done.
+<4>[58500.426177] Freezing user space processes ... (elapsed 0.02 seconds) done.
+<4>[58500.451568] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58500.474151] power_suspend_late return 0
+<6>[58500.474151] clocks on: uart_clk
+<6>[58500.480010] wakeup wake lock: SMD_RPCCALL
+<4>[58500.486877] Restarting tasks ... done.
+<6>[58500.498809] suspend: exit suspend, ret = 0 (2011-10-11 13:41:59.513458252 UTC)
+<6>[58500.499176] active wake lock alarm_rtc, time left 98
+<6>[58500.499847] suspend: abort suspend
+<6>[58501.086212] batt:  99%, 4138 mV, -5 mA (-145 avg), 30.8 C, 1347 mAh
+<6>[58501.245056] suspend: enter suspend
+<6>[58501.245452] PM: Syncing filesystems ... done.
+<4>[58501.325439] Freezing user space processes ... (elapsed 0.02 seconds) done.
+<4>[58501.351165] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58501.374084] power_suspend_late return 0
+<6>[58501.374084] clocks on: uart_clk
+<6>[58501.374755] wakeup wake lock: gpio_input
+<4>[58501.383117] Restarting tasks ... 
+<6>[58501.393218] request_suspend_state: wakeup (3->0) at 58496668722077 (2011-10-11 13:42:46.511230469 UTC)
+<6>[58501.407714] capella_cm3602_ioctl cmd 2
+<6>[58501.408081] capella_cm3602_disable
+<6>[58501.408447] capella_cm3602_disable: already disabled
+<6>[58501.409118] capella_cm3602_ioctl cmd 1
+<4>[58501.410797] done.
+<6>[58501.411224] suspend: exit suspend, ret = 0 (2011-10-11 13:42:46.529266357 UTC)
+<6>[58501.411926] active wake lock main
+<6>[58501.412292] active wake lock PowerManagerService
+<6>[58501.419128] capella_cm3602_ioctl cmd 1
+<6>[58501.424743] sony_tft_set_pwm_val: 4
+<6>[58501.434661] suspend: abort suspend
+<6>[58501.435089] lcdc_resume: resuming
+<6>[58501.457489] mahimahi_ts_power: power 1
+<6>[58501.466400] lcdc_unblank: ()
+<6>[58501.466552] sony_tft_panel_unblank: +()
+<6>[58501.567230] gpio_keys_scan_keys: key 1-74, 0 (94) continue debounce
+<6>[58501.914520] sony_tft_set_pwm_val: 4
+<6>[58501.915008] sony_tft_panel_unblank: -()
+<6>[58501.915069] sony_tft_set_pwm_val: 9
+<6>[58501.915588] sony_tft_set_pwm_val: 70
+<6>[58501.926879] sony_tft_set_pwm_val: 69
+<6>[58501.944061] sony_tft_set_pwm_val: 68
+<6>[58501.957244] sony_tft_set_pwm_val: 67
+<6>[58501.992858] sony_tft_set_pwm_val: 66
+<6>[58502.011291] sony_tft_set_pwm_val: 65
+<6>[58502.025085] sony_tft_set_pwm_val: 64
+<6>[58502.057647] sony_tft_set_pwm_val: 63
+<6>[58502.073944] sony_tft_set_pwm_val: 62
+<6>[58502.090545] sony_tft_set_pwm_val: 61
+<6>[58502.122863] sony_tft_set_pwm_val: 60
+<6>[58502.139160] sony_tft_set_pwm_val: 59
+<6>[58502.155639] sony_tft_set_pwm_val: 58
+<6>[58502.187286] sony_tft_set_pwm_val: 57
+<6>[58502.204101] sony_tft_set_pwm_val: 56
+<6>[58502.219055] sony_tft_set_pwm_val: 55
+<6>[58502.251770] sony_tft_set_pwm_val: 54
+<6>[58502.269134] sony_tft_set_pwm_val: 53
+<6>[58502.285278] sony_tft_set_pwm_val: 52
+<6>[58502.317077] sony_tft_set_pwm_val: 51
+<6>[58502.333984] sony_tft_set_pwm_val: 50
+<6>[58502.349822] sony_tft_set_pwm_val: 49
+<6>[58502.382415] sony_tft_set_pwm_val: 48
+<6>[58502.399261] sony_tft_set_pwm_val: 47
+<6>[58502.415191] sony_tft_set_pwm_val: 46
+<6>[58502.448638] sony_tft_set_pwm_val: 45
+<6>[58502.463470] sony_tft_set_pwm_val: 44
+<6>[58502.479766] sony_tft_set_pwm_val: 43
+<6>[58502.513244] sony_tft_set_pwm_val: 42
+<6>[58502.529510] sony_tft_set_pwm_val: 41
+<6>[58502.545593] sony_tft_set_pwm_val: 40
+<6>[58502.577423] sony_tft_set_pwm_val: 39
+<6>[58502.594390] sony_tft_set_pwm_val: 38
+<6>[58502.610748] sony_tft_set_pwm_val: 37
+<6>[58502.642272] sony_tft_set_pwm_val: 36
+<6>[58502.658599] sony_tft_set_pwm_val: 35
+<6>[58502.673889] sony_tft_set_pwm_val: 34
+<6>[58502.706420] sony_tft_set_pwm_val: 33
+<6>[58502.722686] sony_tft_set_pwm_val: 32
+<6>[58502.738952] sony_tft_set_pwm_val: 31
+<6>[58502.771728] sony_tft_set_pwm_val: 30
+<6>[58502.787994] sony_tft_set_pwm_val: 29
+<6>[58502.804779] sony_tft_set_pwm_val: 28
+<6>[58502.837280] sony_tft_set_pwm_val: 27
+<6>[58502.854064] sony_tft_set_pwm_val: 26
+<6>[58502.869689] sony_tft_set_pwm_val: 25
+<6>[58505.060852] batt:  99%, 4109 mV, -124 mA (-8 avg), 30.3 C, 1347 mAh
+<3>[58542.669311] init: sys_prop: permission denied uid:2000  name:adb.connected
+<3>[58549.109588] init: sys_prop: permission denied uid:2000  name:adb.connected
+<6>[58555.134155] batt:  99%, 4123 mV, -138 mA (-133 avg), 30.3 C, 1345 mAh
+<6>[58565.110412] sony_tft_set_pwm_val: 23
+<6>[58565.126892] sony_tft_set_pwm_val: 22
+<6>[58565.143157] sony_tft_set_pwm_val: 21
+<6>[58565.159484] sony_tft_set_pwm_val: 20
+<6>[58565.280578] sony_tft_set_pwm_val: 21
+<6>[58565.329650] sony_tft_set_pwm_val: 22
+<6>[58565.377807] sony_tft_set_pwm_val: 23
+<6>[58565.427490] sony_tft_set_pwm_val: 24
+<6>[58565.476043] sony_tft_set_pwm_val: 25
+<7>[58596.462829] RAM disk c6e64000
+<5>[58596.462951] p3secondary: Initialization complete
+<7>[58598.472808] Open RAM disk
+<7>[58598.483398] Enter ioctl handler
+<7>[58598.483734] Write ioctl command
+<7>[58598.484069] Enter parse P3 data
+<7>[58598.484405] Exit parse P3 data
+<7>[58598.486022] Enter ioctl handler
+<7>[58598.486389] Write ioctl command
+<7>[58598.488494] Enter parse P3 data
+<7>[58598.488830] Enter build P3 table
+<7>[58598.490325] Exit build P3 table
+<7>[58598.490692] Enter build P3 table
+<7>[58598.490997] Exit build P3 table
+<7>[58598.491607] Initialize session for unit testing
+<7>[58598.491943] Set keys for unit testing
+<7>[58598.492279] Initialize crypto for unit testing
+<7>[58598.492889] Call init crypto: c7d7e484, 16
+<7>[58598.493286] Initial Key: b1e61b5085baef24598ec3f82d6297cc
+<7>[58598.493682] Exit init crypto
+<7>[58598.494262] Exit parse P3 data
+<7>[58598.495452] P3 dest subnet found: pkt c6cb3c94, sysnet c6f33180
+<7>[58598.496093] Set dev out: c73772a0 Proto c044c4cc Net c050b500 Dev (null)
+<7>[58598.496429]   Prot 0 Type 0
+<7>[58598.496795]   Loc 0000:0000:0000 Rem 0000:0000:0000
+<7>[58598.497406] Set raw: SK c786b400 Dst c6dbf0e0
+<7>[58598.497741] Kernel intercept: set Raw socket
+<6>[58605.222900] batt:  99%, 4123 mV, -128 mA (-166 avg), 30.3 C, 1342 mAh
+<4>[58627.440948] mmc1: Starting deferred resume
+<4>[58627.612060] mmc1: Deferred resume completed
+<7>[58628.586303] P3 dest subnet found: pkt c6d5dbbc, sysnet c6cfeef0
+<7>[58628.586853] Pkt (Len 60): 
+<7>[58628.586883]   4500003c 37084000 40068001 c0a8005f 
+<7>[58628.586883]   c0a80203 bd8f005a 4462c9ca 00000000 
+<7>[58628.586914]   a00216d0 e2510000 020405b4 0402080a 
+<7>[58628.586914]   0058fec2 00000000 01030301
+<7>[58628.588348] Reduce MSS from 1460 to 1388
+<7>[58628.588775] Obfuscate pkt: New len 204
+<7>[58628.588989] Obfuscate
+<7>[58628.589233] Blocks: 3, Sizes: Pkt 60 Len 176, USec acae9
+<7>[58628.589630] Idx 2 Loc 3 Len 23 From 37
+<7>[58628.589874]   PadSz 107 Step 8 PadBy 2
+<7>[58628.590118] Idx 1 Loc 136 Len 16 From 21
+<7>[58628.590545] Idx 0 Loc 155 Len 21 From 0
+<7>[58628.590759] Encrypt pkt Seq 1
+<7>[58628.591125] P3 Hdr:  450000cc a65e4000 8032cdf0 c0a8005f c0a80401 00000000 00000001
+<7>[58628.591552] Kernel intercept: handle P3 data packet
+<7>[58628.591796] SKB: c6cfeef0, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58628.592224]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58628.592437]   DT c6e63494, MH (null), NH c6e63494, TH c6e634a8
+<7>[58628.592864]   HD c6e63400, Tail c6e634d0, End c6e634e0
+<7>[58628.593109] New SKB: c6f33180, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58628.593536]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58628.593963]   DT c6c8b494, MH (null), NH c6c8b494, TH c6c8b4a8
+<7>[58628.594207]   HD c6c8b400, Tail c6c8b560, End c6c8b580
+<7>[58628.594726] Exit packet intercept (c6f33180)
+<7>[58628.597442] P3 source host found: pkt c72c1d0c, sysnet c6f33180
+<7>[58628.597717] Set dev in: c73772a0 Proto c044c4cc Net c050b500 Dev c72b2c00
+<7>[58628.598114]   Prot 2048 Type 2048
+<7>[58628.598358]   Loc 9021:5507:4c10 Rem 000c:29b6:b3de
+<7>[58628.598785] Decrypt packet: Seq 1
+<7>[58628.599060] Deobfuscate packet: New Len 176
+<7>[58628.599304] Idx 1 Loc 3 Len 142
+<7>[58628.599700] Idx 0 Loc 148 Len 28
+<7>[58628.600219] Pkt (Len 60): 
+<7>[58628.600250]   4500003c 12dd4000 7f06652c c0a80203 
+<7>[58628.600250]   c0a8005f 005abd8f 3d27d80e 4462c9cb 
+<7>[58628.600250]   a0122000 480d0000 0204056c 01030308 
+<7>[58628.600280]   0402080a 061e75f0 0058fec2
+<7>[58628.601715] Kernel intercept: handle P3 data packet
+<7>[58628.601959] SKB: c6f33180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58628.602386]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58628.602600]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b460
+<7>[58628.603027]   HD c6c8b400, Tail c6c8b52c, End c6c8b560
+<7>[58628.603271] New SKB: c6f33180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58628.603698]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58628.603942]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b474
+<7>[58628.604339]   HD c6c8b400, Tail c6c8b49c, End c6c8b560
+<7>[58628.604675] Exit packet intercept (c6f33180)
+<7>[58628.625488] P3 dest subnet found: pkt c6d5dcdc, sysnet c73dce60
+<7>[58628.625701] Pkt (Len 52): 
+<7>[58628.625701]   45000034 37094000 40068008 c0a8005f 
+<7>[58628.625732]   c0a80203 bd8f005a 4462c9cb 3d27d80f 
+<7>[58628.625732]   80100b68 8b260000 0101080a 0058fec6 
+<7>[58628.625732]   061e75f0
+<7>[58628.626403] Obfuscate pkt: New len 204
+<7>[58628.626525] Obfuscate
+<7>[58628.626739] Blocks: 3, Sizes: Pkt 52 Len 176, USec b5d6c
+<7>[58628.626831] Idx 2 Loc 3 Len 13 From 39
+<7>[58628.626953]   PadSz 115 Step 11 PadBy 1
+<7>[58628.627136] Idx 1 Loc 134 Len 22 From 17
+<7>[58628.627258] Idx 0 Loc 159 Len 17 From 0
+<7>[58628.627349] Encrypt pkt Seq 2
+<7>[58628.627624] P3 Hdr:  450000cc a65f4000 8032cdef c0a8005f c0a80401 00000000 00000002
+<7>[58628.627716] Kernel intercept: handle P3 data packet
+<7>[58628.627929] SKB: c73dce60, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58628.628021]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58628.628234]   DT c6e6349c, MH (null), NH c6e6349c, TH c6e634b0
+<7>[58628.628356]   HD c6e63400, Tail c6e634d0, End c6e634e0
+<7>[58628.628570] New SKB: c6f330c0, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58628.628753]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58628.628875]   DT c6e65c9c, MH (null), NH c6e65c9c, TH c6e65cb0
+<7>[58628.629058]   HD c6e65c00, Tail c6e65d68, End c6e65d80
+<7>[58628.629211] Exit packet intercept (c6f330c0)
+<7>[58638.542266] P3 dest subnet found: pkt c6d5db94, sysnet c6cfeef0
+<7>[58638.543884] Pkt (Len 252): 
+<7>[58638.543914]   450000fc 370a4000 40067f3f c0a8005f 
+<7>[58638.543945]   c0a80203 bd8f005a 4462c9cb 3d27d80f 
+<7>[58638.543945]   80180b68 eb0c0000 0101080a 005902a5 
+<7>[58638.543975]   061e75f0 41474953 5443500a 52656369 
+<7>[58638.543975]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58638.544006]   53656e64 65723a20 35353535 35353535
+<7>[58638.547149] Obfuscate pkt: New len 668
+<7>[58638.547454] Obfuscate
+<7>[58638.547821] Blocks: 3, Sizes: Pkt 252 Len 640, USec a2925
+<7>[58638.548461] Idx 2 Loc 3 Len 102 From 150
+<7>[58638.548797]   PadSz 379 Step 12 PadBy 2
+<7>[58638.549194] Idx 1 Loc 487 Len 84 From 66
+<7>[58638.549835] Idx 0 Loc 574 Len 66 From 0
+<7>[58638.550170] Encrypt pkt Seq 3
+<7>[58638.550781] P3 Hdr:  4500029c a6604000 8032cc1e c0a8005f c0a80401 00000000 00000003
+<7>[58638.551422] Kernel intercept: handle P3 data packet
+<7>[58638.551788] SKB: c6cfeef0, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58638.552398]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58638.553039]   DT c72fa8ac, MH (null), NH c72fa8ac, TH c72fa8c0
+<7>[58638.553375]   HD c72fa800, Tail c72fa9a8, End c72fae40
+<7>[58638.554016] New SKB: c73dce60, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58638.554382]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58638.555053]   DT c6e930ac, MH (null), NH c6e930ac, TH c6e930c0
+<7>[58638.555389]   HD c6e93000, Tail c6e93348, End c6e937e0
+<7>[58638.556091] Exit packet intercept (c73dce60)
+<7>[58638.814605] P3 dest subnet found: pkt c0421d0c, sysnet c6cfeef0
+<7>[58638.816223] Pkt (Len 252): 
+<7>[58638.816253]   450000fc 370b4000 40067f3e c0a8005f 
+<7>[58638.816284]   c0a80203 bd8f005a 4462c9cb 3d27d80f 
+<7>[58638.816284]   80180b68 eaf00000 0101080a 005902c1 
+<7>[58638.816314]   061e75f0 41474953 5443500a 52656369 
+<7>[58638.816314]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58638.816345]   53656e64 65723a20 35353535 35353535
+<7>[58638.819091] Obfuscate pkt: New len 668
+<7>[58638.819671] Obfuscate
+<7>[58638.820037] Blocks: 2, Sizes: Pkt 252 Len 640, USec e507e
+<7>[58638.820373] Idx 1 Loc 3 Len 144 From 108
+<7>[58638.820983]   PadSz 382 Step 13 PadBy 3
+<7>[58638.821380] Idx 0 Loc 532 Len 108 From 0
+<7>[58638.821716] Encrypt pkt Seq 4
+<7>[58638.822631] P3 Hdr:  4500029c a6614000 8032cc1d c0a8005f c0a80401 00000000 00000004
+<7>[58638.822967] Kernel intercept: handle P3 data packet
+<7>[58638.823608] SKB: c6cfeef0, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58638.823974]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58638.824584]   DT c72fa8ac, MH (null), NH c72fa8ac, TH c72fa8c0
+<7>[58638.825195]   HD c72fa800, Tail c72fa9a8, End c72fae40
+<7>[58638.825592] New SKB: c73dce60, SK c6e915e0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58638.826232]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58638.826568]   DT c6e930ac, MH (null), NH c6e930ac, TH c6e930c0
+<7>[58638.827209]   HD c6e93000, Tail c6e93348, End c6e937e0
+<7>[58638.827606] Exit packet intercept (c73dce60)
+<7>[58638.838012] P3 source host found: pkt c72c1d0c, sysnet c73dce60
+<7>[58638.838348] Decrypt packet: Seq 3
+<7>[58638.838745] Deobfuscate packet: New Len 176
+<7>[58638.839385] Idx 1 Loc 3 Len 141
+<7>[58638.839721] Idx 0 Loc 147 Len 29
+<7>[58638.840576] Pkt (Len 64): 
+<7>[58638.840576]   45000040 12e44000 7f066521 c0a80203 
+<7>[58638.840606]   c0a8005f 005abd8f 3d27d88b 4462ca93 
+<7>[58638.840606]   b0100102 392e0000 0101080a 061e79f0 
+<7>[58638.840637]   005902a5 0101050a 4462c9cb 4462ca93
+<7>[58638.842773] Kernel intercept: handle P3 data packet
+<7>[58638.843414] SKB: c73dce60, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58638.843780]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58638.844421]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b460
+<7>[58638.844818]   HD c6c8b400, Tail c6c8b52c, End c6c8b560
+<7>[58638.845458] New SKB: c73dce60, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58638.845794]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58638.846405]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b474
+<7>[58638.846771]   HD c6c8b400, Tail c6c8b4a0, End c6c8b560
+<7>[58638.847473] Exit packet intercept (c73dce60)
+<6>[58655.396240] batt:  98%, 4123 mV, -134 mA (-140 avg), 30.3 C, 1340 mAh
+<7>[58660.314056] P3 source host found: pkt c72c1d0c, sysnet c73dc860
+<7>[58660.314422] Decrypt packet: Seq 11
+<7>[58660.315124] Deobfuscate packet: New Len 176
+<7>[58660.315490] Idx 2 Loc 3 Len 141
+<7>[58660.315826] Idx 1 Loc 147 Len 13
+<7>[58660.316162] Idx 0 Loc 163 Len 13
+<7>[58660.316772] Pkt (Len 40): 
+<7>[58660.316772]   45000028 12fb4000 7f066522 c0a80203 
+<7>[58660.316802]   c0a8005f 005abd8f 3d27d88b 4462ca93 
+<7>[58660.316802]   50140000 498b0000
+<7>[58660.318359] Kernel intercept: handle P3 data packet
+<7>[58660.319000] SKB: c73dc860, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58660.319366]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58660.319976]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b460
+<7>[58660.320343]   HD c6c8b400, Tail c6c8b52c, End c6c8b560
+<7>[58660.320983] New SKB: c73dc860, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58660.321319]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58660.321960]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b474
+<7>[58660.322296]   HD c6c8b400, Tail c6c8b488, End c6c8b560
+<7>[58660.322998] Exit packet intercept (c73dc860)
+<7>[58668.628295] P3 dest subnet found: pkt c731fbbc, sysnet c6dd2d90
+<7>[58668.628601] Pkt (Len 60): 
+<7>[58668.628631]   4500003c 22f24000 40069417 c0a8005f 
+<7>[58668.628631]   c0a80203 bd91005a 6a022c94 00000000 
+<7>[58668.628631]   a00216d0 4a420000 020405b4 0402080a 
+<7>[58668.628631]   00590e66 00000000 01030301
+<7>[58668.629333] Reduce MSS from 1460 to 1388
+<7>[58668.629425] Obfuscate pkt: New len 204
+<7>[58668.629547] Obfuscate
+<7>[58668.629638] Blocks: 3, Sizes: Pkt 60 Len 176, USec b68dd
+<7>[58668.629852] Idx 2 Loc 3 Len 23 From 37
+<7>[58668.629943]   PadSz 107 Step 12 PadBy 2
+<7>[58668.630157] Idx 1 Loc 136 Len 16 From 21
+<7>[58668.630279] Idx 0 Loc 155 Len 21 From 0
+<7>[58668.630371] Encrypt pkt Seq 5
+<7>[58668.630523] P3 Hdr:  450000cc a6624000 8032cdec c0a8005f c0a80401 00000000 00000005
+<7>[58668.630737] Kernel intercept: handle P3 data packet
+<7>[58668.630950] SKB: c6dd2d90, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58668.631042]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58668.631256]   DT c6e63494, MH (null), NH c6e63494, TH c6e634a8
+<7>[58668.631347]   HD c6e63400, Tail c6e634d0, End c6e634e0
+<7>[58668.631561] New SKB: c73dc7a0, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58668.631683]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58668.631866]   DT c6cfec94, MH (null), NH c6cfec94, TH c6cfeca8
+<7>[58668.631988]   HD c6cfec00, Tail c6cfed60, End c6cfed80
+<7>[58668.632232] Exit packet intercept (c73dc7a0)
+<7>[58668.647521] P3 source host found: pkt c72c1d0c, sysnet c73dc7a0
+<7>[58668.647735] Decrypt packet: Seq 12
+<7>[58668.647888] Deobfuscate packet: New Len 176
+<7>[58668.647979] Idx 2 Loc 3 Len 133
+<7>[58668.648162] Idx 1 Loc 139 Len 20
+<7>[58668.648284] Idx 0 Loc 162 Len 14
+<7>[58668.648498] Pkt (Len 60): 
+<7>[58668.648498]   4500003c 13034000 7f066506 c0a80203 
+<7>[58668.648529]   c0a8005f 005abd91 904a2c7b 6a022c95 
+<7>[58668.648529]   a0122000 f8c80000 0204056c 01030308 
+<7>[58668.648529]   0402080a 061e8595 00590e66
+<7>[58668.649108] Kernel intercept: handle P3 data packet
+<7>[58668.649322] SKB: c73dc7a0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58668.649444]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58668.649627]   DT c6cfec60, MH c6cfec52, NH c6cfec60, TH c6cfec60
+<7>[58668.649749]   HD c6cfec00, Tail c6cfed2c, End c6cfed60
+<7>[58668.649963] New SKB: c73dc7a0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58668.650054]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58668.650268]   DT c6cfec60, MH c6cfec52, NH c6cfec60, TH c6cfec74
+<7>[58668.650360]   HD c6cfec00, Tail c6cfec9c, End c6cfed60
+<7>[58668.650604] P3 dest subnet found: pkt c72c1aa4, sysnet c73dc860
+<7>[58668.650817] Pkt (Len 52): 
+<7>[58668.650817]   45000034 22f34000 4006941e c0a8005f 
+<7>[58668.650817]   c0a80203 bd91005a 6a022c95 904a2c7c 
+<7>[58668.650848]   80100b68 3be40000 0101080a 00590e68 
+<7>[58668.650848]   061e8595
+<7>[58668.651519] Obfuscate pkt: New len 204
+<7>[58668.651611] Obfuscate
+<7>[58668.651733] Blocks: 3, Sizes: Pkt 52 Len 176, USec bbf2c
+<7>[58668.651855] Idx 2 Loc 3 Len 13 From 39
+<7>[58668.651947]   PadSz 115 Step 11 PadBy 1
+<7>[58668.652160] Idx 1 Loc 134 Len 17 From 22
+<7>[58668.652282] Idx 0 Loc 154 Len 22 From 0
+<7>[58668.652374] Encrypt pkt Seq 6
+<7>[58668.652618] P3 Hdr:  450000cc a6634000 8032cdeb c0a8005f c0a80401 00000000 00000006
+<7>[58668.652740] Kernel intercept: handle P3 data packet
+<7>[58668.652923] SKB: c73dc860, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58668.653045]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58668.653259]   DT c6e6349c, MH (null), NH c6e6349c, TH c6e634b0
+<7>[58668.653350]   HD c6e63400, Tail c6e634d0, End c6e634e0
+<7>[58668.653564] New SKB: c73dc6e0, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58668.653686]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58668.653778]   DT c6cfe89c, MH (null), NH c6cfe89c, TH c6cfe8b0
+<7>[58668.653900]   HD c6cfe800, Tail c6cfe968, End c6cfe980
+<7>[58668.654022] Exit packet intercept (c73dc6e0)
+<7>[58668.654144] Exit packet intercept (c73dc7a0)
+<7>[58678.627044] P3 dest subnet found: pkt c731fb94, sysnet c6dd2310
+<7>[58678.628417] Pkt (Len 252): 
+<7>[58678.628417]   450000fc 22f44000 40069355 c0a8005f 
+<7>[58678.628448]   c0a80203 bd91005a 6a022c95 904a2c7c 
+<7>[58678.628448]   80180b68 96c30000 0101080a 0059124e 
+<7>[58678.628479]   061e8595 41474953 5443500a 52656369 
+<7>[58678.628509]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58678.628509]   53656e64 65723a20 35353535 35353535
+<7>[58678.631530] Obfuscate pkt: New len 668
+<7>[58678.631866] Obfuscate
+<7>[58678.632507] Blocks: 2, Sizes: Pkt 252 Len 640, USec b73f3
+<7>[58678.632843] Idx 1 Loc 3 Len 144 From 108
+<7>[58678.633178]   PadSz 382 Step 10 PadBy 4
+<7>[58678.633850] Idx 0 Loc 532 Len 108 From 0
+<7>[58678.634185] Encrypt pkt Seq 7
+<7>[58678.634887] P3 Hdr:  4500029c a6644000 8032cc1a c0a8005f c0a80401 00000000 00000007
+<7>[58678.635528] Kernel intercept: handle P3 data packet
+<7>[58678.635894] SKB: c6dd2310, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58678.636535]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58678.637176]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58678.637512]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58678.638183] New SKB: c73dc7a0, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58678.638519]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58678.639160]   DT c6cfe0ac, MH (null), NH c6cfe0ac, TH c6cfe0c0
+<7>[58678.639495]   HD c6cfe000, Tail c6cfe348, End c6cfe7e0
+<7>[58678.640197] Exit packet intercept (c73dc7a0)
+<7>[58678.864532] P3 dest subnet found: pkt c0421d0c, sysnet c6dd2310
+<7>[58678.866180] Pkt (Len 252): 
+<7>[58678.866180]   450000fc 22f54000 40069354 c0a8005f 
+<7>[58678.866210]   c0a80203 bd91005a 6a022c95 904a2c7c 
+<7>[58678.866241]   80180b68 96ab0000 0101080a 00591266 
+<7>[58678.866241]   061e8595 41474953 5443500a 52656369 
+<7>[58678.866271]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58678.866302]   53656e64 65723a20 35353535 35353535
+<7>[58678.869018] Obfuscate pkt: New len 668
+<7>[58678.869628] Obfuscate
+<7>[58678.869964] Blocks: 2, Sizes: Pkt 252 Len 640, USec f13a3
+<7>[58678.870330] Idx 1 Loc 3 Len 144 From 108
+<7>[58678.870910]   PadSz 382 Step 10 PadBy 4
+<7>[58678.871307] Idx 0 Loc 532 Len 108 From 0
+<7>[58678.871643] Encrypt pkt Seq 8
+<7>[58678.872528] P3 Hdr:  4500029c a6654000 8032cc19 c0a8005f c0a80401 00000000 00000008
+<7>[58678.872863] Kernel intercept: handle P3 data packet
+<7>[58678.873504] SKB: c6dd2310, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58678.873870]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58678.874511]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58678.874847]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58678.875518] New SKB: c73dc7a0, SK c6e93540, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58678.876129]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58678.876495]   DT c6cfe0ac, MH (null), NH c6cfe0ac, TH c6cfe0c0
+<7>[58678.877136]   HD c6cfe000, Tail c6cfe348, End c6cfe7e0
+<7>[58678.877532] Exit packet intercept (c73dc7a0)
+<7>[58678.887481] P3 source host found: pkt c72c1d0c, sysnet c73dc7a0
+<7>[58678.888092] Decrypt packet: Seq 14
+<7>[58678.888519] Deobfuscate packet: New Len 176
+<7>[58678.889129] Idx 2 Loc 3 Len 120
+<7>[58678.889465] Idx 1 Loc 126 Len 21
+<7>[58678.889801] Idx 0 Loc 150 Len 26
+<7>[58678.890655] Pkt (Len 64): 
+<7>[58678.890655]   45000040 13144000 7f0664f1 c0a80203 
+<7>[58678.890686]   c0a8005f 005abd91 904a2cf8 6a022d5d 
+<7>[58678.890686]   b0100102 d9110000 0101080a 061e8995 
+<7>[58678.890716]   0059124e 0101050a 6a022c95 6a022d5d
+<7>[58678.892852] Kernel intercept: handle P3 data packet
+<7>[58678.893463] SKB: c73dc7a0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58678.893829]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58678.894500]   DT c6e63060, MH c6e63052, NH c6e63060, TH c6e63060
+<7>[58678.894836]   HD c6e63000, Tail c6e6312c, End c6e63160
+<7>[58678.895477] New SKB: c73dc7a0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58678.896118]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58678.896453]   DT c6e63060, MH c6e63052, NH c6e63060, TH c6e63074
+<7>[58678.897094]   HD c6e63000, Tail c6e630a0, End c6e63160
+<7>[58678.897521] Exit packet intercept (c73dc7a0)
+<7>[58697.789062] P3 source host found: pkt c72c1d0c, sysnet c7bb8cc0
+<7>[58697.789276] Decrypt packet: Seq 20
+<7>[58697.789398] Deobfuscate packet: New Len 176
+<7>[58697.789581] Idx 1 Loc 3 Len 150
+<7>[58697.789703] Idx 0 Loc 156 Len 20
+<7>[58697.789886] Pkt (Len 40): 
+<7>[58697.789886]   45000028 132b4000 7f0664f2 c0a80203 
+<7>[58697.789886]   c0a8005f 005abd91 904a2cf8 6a022d5d 
+<7>[58697.789886]   50140000 19900000
+<7>[58697.790466] Kernel intercept: handle P3 data packet
+<7>[58697.790588] SKB: c7bb8cc0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58697.790771]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58697.790893]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b460
+<7>[58697.791076]   HD c6c8b400, Tail c6c8b52c, End c6c8b560
+<7>[58697.791198] New SKB: c7bb8cc0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58697.791412]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58697.791503]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b474
+<7>[58697.791717]   HD c6c8b400, Tail c6c8b488, End c6c8b560
+<7>[58697.791870] Exit packet intercept (c7bb8cc0)
+<7>[58698.696533] P3 dest subnet found: pkt c731fbbc, sysnet c6dd2d90
+<7>[58698.696777] Pkt (Len 60): 
+<7>[58698.696777]   4500003c fe364000 4006b8d2 c0a8005f 
+<7>[58698.696777]   c0a80203 bd93005a 85a8e413 00000000 
+<7>[58698.696777]   a00216d0 6b5b0000 020405b4 0402080a 
+<7>[58698.696777]   00591a25 00000000 01030301
+<7>[58698.697479] Reduce MSS from 1460 to 1388
+<7>[58698.697570] Obfuscate pkt: New len 204
+<7>[58698.697784] Obfuscate
+<7>[58698.697875] Blocks: 2, Sizes: Pkt 60 Len 176, USec c736b
+<7>[58698.697998] Idx 1 Loc 3 Len 29 From 31
+<7>[58698.698181]   PadSz 110 Step 10 PadBy 4
+<7>[58698.698303] Idx 0 Loc 145 Len 31 From 0
+<7>[58698.698425] Encrypt pkt Seq 9
+<7>[58698.698577] P3 Hdr:  450000cc a6664000 8032cde8 c0a8005f c0a80401 00000000 00000009
+<7>[58698.698791] Kernel intercept: handle P3 data packet
+<7>[58698.698974] SKB: c6dd2d90, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58698.699096]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58698.699310]   DT c6e63094, MH (null), NH c6e63094, TH c6e630a8
+<7>[58698.699432]   HD c6e63000, Tail c6e630d0, End c6e630e0
+<7>[58698.699645] New SKB: c7bb8480, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58698.699737]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58698.699951]   DT c6d11894, MH (null), NH c6d11894, TH c6d118a8
+<7>[58698.700073]   HD c6d11800, Tail c6d11960, End c6d11980
+<7>[58698.700286] Exit packet intercept (c7bb8480)
+<7>[58698.716949] P3 source host found: pkt c72c1d0c, sysnet c7bb8480
+<7>[58698.717163] Decrypt packet: Seq 21
+<7>[58698.717315] Deobfuscate packet: New Len 176
+<7>[58698.717407] Idx 2 Loc 3 Len 129
+<7>[58698.717620] Idx 1 Loc 135 Len 13
+<7>[58698.717712] Idx 0 Loc 151 Len 25
+<7>[58698.717926] Pkt (Len 60): 
+<7>[58698.717956]   4500003c 132c4000 7f0664dd c0a80203 
+<7>[58698.717956]   c0a8005f 005abd93 6d0d0d94 85a8e414 
+<7>[58698.717956]   a0122000 50470000 0204056c 01030308 
+<7>[58698.717956]   0402080a 061e9154 00591a25
+<7>[58698.718627] Kernel intercept: handle P3 data packet
+<7>[58698.718841] SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58698.718963]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58698.719146]   DT c6d11860, MH c6d11852, NH c6d11860, TH c6d11860
+<7>[58698.719268]   HD c6d11800, Tail c6d1192c, End c6d11960
+<7>[58698.719451] New SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58698.719573]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58698.719757]   DT c6d11860, MH c6d11852, NH c6d11860, TH c6d11874
+<7>[58698.719879]   HD c6d11800, Tail c6d1189c, End c6d11960
+<7>[58698.720123] P3 dest subnet found: pkt c72c1aa4, sysnet c7bb8cc0
+<7>[58698.720336] Pkt (Len 52): 
+<7>[58698.720336]   45000034 fe374000 4006b8d9 c0a8005f 
+<7>[58698.720336]   c0a80203 bd93005a 85a8e414 6d0d0d95 
+<7>[58698.720336]   80100b68 93620000 0101080a 00591a27 
+<7>[58698.720336]   061e9154
+<7>[58698.721038] Obfuscate pkt: New len 204
+<7>[58698.721130] Obfuscate
+<7>[58698.721343] Blocks: 2, Sizes: Pkt 52 Len 176, USec ccf17
+<7>[58698.721435] Idx 1 Loc 3 Len 22 From 30
+<7>[58698.721557]   PadSz 118 Step 14 PadBy 4
+<7>[58698.721740] Idx 0 Loc 146 Len 30 From 0
+<7>[58698.721862] Encrypt pkt Seq 10
+<7>[58698.722015] P3 Hdr:  450000cc a6674000 8032cde7 c0a8005f c0a80401 00000000 0000000a
+<7>[58698.722229] Kernel intercept: handle P3 data packet
+<7>[58698.722320] SKB: c7bb8cc0, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58698.722534]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58698.722717]   DT c6e6309c, MH (null), NH c6e6309c, TH c6e630b0
+<7>[58698.722839]   HD c6e63000, Tail c6e630d0, End c6e630e0
+<7>[58698.722961] New SKB: c7bb8300, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58698.723052]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58698.723266]   DT c6d1149c, MH (null), NH c6d1149c, TH c6d114b0
+<7>[58698.723388]   HD c6d11400, Tail c6d11568, End c6d11580
+<7>[58698.723602] Exit packet intercept (c7bb8300)
+<7>[58698.723693] Exit packet intercept (c7bb8480)
+<6>[58705.493408] batt:  98%, 4118 mV, -127 mA (-121 avg), 30.8 C, 1339 mAh
+<7>[58708.716003] P3 dest subnet found: pkt c731fb94, sysnet c6dd2190
+<7>[58708.717346] Pkt (Len 252): 
+<7>[58708.717376]   450000fc fe384000 4006b810 c0a8005f 
+<7>[58708.717407]   c0a80203 bd93005a 85a8e414 6d0d0d95 
+<7>[58708.717407]   80180b68 f03e0000 0101080a 00591e0f 
+<7>[58708.717437]   061e9154 41474953 5443500a 52656369 
+<7>[58708.717468]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58708.717468]   53656e64 65723a20 35353535 35353535
+<7>[58708.720214] Obfuscate pkt: New len 668
+<7>[58708.720825] Obfuscate
+<7>[58708.721160] Blocks: 3, Sizes: Pkt 252 Len 640, USec cce41
+<7>[58708.721496] Idx 2 Loc 3 Len 102 From 150
+<7>[58708.722106]   PadSz 379 Step 8 PadBy 2
+<7>[58708.722534] Idx 1 Loc 487 Len 84 From 66
+<7>[58708.722869] Idx 0 Loc 574 Len 66 From 0
+<7>[58708.723480] Encrypt pkt Seq 11
+<7>[58708.724121] P3 Hdr:  4500029c a6684000 8032cc16 c0a8005f c0a80401 00000000 0000000b
+<7>[58708.724853] Kernel intercept: handle P3 data packet
+<7>[58708.725219] SKB: c6dd2190, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58708.725830]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58708.726196]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58708.726806]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58708.727172] New SKB: c7bb8480, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58708.727813]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58708.728179]   DT c6c460ac, MH (null), NH c6c460ac, TH c6c460c0
+<7>[58708.728790]   HD c6c46000, Tail c6c46348, End c6c467e0
+<7>[58708.729187] Exit packet intercept (c7bb8480)
+<7>[58708.954559] P3 dest subnet found: pkt c0421d0c, sysnet c6dd2190
+<7>[58708.955596] Pkt (Len 252): 
+<7>[58708.955596]   450000fc fe394000 4006b80f c0a8005f 
+<7>[58708.955627]   c0a80203 bd93005a 85a8e414 6d0d0d95 
+<7>[58708.955657]   80180b68 f0260000 0101080a 00591e27 
+<7>[58708.955657]   061e9154 41474953 5443500a 52656369 
+<7>[58708.955688]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58708.955718]   53656e64 65723a20 35353535 35353535
+<7>[58708.955749] Obfuscate pkt: New len 668
+<7>[58708.955780] Obfuscate
+<7>[58708.955810] Blocks: 2, Sizes: Pkt 252 Len 640, USec 1209b
+<7>[58708.955841] Idx 1 Loc 3 Len 144 From 108
+<7>[58708.955871]   PadSz 382 Step 10 PadBy 4
+<7>[58708.955932] Idx 0 Loc 532 Len 108 From 0
+<7>[58708.955963] Encrypt pkt Seq 12
+<7>[58708.956298] P3 Hdr:  4500029c a6694000 8032cc15 c0a8005f c0a80401 00000000 0000000c
+<7>[58708.956329] Kernel intercept: handle P3 data packet
+<7>[58708.956359] SKB: c6dd2190, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58708.956420]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58708.956451]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58708.956481]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58708.956573] New SKB: c7bb8480, SK c6eefa60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58708.956604]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58708.956634]   DT c6c460ac, MH (null), NH c6c460ac, TH c6c460c0
+<7>[58708.956665]   HD c6c46000, Tail c6c46348, End c6c467e0
+<7>[58708.956756] Exit packet intercept (c7bb8480)
+<7>[58708.959991] P3 source host found: pkt c72c1d0c, sysnet c7bb8480
+<7>[58708.960052] Decrypt packet: Seq 23
+<7>[58708.960144] Deobfuscate packet: New Len 176
+<7>[58708.960174] Idx 2 Loc 3 Len 121
+<7>[58708.960174] Idx 1 Loc 127 Len 21
+<7>[58708.960205] Idx 0 Loc 151 Len 25
+<7>[58708.960754] Pkt (Len 64): 
+<7>[58708.960754]   45000040 13324000 7f0664d3 c0a80203 
+<7>[58708.960784]   c0a8005f 005abd93 6d0d0e11 85a8e4dc 
+<7>[58708.960815]   b0100102 8a420000 0101080a 061e9554 
+<7>[58708.960815]   00591e0f 0101050a 85a8e414 85a8e4dc
+<7>[58708.960845] Kernel intercept: handle P3 data packet
+<7>[58708.960906] SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58708.960937]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58708.960968]   DT c6cfec60, MH c6cfec52, NH c6cfec60, TH c6cfec60
+<7>[58708.961029]   HD c6cfec00, Tail c6cfed2c, End c6cfed60
+<7>[58708.961059] New SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58708.961120]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58708.961151]   DT c6cfec60, MH c6cfec52, NH c6cfec60, TH c6cfec74
+<7>[58708.961181]   HD c6cfec00, Tail c6cfeca0, End c6cfed60
+<7>[58708.961303] Exit packet intercept (c7bb8480)
+<7>[58727.897338] P3 source host found: pkt c72c1d0c, sysnet c7bb8480
+<7>[58727.897979] Decrypt packet: Seq 29
+<7>[58727.898376] Deobfuscate packet: New Len 176
+<7>[58727.898712] Idx 1 Loc 3 Len 150
+<7>[58727.899047] Idx 0 Loc 156 Len 20
+<7>[58727.899658] Pkt (Len 40): 
+<7>[58727.899688]   45000028 13494000 7f0664d4 c0a80203 
+<7>[58727.899688]   c0a8005f 005abd93 6d0d0e11 85a8e4dc 
+<7>[58727.899719]   50140000 888c0000
+<7>[58727.901245] Kernel intercept: handle P3 data packet
+<7>[58727.901885] SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58727.902221]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58727.902832]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b460
+<7>[58727.903198]   HD c6c8b400, Tail c6c8b52c, End c6c8b560
+<7>[58727.903839] New SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58727.904174]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58727.904876]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b474
+<7>[58727.905212]   HD c6c8b400, Tail c6c8b488, End c6c8b560
+<7>[58727.905914] Exit packet intercept (c7bb8480)
+<7>[58728.797363] P3 dest subnet found: pkt c731fbbc, sysnet c73fdd10
+<7>[58728.797668] Pkt (Len 60): 
+<7>[58728.797698]   4500003c de714000 4006d897 c0a8005f 
+<7>[58728.797698]   c0a80203 bd95005a a1acfb96 00000000 
+<7>[58728.797698]   a00216d0 2c100000 020405b4 0402080a 
+<7>[58728.797698]   005925e7 00000000 01030301
+<7>[58728.798370] Reduce MSS from 1460 to 1388
+<7>[58728.798492] Obfuscate pkt: New len 204
+<7>[58728.798583] Obfuscate
+<7>[58728.798706] Blocks: 3, Sizes: Pkt 60 Len 176, USec dfd49
+<7>[58728.798889] Idx 2 Loc 3 Len 23 From 37
+<7>[58728.799011]   PadSz 107 Step 8 PadBy 2
+<7>[58728.799224] Idx 1 Loc 136 Len 16 From 21
+<7>[58728.799316] Idx 0 Loc 155 Len 21 From 0
+<7>[58728.799407] Encrypt pkt Seq 13
+<7>[58728.799591] P3 Hdr:  450000cc a66a4000 8032cde4 c0a8005f c0a80401 00000000 0000000d
+<7>[58728.799774] Kernel intercept: handle P3 data packet
+<7>[58728.799987] SKB: c73fdd10, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58728.800109]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58728.800292]   DT c6e63094, MH (null), NH c6e63094, TH c6e630a8
+<7>[58728.800415]   HD c6e63000, Tail c6e630d0, End c6e630e0
+<7>[58728.800628] New SKB: c7bb8300, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58728.800720]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58728.800933]   DT c6dd2894, MH (null), NH c6dd2894, TH c6dd28a8
+<7>[58728.801025]   HD c6dd2800, Tail c6dd2960, End c6dd2980
+<7>[58728.801269] Exit packet intercept (c7bb8300)
+<7>[58728.817352] P3 source host found: pkt c72c1d0c, sysnet c7bb8300
+<7>[58728.817565] Decrypt packet: Seq 30
+<7>[58728.817687] Deobfuscate packet: New Len 176
+<7>[58728.817779] Idx 1 Loc 3 Len 147
+<7>[58728.817993] Idx 0 Loc 153 Len 23
+<7>[58728.818206] Pkt (Len 60): 
+<7>[58728.818206]   4500003c 134b4000 7f0664be c0a80203 
+<7>[58728.818206]   c0a8005f 005abd95 a0b3ff79 a1acfb97 
+<7>[58728.818237]   a0122000 dfad0000 0204056c 01030308 
+<7>[58728.818237]   0402080a 061e9d16 005925e7
+<7>[58728.818908] Kernel intercept: handle P3 data packet
+<7>[58728.819030] SKB: c7bb8300, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58728.819213]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58728.819335]   DT c6dd2860, MH c6dd2852, NH c6dd2860, TH c6dd2860
+<7>[58728.819519]   HD c6dd2800, Tail c6dd292c, End c6dd2960
+<7>[58728.819641] New SKB: c7bb8300, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58728.819824]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58728.819946]   DT c6dd2860, MH c6dd2852, NH c6dd2860, TH c6dd2874
+<7>[58728.820129]   HD c6dd2800, Tail c6dd289c, End c6dd2960
+<7>[58728.820312] P3 dest subnet found: pkt c72c1aa4, sysnet c7bb8480
+<7>[58728.820587] Pkt (Len 52): 
+<7>[58728.820587]   45000034 de724000 4006d89e c0a8005f 
+<7>[58728.820617]   c0a80203 bd95005a a1acfb97 a0b3ff7a 
+<7>[58728.820617]   80100b68 22c90000 0101080a 005925e9 
+<7>[58728.820617]   061e9d16
+<7>[58728.821289] Obfuscate pkt: New len 204
+<7>[58728.821411] Obfuscate
+<7>[58728.821533] Blocks: 3, Sizes: Pkt 52 Len 176, USec e5655
+<7>[58728.821716] Idx 2 Loc 3 Len 13 From 39
+<7>[58728.821807]   PadSz 115 Step 12 PadBy 2
+<7>[58728.821929] Idx 1 Loc 134 Len 28 From 11
+<7>[58728.822143] Idx 0 Loc 165 Len 11 From 0
+<7>[58728.822235] Encrypt pkt Seq 14
+<7>[58728.822418] P3 Hdr:  450000cc a66b4000 8032cde3 c0a8005f c0a80401 00000000 0000000e
+<7>[58728.822601] Kernel intercept: handle P3 data packet
+<7>[58728.822723] SKB: c7bb8480, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58728.822906]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58728.823120]   DT c6e6309c, MH (null), NH c6e6309c, TH c6e630b0
+<7>[58728.823211]   HD c6e63000, Tail c6e630d0, End c6e630e0
+<7>[58728.823425] New SKB: c7bb8240, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58728.823547]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58728.823730]   DT c6dd249c, MH (null), NH c6dd249c, TH c6dd24b0
+<7>[58728.823852]   HD c6dd2400, Tail c6dd2568, End c6dd2580
+<7>[58728.824066] Exit packet intercept (c7bb8240)
+<7>[58728.824157] Exit packet intercept (c7bb8300)
+<7>[58738.797027] P3 dest subnet found: pkt c731fb94, sysnet c73fd290
+<7>[58738.798675] Pkt (Len 252): 
+<7>[58738.798675]   450000fc de734000 4006d7d5 c0a8005f 
+<7>[58738.798706]   c0a80203 bd95005a a1acfb97 a0b3ff7a 
+<7>[58738.798706]   80180b68 7ba70000 0101080a 005929cf 
+<7>[58738.798736]   061e9d16 41474953 5443500a 52656369 
+<7>[58738.798767]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58738.798767]   53656e64 65723a20 35353535 35353535
+<7>[58738.801818] Obfuscate pkt: New len 668
+<7>[58738.802154] Obfuscate
+<7>[58738.802490] Blocks: 2, Sizes: Pkt 252 Len 640, USec e0bf2
+<7>[58738.803100] Idx 1 Loc 3 Len 144 From 108
+<7>[58738.803436]   PadSz 382 Step 9 PadBy 3
+<7>[58738.803833] Idx 0 Loc 532 Len 108 From 0
+<7>[58738.804565] Encrypt pkt Seq 15
+<7>[58738.805175] P3 Hdr:  4500029c a66c4000 8032cc12 c0a8005f c0a80401 00000000 0000000f
+<7>[58738.805816] Kernel intercept: handle P3 data packet
+<7>[58738.806152] SKB: c73fd290, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58738.806793]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58738.807159]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58738.807769]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58738.808166] New SKB: c7bb8300, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58738.808776]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58738.809112]   DT c6f330ac, MH (null), NH c6f330ac, TH c6f330c0
+<7>[58738.809753]   HD c6f33000, Tail c6f33348, End c6f337e0
+<7>[58738.810150] Exit packet intercept (c7bb8300)
+<7>[58739.034545] P3 dest subnet found: pkt c0421d0c, sysnet c73fd290
+<7>[58739.035919] Pkt (Len 252): 
+<7>[58739.035919]   450000fc de744000 4006d7d4 c0a8005f 
+<7>[58739.035949]   c0a80203 bd95005a a1acfb97 a0b3ff7a 
+<7>[58739.035949]   80180b68 7b8f0000 0101080a 005929e7 
+<7>[58739.035980]   061e9d16 41474953 5443500a 52656369 
+<7>[58739.036010]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58739.036010]   53656e64 65723a20 35353535 35353535
+<7>[58739.039031] Obfuscate pkt: New len 668
+<7>[58739.039367] Obfuscate
+<7>[58739.039978] Blocks: 2, Sizes: Pkt 252 Len 640, USec 26962
+<7>[58739.040313] Idx 1 Loc 3 Len 144 From 108
+<7>[58739.040649]   PadSz 382 Step 9 PadBy 3
+<7>[58739.041290] Idx 0 Loc 532 Len 108 From 0
+<7>[58739.041625] Encrypt pkt Seq 16
+<7>[58739.042266] P3 Hdr:  4500029c a66d4000 8032cc11 c0a8005f c0a80401 00000000 00000010
+<7>[58739.042877] Kernel intercept: handle P3 data packet
+<7>[58739.043243] SKB: c73fd290, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58739.043884]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58739.044494]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58739.044830]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58739.045501] New SKB: c7bb8300, SK c6eef060, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58739.045837]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58739.046478]   DT c6f330ac, MH (null), NH c6f330ac, TH c6f330c0
+<7>[58739.046813]   HD c6f33000, Tail c6f33348, End c6f337e0
+<7>[58739.047485] Exit packet intercept (c7bb8300)
+<7>[58739.058135] P3 source host found: pkt c72c1d0c, sysnet c7bb8300
+<7>[58739.058746] Decrypt packet: Seq 32
+<7>[58739.059143] Deobfuscate packet: New Len 176
+<7>[58739.059478] Idx 2 Loc 3 Len 121
+<7>[58739.060089] Idx 1 Loc 127 Len 32
+<7>[58739.060424] Idx 0 Loc 162 Len 14
+<7>[58739.061279] Pkt (Len 64): 
+<7>[58739.061309]   45000040 13524000 7f0664b3 c0a80203 
+<7>[58739.061340]   c0a8005f 005abd95 a0b3fff6 a1acfc5f 
+<7>[58739.061340]   b0100102 b29c0000 0101080a 061ea116 
+<7>[58739.061370]   005929cf 0101050a a1acfb97 a1acfc5f
+<7>[58739.063476] Kernel intercept: handle P3 data packet
+<7>[58739.064117] SKB: c7bb8300, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58739.064514]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58739.065124]   DT c6d02c60, MH c6d02c52, NH c6d02c60, TH c6d02c60
+<7>[58739.065460]   HD c6d02c00, Tail c6d02d2c, End c6d02d60
+<7>[58739.066101] New SKB: c7bb8300, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58739.066467]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58739.067077]   DT c6d02c60, MH c6d02c52, NH c6d02c60, TH c6d02c74
+<7>[58739.067413]   HD c6d02c00, Tail c6d02ca0, End c6d02d60
+<7>[58739.068145] Exit packet intercept (c7bb8300)
+<6>[58755.598114] batt:  98%, 4114 mV, -141 mA (-127 avg), 31.1 C, 1339 mAh
+<7>[58758.003784] P3 source host found: pkt c72c1d0c, sysnet c7bb8cc0
+<7>[58758.004150] Decrypt packet: Seq 38
+<7>[58758.004882] Deobfuscate packet: New Len 176
+<7>[58758.005218] Idx 1 Loc 3 Len 150
+<7>[58758.005554] Idx 0 Loc 156 Len 20
+<7>[58758.006164] Pkt (Len 40): 
+<7>[58758.006164]   45000028 136a4000 7f0664b3 c0a80203 
+<7>[58758.006195]   c0a8005f 005abd95 a0b3fff6 a1acfc5f 
+<7>[58758.006225]   50140000 2f770000
+<7>[58758.007995] Kernel intercept: handle P3 data packet
+<7>[58758.008361] SKB: c7bb8cc0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58758.009002]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58758.009338]   DT c6d02860, MH c6d02852, NH c6d02860, TH c6d02860
+<7>[58758.009948]   HD c6d02800, Tail c6d0292c, End c6d02960
+<7>[58758.010314] New SKB: c7bb8cc0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58758.010955]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58758.011291]   DT c6d02860, MH c6d02852, NH c6d02860, TH c6d02874
+<7>[58758.011901]   HD c6d02800, Tail c6d02888, End c6d02960
+<7>[58758.012329] Exit packet intercept (c7bb8cc0)
+<7>[58758.874176] P3 dest subnet found: pkt c731fbbc, sysnet c73fdb90
+<7>[58758.874298] Pkt (Len 60): 
+<7>[58758.874298]   4500003c e1d04000 4006d538 c0a8005f 
+<7>[58758.874298]   c0a80203 bd97005a bdf9d076 00000000 
+<7>[58758.874298]   a00216d0 2f220000 020405b4 0402080a 
+<7>[58758.874328]   005931a6 00000000 01030301
+<7>[58758.874328] Reduce MSS from 1460 to 1388
+<7>[58758.874328] Obfuscate pkt: New len 204
+<7>[58758.874328] Obfuscate
+<7>[58758.874359] Blocks: 2, Sizes: Pkt 60 Len 176, USec f24af
+<7>[58758.874359] Idx 1 Loc 3 Len 29 From 31
+<7>[58758.874359]   PadSz 110 Step 14 PadBy 4
+<7>[58758.874389] Idx 0 Loc 145 Len 31 From 0
+<7>[58758.874389] Encrypt pkt Seq 17
+<7>[58758.874450] P3 Hdr:  450000cc a66e4000 8032cde0 c0a8005f c0a80401 00000000 00000011
+<7>[58758.874481] Kernel intercept: handle P3 data packet
+<7>[58758.874481] SKB: c73fdb90, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58758.874481]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58758.874511]   DT c6d02494, MH (null), NH c6d02494, TH c6d024a8
+<7>[58758.874511]   HD c6d02400, Tail c6d024d0, End c6d024e0
+<7>[58758.874542] New SKB: c7bb8600, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58758.874542]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58758.874572]   DT c72fec94, MH (null), NH c72fec94, TH c72feca8
+<7>[58758.874572]   HD c72fec00, Tail c72fed60, End c72fed80
+<7>[58758.874633] Exit packet intercept (c7bb8600)
+<7>[58758.888275] P3 source host found: pkt c72c1d0c, sysnet c7bb8600
+<7>[58758.888275] Decrypt packet: Seq 39
+<7>[58758.888336] Deobfuscate packet: New Len 176
+<7>[58758.888336] Idx 2 Loc 3 Len 126
+<7>[58758.888336] Idx 1 Loc 132 Len 27
+<7>[58758.888336] Idx 0 Loc 162 Len 14
+<7>[58758.888458] Pkt (Len 60): 
+<7>[58758.888458]   4500003c 136d4000 7f06649c c0a80203 
+<7>[58758.888488]   c0a8005f 005abd97 5e9fe599 bdf9d077 
+<7>[58758.888488]   a0122000 32f50000 0204056c 01030308 
+<7>[58758.888488]   0402080a 061ea8d5 005931a6
+<7>[58758.888488] Kernel intercept: handle P3 data packet
+<7>[58758.888519] SKB: c7bb8600, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58758.888519]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58758.888519]   DT c72fec60, MH c72fec52, NH c72fec60, TH c72fec60
+<7>[58758.888519]   HD c72fec00, Tail c72fed2c, End c72fed60
+<7>[58758.888549] New SKB: c7bb8600, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58758.888549]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58758.888580]   DT c72fec60, MH c72fec52, NH c72fec60, TH c72fec74
+<7>[58758.888580]   HD c72fec00, Tail c72fec9c, End c72fed60
+<7>[58758.888641] P3 dest subnet found: pkt c72c1aa4, sysnet c7bb8cc0
+<7>[58758.888732] Pkt (Len 52): 
+<7>[58758.888732]   45000034 e1d14000 4006d53f c0a8005f 
+<7>[58758.888763]   c0a80203 bd97005a bdf9d077 5e9fe59a 
+<7>[58758.888763]   80100b68 76100000 0101080a 005931a8 
+<7>[58758.888763]   061ea8d5
+<7>[58758.888763] Obfuscate pkt: New len 204
+<7>[58758.888763] Obfuscate
+<7>[58758.888793] Blocks: 2, Sizes: Pkt 52 Len 176, USec 1ad2
+<7>[58758.888793] Idx 1 Loc 3 Len 21 From 31
+<7>[58758.888793]   PadSz 118 Step 9 PadBy 3
+<7>[58758.888824] Idx 0 Loc 145 Len 31 From 0
+<7>[58758.888824] Encrypt pkt Seq 18
+<7>[58758.888885] P3 Hdr:  450000cc a66f4000 8032cddf c0a8005f c0a80401 00000000 00000012
+<7>[58758.888885] Kernel intercept: handle P3 data packet
+<7>[58758.888916] SKB: c7bb8cc0, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58758.888916]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58758.888916]   DT c6d0249c, MH (null), NH c6d0249c, TH c6d024b0
+<7>[58758.888946]   HD c6d02400, Tail c6d024d0, End c6d024e0
+<7>[58758.888946] New SKB: c7bb89c0, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58758.888977]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58758.888977]   DT c72fe89c, MH (null), NH c72fe89c, TH c72fe8b0
+<7>[58758.888977]   HD c72fe800, Tail c72fe968, End c72fe980
+<7>[58758.889007] Exit packet intercept (c7bb89c0)
+<7>[58758.889007] Exit packet intercept (c7bb8600)
+<7>[58768.858398] P3 dest subnet found: pkt c731fb94, sysnet c73fd110
+<7>[58768.859252] Pkt (Len 252): 
+<7>[58768.859252]   450000fc e1d24000 4006d476 c0a8005f 
+<7>[58768.859252]   c0a80203 bd97005a bdf9d077 5e9fe59a 
+<7>[58768.859283]   80180b68 d0ee0000 0101080a 0059358d 
+<7>[58768.859283]   061ea8d5 41474953 5443500a 52656369 
+<7>[58768.859283]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58768.859313]   53656e64 65723a20 35353535 35353535
+<7>[58768.861297] Obfuscate pkt: New len 668
+<7>[58768.861724] Obfuscate
+<7>[58768.861938] Blocks: 3, Sizes: Pkt 252 Len 640, USec ef449
+<7>[58768.862182] Idx 2 Loc 3 Len 102 From 150
+<7>[58768.862579]   PadSz 379 Step 8 PadBy 2
+<7>[58768.862854] Idx 1 Loc 487 Len 84 From 66
+<7>[58768.863098] Idx 0 Loc 574 Len 66 From 0
+<7>[58768.863525] Encrypt pkt Seq 19
+<7>[58768.863922] P3 Hdr:  4500029c a6704000 8032cc0e c0a8005f c0a80401 00000000 00000013
+<7>[58768.864166] Kernel intercept: handle P3 data packet
+<7>[58768.864410] SKB: c73fd110, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58768.864898]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58768.865142]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58768.865539]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58768.865814] New SKB: c7bb8cc0, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58768.866241]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58768.866455]   DT c6f330ac, MH (null), NH c6f330ac, TH c6f330c0
+<7>[58768.866882]   HD c6f33000, Tail c6f33348, End c6f337e0
+<7>[58768.867156] Exit packet intercept (c7bb8cc0)
+<7>[58769.104553] P3 dest subnet found: pkt c0421d0c, sysnet c73fd110
+<7>[58769.105926] Pkt (Len 252): 
+<7>[58769.105957]   450000fc e1d34000 4006d475 c0a8005f 
+<7>[58769.105957]   c0a80203 bd97005a bdf9d077 5e9fe59a 
+<7>[58769.105987]   80180b68 d0d50000 0101080a 005935a6 
+<7>[58769.105987]   061ea8d5 41474953 5443500a 52656369 
+<7>[58769.106018]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58769.106048]   53656e64 65723a20 35353535 35353535
+<7>[58769.109069] Obfuscate pkt: New len 668
+<7>[58769.109405] Obfuscate
+<7>[58769.109741] Blocks: 3, Sizes: Pkt 252 Len 640, USec 379e5
+<7>[58769.110351] Idx 2 Loc 3 Len 102 From 150
+<7>[58769.110687]   PadSz 379 Step 12 PadBy 2
+<7>[58769.111389] Idx 1 Loc 487 Len 84 From 66
+<7>[58769.111724] Idx 0 Loc 574 Len 66 From 0
+<7>[58769.112060] Encrypt pkt Seq 20
+<7>[58769.112976] P3 Hdr:  4500029c a6714000 8032cc0d c0a8005f c0a80401 00000000 00000014
+<7>[58769.113342] Kernel intercept: handle P3 data packet
+<7>[58769.113952] SKB: c73fd110, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58769.114318]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58769.114959]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58769.115295]   HD c6f9f000, Tail c6f9f1a8, End c6f9f640
+<7>[58769.115936] New SKB: c7bb8cc0, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58769.116577]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58769.116943]   DT c6f330ac, MH (null), NH c6f330ac, TH c6f330c0
+<7>[58769.117553]   HD c6f33000, Tail c6f33348, End c6f337e0
+<7>[58769.117950] Exit packet intercept (c7bb8cc0)
+<7>[58769.129150] P3 source host found: pkt c72c1d0c, sysnet c7bb8cc0
+<7>[58769.129760] Decrypt packet: Seq 41
+<7>[58769.130157] Deobfuscate packet: New Len 176
+<7>[58769.130798] Idx 2 Loc 3 Len 124
+<7>[58769.131134] Idx 1 Loc 130 Len 29
+<7>[58769.131469] Idx 0 Loc 162 Len 14
+<7>[58769.132354] Pkt (Len 64): 
+<7>[58769.132385]   45000040 13734000 7f066492 c0a80203 
+<7>[58769.132385]   c0a8005f 005abd97 5e9fe616 bdf9d13f 
+<7>[58769.132415]   b0100102 238b0000 0101080a 061eacd5 
+<7>[58769.132415]   0059358d 0101050a bdf9d077 bdf9d13f
+<7>[58769.134613] Kernel intercept: handle P3 data packet
+<7>[58769.135223] SKB: c7bb8cc0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58769.135589]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58769.136199]   DT c72fe460, MH c72fe452, NH c72fe460, TH c72fe460
+<7>[58769.136566]   HD c72fe400, Tail c72fe52c, End c72fe560
+<7>[58769.137176] New SKB: c7bb8cc0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58769.137542]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58769.138183]   DT c72fe460, MH c72fe452, NH c72fe460, TH c72fe474
+<7>[58769.138519]   HD c72fe400, Tail c72fe4a0, End c72fe560
+<7>[58769.139221] Exit packet intercept (c7bb8cc0)
+<7>[58778.750457] P3 dest subnet found: pkt c6dadd34, sysnet c73fd590
+<7>[58778.750762] Pkt (Len 52): 
+<7>[58778.750762]   45000034 e1d44000 4006d53c c0a8005f 
+<7>[58778.750793]   c0a80203 bd97005a bdf9d13f 5e9fe59a 
+<7>[58778.750793]   80110b68 6d850000 0101080a 0059396a 
+<7>[58778.750793]   061ea8d5
+<7>[58778.751525] Obfuscate pkt: New len 204
+<7>[58778.751617] Obfuscate
+<7>[58778.751739] Blocks: 2, Sizes: Pkt 52 Len 176, USec d45d2
+<7>[58778.751922] Idx 1 Loc 3 Len 21 From 31
+<7>[58778.752044]   PadSz 118 Step 9 PadBy 3
+<7>[58778.752166] Idx 0 Loc 145 Len 31 From 0
+<7>[58778.752441] Encrypt pkt Seq 21
+<7>[58778.752593] P3 Hdr:  450000cc a6724000 8032cddc c0a8005f c0a80401 00000000 00000015
+<7>[58778.752716] Kernel intercept: handle P3 data packet
+<7>[58778.752929] SKB: c73fd590, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58778.753112]   ML 0, DL 0, PL 52, HL 208, Pr 0, Sz 400, Us 1
+<7>[58778.753234]   DT c72fec9c, MH (null), NH c72fec9c, TH c72fecb0
+<7>[58778.753448]   HD c72fec00, Tail c72fecd0, End c72fece0
+<7>[58778.753601] New SKB: c7bb8b40, SK c6c2c580, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58778.753784]   ML 0, DL 0, PL 204, HL 360, Pr 0, Sz 560, Us 1
+<7>[58778.753906]   DT c73dd09c, MH (null), NH c73dd09c, TH c73dd0b0
+<7>[58778.754089]   HD c73dd000, Tail c73dd168, End c73dd180
+<7>[58778.754272] Exit packet intercept (c7bb8b40)
+<7>[58778.766815] P3 source host found: pkt c72c1d0c, sysnet c7bb8b40
+<7>[58778.766845] Decrypt packet: Seq 47
+<7>[58778.766876] Deobfuscate packet: New Len 176
+<7>[58778.766876] Idx 1 Loc 3 Len 146
+<7>[58778.766876] Idx 0 Loc 152 Len 24
+<7>[58778.766998] Pkt (Len 52): 
+<7>[58778.766998]   45000034 13844000 7f06648d c0a80203 
+<7>[58778.766998]   c0a8005f 005abd97 5e9fe616 bdf9d140 
+<7>[58778.766998]   80100102 6fab0000 0101080a 061eb099 
+<7>[58778.766998]   0059396a
+<7>[58778.766998] Kernel intercept: handle P3 data packet
+<7>[58778.767028] SKB: c7bb8b40, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58778.767028]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58778.767059]   DT c73dd060, MH c73dd052, NH c73dd060, TH c73dd060
+<7>[58778.767059]   HD c73dd000, Tail c73dd12c, End c73dd160
+<7>[58778.767059] New SKB: c7bb8b40, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58778.767089]   ML 14, DL 0, PL 52, HL 0, Pr 8, Sz 528, Us 1
+<7>[58778.767089]   DT c73dd060, MH c73dd052, NH c73dd060, TH c73dd074
+<7>[58778.767089]   HD c73dd000, Tail c73dd094, End c73dd160
+<7>[58778.767150] Exit packet intercept (c7bb8b40)
+<7>[58778.814025] P3 source host found: pkt c72c1d0c, sysnet c7bb8b40
+<7>[58778.814239] Decrypt packet: Seq 48
+<7>[58778.814361] Deobfuscate packet: New Len 176
+<7>[58778.814514] Idx 2 Loc 3 Len 132
+<7>[58778.814605] Idx 1 Loc 138 Len 20
+<7>[58778.814727] Idx 0 Loc 161 Len 15
+<7>[58778.814910] Pkt (Len 52): 
+<7>[58778.814910]   45000034 13854000 7f06648c c0a80203 
+<7>[58778.814910]   c0a8005f 005abd97 5e9fe616 bdf9d140 
+<7>[58778.814941]   80110102 6fa60000 0101080a 061eb09d 
+<7>[58778.814941]   0059396a
+<7>[58778.815612] Kernel intercept: handle P3 data packet
+<7>[58778.815734] SKB: c7bb8b40, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58778.815917]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58778.816040]   DT c73dd060, MH c73dd052, NH c73dd060, TH c73dd060
+<7>[58778.816223]   HD c73dd000, Tail c73dd12c, End c73dd160
+<7>[58778.816345] New SKB: c7bb8b40, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58778.816528]   ML 14, DL 0, PL 52, HL 0, Pr 8, Sz 528, Us 1
+<7>[58778.816650]   DT c73dd060, MH c73dd052, NH c73dd060, TH c73dd074
+<7>[58778.816864]   HD c73dd000, Tail c73dd094, End c73dd160
+<7>[58778.817016] P3 dest subnet found: pkt c72c1a74, sysnet c783eec0
+<7>[58778.817260] Pkt (Len 40): 
+<7>[58778.817291]   45000028 00004000 4006b71d c0a8005f 
+<7>[58778.817291]   c0a80203 bd97005a bdf9d140 00000000 
+<7>[58778.817291]   50040000 df010000
+<7>[58778.817779] Obfuscate pkt: New len 204
+<7>[58778.817962] Obfuscate
+<7>[58778.818084] Blocks: 2, Sizes: Pkt 40 Len 176, USec e48fb
+<7>[58778.818206] Idx 1 Loc 3 Len 20 From 20
+<7>[58778.818389]   PadSz 130 Step 10 PadBy 4
+<7>[58778.818511] Idx 0 Loc 156 Len 20 From 0
+<7>[58778.818603] Encrypt pkt Seq 22
+<7>[58778.818847] P3 Hdr:  450000cc a6734000 8032cddb c0a8005f c0a80401 00000000 00000016
+<7>[58778.818969] Kernel intercept: handle P3 data packet
+<7>[58778.819152] SKB: c783eec0, SK c786bd60, DST c6dbf2e0, DEV (null) Fl: 1.0.0.0.0.0.0
+<7>[58778.819274]   ML 0, DL 0, PL 40, HL 0, Pr 0, Sz 336, Us 1
+<7>[58778.819488]   DT c6f9aa60, MH (null), NH c6f9aa60, TH c6f9aa74
+<7>[58778.819580]   HD c6f9aa00, Tail c6f9aa88, End c6f9aaa0
+<7>[58778.819793] New SKB: c6f67a40, SK c786bd60, DST c6dbf2e0, DEV (null) Fl: 1.0.0.0.0.0.0
+<7>[58778.819915]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 528, Us 1
+<7>[58778.820098]   DT c73ddc60, MH (null), NH c73ddc60, TH c73ddc74
+<7>[58778.820220]   HD c73ddc00, Tail c73ddd2c, End c73ddd60
+<7>[58778.820434] Exit packet intercept (c6f67a40)
+<7>[58778.820526] Exit packet intercept (c7bb8b40)
+<7>[58787.453369] P3 dest subnet found: pkt c6c63bbc, sysnet c73fd290
+<7>[58787.453613] Pkt (Len 60): 
+<7>[58787.453613]   4500003c ed9d4000 4006c96b c0a8005f 
+<7>[58787.453613]   c0a80203 bd99005a d80ed14d 00000000 
+<7>[58787.453613]   a00216d0 090a0000 020405b4 0402080a 
+<7>[58787.453613]   00593cd0 00000000 01030301
+<7>[58787.454315] Reduce MSS from 1460 to 1388
+<7>[58787.454467] Obfuscate pkt: New len 204
+<7>[58787.454681] Obfuscate
+<7>[58787.454772] Blocks: 3, Sizes: Pkt 60 Len 176, USec 8bdcc
+<7>[58787.454895] Idx 2 Loc 3 Len 23 From 37
+<7>[58787.455078]   PadSz 107 Step 11 PadBy 1
+<7>[58787.455200] Idx 1 Loc 136 Len 16 From 21
+<7>[58787.455322] Idx 0 Loc 155 Len 21 From 0
+<7>[58787.455505] Encrypt pkt Seq 23
+<7>[58787.455657] P3 Hdr:  450000cc a6744000 8032cdda c0a8005f c0a80401 00000000 00000017
+<7>[58787.455871] Kernel intercept: handle P3 data packet
+<7>[58787.455993] SKB: c73fd290, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58787.456176]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58787.456298]   DT c73dd494, MH (null), NH c73dd494, TH c73dd4a8
+<7>[58787.456481]   HD c73dd400, Tail c73dd4d0, End c73dd4e0
+<7>[58787.456604] New SKB: c7bb8b40, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58787.456817]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58787.456939]   DT c72fe494, MH (null), NH c72fe494, TH c72fe4a8
+<7>[58787.457122]   HD c72fe400, Tail c72fe560, End c72fe580
+<7>[58787.457275] Exit packet intercept (c7bb8b40)
+<7>[58787.466857] P3 source host found: pkt c72c1d0c, sysnet c7bb8b40
+<7>[58787.466979] Decrypt packet: Seq 49
+<7>[58787.467193] Deobfuscate packet: New Len 176
+<7>[58787.467285] Idx 1 Loc 3 Len 140
+<7>[58787.467407] Idx 0 Loc 146 Len 30
+<7>[58787.467712] Pkt (Len 60): 
+<7>[58787.467712]   4500003c 13894000 7f066480 c0a80203 
+<7>[58787.467712]   c0a8005f 005abd99 356f1ea9 d80ed14e 
+<7>[58787.467712]   a0122000 f1d30000 0204056c 01030308 
+<7>[58787.467742]   0402080a 061eb3ff 00593cd0
+<7>[58787.468322] Kernel intercept: handle P3 data packet
+<7>[58787.468536] SKB: c7bb8b40, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58787.468627]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58787.468841]   DT c72fe460, MH c72fe452, NH c72fe460, TH c72fe460
+<7>[58787.468933]   HD c72fe400, Tail c72fe52c, End c72fe560
+<7>[58787.469146] New SKB: c7bb8b40, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58787.469360]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58787.469451]   DT c72fe460, MH c72fe452, NH c72fe460, TH c72fe474
+<7>[58787.469665]   HD c72fe400, Tail c72fe49c, End c72fe560
+<7>[58787.469757] Exit packet intercept (c7bb8b40)
+<7>[58787.474639] P3 dest subnet found: pkt c6c63cdc, sysnet c6f67a40
+<7>[58787.474945] Pkt (Len 52): 
+<7>[58787.474945]   45000034 ed9e4000 4006c972 c0a8005f 
+<7>[58787.474945]   c0a80203 bd99005a d80ed14e 356f1eaa 
+<7>[58787.474945]   80100b68 34ee0000 0101080a 00593cd3 
+<7>[58787.474945]   061eb3ff
+<7>[58787.475646] Obfuscate pkt: New len 204
+<7>[58787.475738] Obfuscate
+<7>[58787.475860] Blocks: 2, Sizes: Pkt 52 Len 176, USec 9102b
+<7>[58787.476043] Idx 1 Loc 3 Len 33 From 19
+<7>[58787.476165]   PadSz 118 Step 10 PadBy 4
+<7>[58787.476287] Idx 0 Loc 157 Len 19 From 0
+<7>[58787.476470] Encrypt pkt Seq 24
+<7>[58787.476623] P3 Hdr:  450000cc a6754000 8032cdd9 c0a8005f c0a80401 00000000 00000018
+<7>[58787.476837] Kernel intercept: handle P3 data packet
+<7>[58787.476959] SKB: c6f67a40, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58787.477142]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58787.477264]   DT c73dd49c, MH (null), NH c73dd49c, TH c73dd4b0
+<7>[58787.477447]   HD c73dd400, Tail c73dd4d0, End c73dd4e0
+<7>[58787.477569] New SKB: c783eec0, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58787.477783]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58787.477874]   DT c72fe09c, MH (null), NH c72fe09c, TH c72fe0b0
+<7>[58787.478088]   HD c72fe000, Tail c72fe168, End c72fe180
+<7>[58787.478210] Exit packet intercept (c783eec0)
+<7>[58797.548278] P3 dest subnet found: pkt c6c63b94, sysnet c73fde90
+<7>[58797.548522] Pkt (Len 252): 
+<7>[58797.548522]   450000fc ed9f4000 4006c8a9 c0a8005f 
+<7>[58797.548553]   c0a80203 bd99005a d80ed14e 356f1eaa 
+<7>[58797.548553]   80180b68 8bc30000 0101080a 005940c2 
+<7>[58797.548553]   061eb3ff 41474953 5443500a 52656369 
+<7>[58797.548553]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58797.548553]   53656e64 65723a20 35353535 35353535
+<7>[58797.548583] Obfuscate pkt: New len 668
+<7>[58797.548583] Obfuscate
+<7>[58797.548583] Blocks: 2, Sizes: Pkt 252 Len 640, USec a2c3f
+<7>[58797.548614] Idx 1 Loc 3 Len 144 From 108
+<7>[58797.548614]   PadSz 382 Step 14 PadBy 4
+<7>[58797.548614] Idx 0 Loc 532 Len 108 From 0
+<7>[58797.548645] Encrypt pkt Seq 25
+<7>[58797.548736] P3 Hdr:  4500029c a6764000 8032cc08 c0a8005f c0a80401 00000000 00000019
+<7>[58797.548736] Kernel intercept: handle P3 data packet
+<7>[58797.548736] SKB: c73fde90, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58797.548767]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58797.548767]   DT c73ff0ac, MH (null), NH c73ff0ac, TH c73ff0c0
+<7>[58797.548767]   HD c73ff000, Tail c73ff1a8, End c73ff640
+<7>[58797.548797] New SKB: c6d01b20, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58797.548797]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58797.548828]   DT c6d030ac, MH (null), NH c6d030ac, TH c6d030c0
+<7>[58797.548828]   HD c6d03000, Tail c6d03348, End c6d037e0
+<7>[58797.548858] Exit packet intercept (c6d01b20)
+<7>[58797.834533] P3 dest subnet found: pkt c0421d0c, sysnet c73fde90
+<7>[58797.836181] Pkt (Len 252): 
+<7>[58797.836181]   450000fc eda04000 4006c8a8 c0a8005f 
+<7>[58797.836212]   c0a80203 bd99005a d80ed14e 356f1eaa 
+<7>[58797.836212]   80180b68 8ba60000 0101080a 005940df 
+<7>[58797.836242]   061eb3ff 41474953 5443500a 52656369 
+<7>[58797.836273]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58797.836273]   53656e64 65723a20 35353535 35353535
+<7>[58797.839019] Obfuscate pkt: New len 668
+<7>[58797.839630] Obfuscate
+<7>[58797.839996] Blocks: 3, Sizes: Pkt 252 Len 640, USec e9e74
+<7>[58797.840332] Idx 2 Loc 3 Len 102 From 150
+<7>[58797.840942]   PadSz 379 Step 11 PadBy 1
+<7>[58797.841430] Idx 1 Loc 487 Len 84 From 66
+<7>[58797.841766] Idx 0 Loc 574 Len 66 From 0
+<7>[58797.842376] Encrypt pkt Seq 26
+<7>[58797.842987] P3 Hdr:  4500029c a6774000 8032cc07 c0a8005f c0a80401 00000000 0000001a
+<7>[58797.843627] Kernel intercept: handle P3 data packet
+<7>[58797.843963] SKB: c73fde90, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58797.844604]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58797.844940]   DT c73ff0ac, MH (null), NH c73ff0ac, TH c73ff0c0
+<7>[58797.845581]   HD c73ff000, Tail c73ff1a8, End c73ff640
+<7>[58797.845947] New SKB: c6d01b20, SK c6b6b5c0, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58797.846588]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58797.846923]   DT c6d030ac, MH (null), NH c6d030ac, TH c6d030c0
+<7>[58797.847534]   HD c6d03000, Tail c6d03348, End c6d037e0
+<7>[58797.847930] Exit packet intercept (c6d01b20)
+<7>[58797.857452] P3 source host found: pkt c72c1d0c, sysnet c6d01b20
+<7>[58797.857788] Decrypt packet: Seq 51
+<7>[58797.858489] Deobfuscate packet: New Len 176
+<7>[58797.858825] Idx 2 Loc 3 Len 127
+<7>[58797.859161] Idx 1 Loc 133 Len 25
+<7>[58797.859497] Idx 0 Loc 161 Len 15
+<7>[58797.860626] Pkt (Len 64): 
+<7>[58797.860656]   45000040 13914000 7f066474 c0a80203 
+<7>[58797.860656]   c0a8005f 005abd99 356f1f26 d80ed216 
+<7>[58797.860687]   b0100102 ac770000 0101080a 061eb80e 
+<7>[58797.860717]   005940c2 0101050a d80ed14e d80ed216
+<7>[58797.862823] Kernel intercept: handle P3 data packet
+<7>[58797.863189] SKB: c6d01b20, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58797.863830]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58797.864166]   DT c6b69460, MH c6b69452, NH c6b69460, TH c6b69460
+<7>[58797.864837]   HD c6b69400, Tail c6b6952c, End c6b69560
+<7>[58797.865203] New SKB: c6d01b20, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58797.865814]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58797.866180]   DT c6b69460, MH c6b69452, NH c6b69460, TH c6b69474
+<7>[58797.866790]   HD c6b69400, Tail c6b694a0, End c6b69560
+<7>[58797.867218] Exit packet intercept (c6d01b20)
+<6>[58805.680450] batt:  98%, 4114 mV, -215 mA (-196 avg), 31.3 C, 1336 mAh
+<7>[58816.678588] P3 source host found: pkt c72c1d0c, sysnet c6f67980
+<7>[58816.679229] Decrypt packet: Seq 57
+<7>[58816.679626] Deobfuscate packet: New Len 176
+<7>[58816.679992] Idx 1 Loc 3 Len 150
+<7>[58816.680603] Idx 0 Loc 156 Len 20
+<7>[58816.681213] Pkt (Len 40): 
+<7>[58816.681213]   45000028 13ad4000 7f066470 c0a80203 
+<7>[58816.681243]   c0a8005f 005abd99 356f1f26 d80ed216 
+<7>[58816.681243]   50140000 6f6f0000
+<7>[58816.682800] Kernel intercept: handle P3 data packet
+<7>[58816.683410] SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58816.683776]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58816.684417]   DT c6b69c60, MH c6b69c52, NH c6b69c60, TH c6b69c60
+<7>[58816.684814]   HD c6b69c00, Tail c6b69d2c, End c6b69d60
+<7>[58816.685455] New SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58816.686096]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58816.686431]   DT c6b69c60, MH c6b69c52, NH c6b69c60, TH c6b69c74
+<7>[58816.687072]   HD c6b69c00, Tail c6b69c88, End c6b69d60
+<7>[58816.687500] Exit packet intercept (c6f67980)
+<7>[58817.596191] P3 dest subnet found: pkt c6c63bbc, sysnet c73fda10
+<7>[58817.597351] Pkt (Len 60): 
+<7>[58817.597381]   4500003c ab754000 40060b94 c0a8005f 
+<7>[58817.597412]   c0a80203 ac19005a f5afe3e2 00000000 
+<7>[58817.597412]   a00216d0 de8c0000 020405b4 0402080a 
+<7>[58817.597442]   00594897 00000000 01030301
+<7>[58817.599578] Reduce MSS from 1460 to 1388
+<7>[58817.599914] Obfuscate pkt: New len 204
+<7>[58817.600250] Obfuscate
+<7>[58817.600891] Blocks: 2, Sizes: Pkt 60 Len 176, USec af873
+<7>[58817.601226] Idx 1 Loc 3 Len 29 From 31
+<7>[58817.601562]   PadSz 110 Step 10 PadBy 4
+<7>[58817.602203] Idx 0 Loc 145 Len 31 From 0
+<7>[58817.602539] Encrypt pkt Seq 27
+<7>[58817.603057] P3 Hdr:  450000cc a6784000 8032cdd6 c0a8005f c0a80401 00000000 0000001b
+<7>[58817.603668] Kernel intercept: handle P3 data packet
+<7>[58817.604034] SKB: c73fda10, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58817.604736]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58817.605377]   DT c6f65494, MH (null), NH c6f65494, TH c6f654a8
+<7>[58817.605712]   HD c6f65400, Tail c6f654d0, End c6f654e0
+<7>[58817.606384] New SKB: c783ed40, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58817.606719]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58817.607360]   DT c6b69894, MH (null), NH c6b69894, TH c6b698a8
+<7>[58817.607696]   HD c6b69800, Tail c6b69960, End c6b69980
+<7>[58817.608367] Exit packet intercept (c783ed40)
+<7>[58817.617034] P3 source host found: pkt c72c1d0c, sysnet c6f67980
+<7>[58817.617675] Decrypt packet: Seq 58
+<7>[58817.618072] Deobfuscate packet: New Len 176
+<7>[58817.618408] Idx 1 Loc 3 Len 147
+<7>[58817.619018] Idx 0 Loc 153 Len 23
+<7>[58817.619812] Pkt (Len 60): 
+<7>[58817.619842]   4500003c 13ae4000 7f06645b c0a80203 
+<7>[58817.619873]   c0a8005f 005aac19 17c29e10 f5afe3e3 
+<7>[58817.619873]   a0122000 59d50000 0204056c 01030308 
+<7>[58817.619903]   0402080a 061ebfc6 00594897
+<7>[58817.622009] Kernel intercept: handle P3 data packet
+<7>[58817.622375] SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58817.623016]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58817.623352]   DT c6b69860, MH c6b69852, NH c6b69860, TH c6b69860
+<7>[58817.623992]   HD c6b69800, Tail c6b6992c, End c6b69960
+<7>[58817.624328] New SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58817.625030]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58817.625366]   DT c6b69860, MH c6b69852, NH c6b69860, TH c6b69874
+<7>[58817.625976]   HD c6b69800, Tail c6b6989c, End c6b69960
+<7>[58817.626434] P3 dest subnet found: pkt c72c1aa4, sysnet c6d01e20
+<7>[58817.627441] Pkt (Len 52): 
+<7>[58817.627441]   45000034 ab764000 40060b9b c0a8005f 
+<7>[58817.627471]   c0a80203 ac19005a f5afe3e3 17c29e11 
+<7>[58817.627471]   80100b68 9cef0000 0101080a 0059489a 
+<7>[58817.627502]   061ebfc6
+<7>[58817.629608] Obfuscate pkt: New len 204
+<7>[58817.629943] Obfuscate
+<7>[58817.630279] Blocks: 2, Sizes: Pkt 52 Len 176, USec b6b5e
+<7>[58817.630920] Idx 1 Loc 3 Len 32 From 20
+<7>[58817.631256]   PadSz 118 Step 13 PadBy 3
+<7>[58817.631622] Idx 0 Loc 156 Len 20 From 0
+<7>[58817.632232] Encrypt pkt Seq 28
+<7>[58817.632751] P3 Hdr:  450000cc a6794000 8032cdd5 c0a8005f c0a80401 00000000 0000001c
+<7>[58817.633361] Kernel intercept: handle P3 data packet
+<7>[58817.633728] SKB: c6d01e20, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58817.634368]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58817.634765]   DT c6f6549c, MH (null), NH c6f6549c, TH c6f654b0
+<7>[58817.635375]   HD c6f65400, Tail c6f654d0, End c6f654e0
+<7>[58817.635772] New SKB: c6f61c20, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58817.636413]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58817.636749]   DT c6b6949c, MH (null), NH c6b6949c, TH c6b694b0
+<7>[58817.637390]   HD c6b69400, Tail c6b69568, End c6b69580
+<7>[58817.637756] Exit packet intercept (c6f61c20)
+<7>[58817.638366] Exit packet intercept (c6f67980)
+<7>[58827.597686] P3 dest subnet found: pkt c6c63b94, sysnet c73fde90
+<7>[58827.599029] Pkt (Len 252): 
+<7>[58827.599060]   450000fc ab774000 40060ad2 c0a8005f 
+<7>[58827.599060]   c0a80203 ac19005a f5afe3e3 17c29e11 
+<7>[58827.599090]   80180b68 f5cd0000 0101080a 00594c7f 
+<7>[58827.599121]   061ebfc6 41474953 5443500a 52656369 
+<7>[58827.599121]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58827.599151]   53656e64 65723a20 35353535 35353535
+<7>[58827.602233] Obfuscate pkt: New len 668
+<7>[58827.602844] Obfuscate
+<7>[58827.603210] Blocks: 2, Sizes: Pkt 252 Len 640, USec b0182
+<7>[58827.603546] Idx 1 Loc 3 Len 144 From 108
+<7>[58827.604156]   PadSz 382 Step 9 PadBy 3
+<7>[58827.604614] Idx 0 Loc 532 Len 108 From 0
+<7>[58827.604980] Encrypt pkt Seq 29
+<7>[58827.605865] P3 Hdr:  4500029c a67a4000 8032cc04 c0a8005f c0a80401 00000000 0000001d
+<7>[58827.606201] Kernel intercept: handle P3 data packet
+<7>[58827.606842] SKB: c73fde90, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58827.607208]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58827.607818]   DT c6c698ac, MH (null), NH c6c698ac, TH c6c698c0
+<7>[58827.608184]   HD c6c69800, Tail c6c699a8, End c6c69e40
+<7>[58827.608825] New SKB: c6f67980, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58827.609191]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58827.609527]   DT c73ff0ac, MH (null), NH c73ff0ac, TH c73ff0c0
+<7>[58827.610168]   HD c73ff000, Tail c73ff348, End c73ff7e0
+<7>[58827.610565] Exit packet intercept (c6f67980)
+<7>[58827.904602] P3 dest subnet found: pkt c0421d0c, sysnet c73fde90
+<7>[58827.906219] Pkt (Len 252): 
+<7>[58827.906250]   450000fc ab784000 40060ad1 c0a8005f 
+<7>[58827.906280]   c0a80203 ac19005a f5afe3e3 17c29e11 
+<7>[58827.906280]   80180b68 f5ae0000 0101080a 00594c9e 
+<7>[58827.906311]   061ebfc6 41474953 5443500a 52656369 
+<7>[58827.906341]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58827.906341]   53656e64 65723a20 35353535 35353535
+<7>[58827.909393] Obfuscate pkt: New len 668
+<7>[58827.909729] Obfuscate
+<7>[58827.910064] Blocks: 2, Sizes: Pkt 252 Len 640, USec 6e07
+<7>[58827.910705] Idx 1 Loc 3 Len 144 From 108
+<7>[58827.911041]   PadSz 382 Step 14 PadBy 4
+<7>[58827.911437] Idx 0 Loc 532 Len 108 From 0
+<7>[58827.912048] Encrypt pkt Seq 30
+<7>[58827.912689] P3 Hdr:  4500029c a67b4000 8032cc03 c0a8005f c0a80401 00000000 0000001e
+<7>[58827.913299] Kernel intercept: handle P3 data packet
+<7>[58827.913665] SKB: c73fde90, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58827.914306]   ML 0, DL 0, PL 252, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58827.914642]   DT c6c698ac, MH (null), NH c6c698ac, TH c6c698c0
+<7>[58827.915252]   HD c6c69800, Tail c6c699a8, End c6c69e40
+<7>[58827.915649] New SKB: c6f67980, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58827.916259]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58827.916625]   DT c73ff0ac, MH (null), NH c73ff0ac, TH c73ff0c0
+<7>[58827.917236]   HD c73ff000, Tail c73ff348, End c73ff7e0
+<7>[58827.917633] Exit packet intercept (c6f67980)
+<7>[58827.927337] P3 source host found: pkt c72c1d0c, sysnet c6f67980
+<7>[58827.927703] Decrypt packet: Seq 60
+<7>[58827.928375] Deobfuscate packet: New Len 176
+<7>[58827.928710] Idx 1 Loc 3 Len 149
+<7>[58827.929046] Idx 0 Loc 155 Len 21
+<7>[58827.929901] Pkt (Len 64): 
+<7>[58827.929901]   45000040 13b14000 7f066454 c0a80203 
+<7>[58827.929931]   c0a8005f 005aac19 17c29e8d f5afe4ab 
+<7>[58827.929962]   b0100102 b41e0000 0101080a 061ec3cd 
+<7>[58827.929962]   00594c7f 0101050a f5afe3e3 f5afe4ab
+<7>[58827.932128] Kernel intercept: handle P3 data packet
+<7>[58827.932769] SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58827.933135]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58827.933776]   DT c6b69860, MH c6b69852, NH c6b69860, TH c6b69860
+<7>[58827.934112]   HD c6b69800, Tail c6b6992c, End c6b69960
+<7>[58827.934783] New SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58827.935424]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58827.935760]   DT c6b69860, MH c6b69852, NH c6b69860, TH c6b69874
+<7>[58827.936401]   HD c6b69800, Tail c6b698a0, End c6b69960
+<7>[58827.936828] Exit packet intercept (c6f67980)
+<7>[58832.346160] P3 source host found: pkt c72c1d0c, sysnet c6f61c20
+<7>[58832.346801] Decrypt packet: Seq 64
+<7>[58832.347229] Deobfuscate packet: New Len 176
+<7>[58832.347839] Idx 2 Loc 3 Len 112
+<7>[58832.348175] Idx 1 Loc 118 Len 25
+<7>[58832.348510] Idx 0 Loc 146 Len 30
+<7>[58832.348846] Decrypt control packet
+<7>[58832.350219] Control Pkt: Len 48 Seq 64
+<7>[58832.350219]  
+<7>[58832.350250]   4500004c 99b44000 8011db3b c0a80401 
+<7>[58832.350250]   c0a8005f 16151615 00300000 fea4f79b 
+<7>[58832.350280]   f6176817 3d7b3679 5e2801ff e9b75d3f 
+<7>[58832.350280]   26471b2a 88bdfa38 372a6eb4 0fb7257e 
+<7>[58832.350311]   e379fceb 9a98685e d068e5fd
+<7>[58832.353302] Control message 3:
+<7>[58832.353332]  00000026 0301111a 52aefbb5 afe3be33 1814303f d86a97e0 6344e34a 77ce89ef 0da28565 e895
+<7>[58832.354339] Control Data: Len 10 Seq 31: 
+<7>[58832.354339]   0000000a 04000000 0020
+<7>[58832.355346] Set P3 control message header
+<7>[58832.358489] Control Packet (170387): 
+<7>[58832.358489]   4500002c 99934000 8011db7c c0a8005f 
+<7>[58832.358520]   c0a80401 16151615 00100000 0628f848 
+<7>[58832.358551]   a77afae0 05762d57 3a049d14 00000000 
+<7>[58832.358551]   334971cb 01000000 00000000 003cc640 
+<7>[58832.358581]   00000000 f104d51e 00000000 00000000 
+<7>[58832.358581]   00000000 00000000 69b7c7c1 5234274f 
+<7>[58832.358612]   4aaddbfe 645cc890 085b0fd6 4df5af10 
+<7>[58832.358642]   11a09d97 6c8eb2d9 6bab1b55 066b4922 
+<7>[58832.358642]   e40b2fe1 686babb6 0903f8b1 ae9f2b5f 
+<7>[58832.358673]   8bb81854 7c876aef 4b62171d ba004aa8 
+<7>[58832.358673]   dc623616 bd4ca517 56a22bb3 2baef9a8
+<7>[58832.363830] Obfuscate and encrypt ctl pkt: Seq 31
+<7>[58832.364440] Obfuscate
+<7>[58832.364807] Blocks: 2, Sizes: Pkt 44 Len 176, USec 75e3f
+<7>[58832.365142] Idx 1 Loc 3 Len 18 From 26
+<7>[58832.365753]   PadSz 126 Step 14 PadBy 4
+<7>[58832.366119] Idx 0 Loc 150 Len 26 From 0
+<7>[58832.370147] Encrypted Control Packet (204): 
+<7>[58832.370178]   450000cc a67c4000 8032cdd2 c0a8005f 
+<7>[58832.370208]   c0a80401 00000000 0000001f 64e82192 
+<7>[58832.370208]   01b29cc0 5ef456c9 2bbfaae9 4b0328b8 
+<7>[58832.370239]   8c33e78b 83c339b5 872f5b81 2b638479 
+<7>[58832.370269]   f602a12f 20e8d605 d47c1a51 6a52c7bd 
+<7>[58832.370269]   c2596b4f 06d0c93a dffe5916 0ddb4001 
+<7>[58832.370300]   94769f2c 84ae1f66 d368c051 90a38372 
+<7>[58832.370300]   8201b256 0e920993 b60eeef6 20a8716d 
+<7>[58832.370330]   bf406fb7 b9bc3317 ab7fcc3c 5819f523 
+<7>[58832.370361]   990b4447 9b191e8b 007fb31b 51151618 
+<7>[58832.370361]   a9ce6b68 e6309017 ace8f3c3 35aa37ff 
+<7>[58832.370391]   a2bc6cbf 25f466f7 128ee88e a624ad5f 
+<7>[58832.370391]   82707c42 f996ddd9 fa098809
+<7>[58832.376190]   Enter send packet: KNet c050b500, NDev c72b2c00, SK c786b400
+<7>[58832.376800] Validate network
+<7>[58832.377136] Validate message size
+<7>[58832.377471]   Allocate SKB: SK c786b400, Len 224
+<7>[58832.378082] Set owner
+<7>[58832.378417]   Initialize SKB c6d01e20, Ptype 2048, 802.3 1
+<7>[58832.378753]  == Reset MAC header
+<7>[58832.379394] Control SKB: c6d01e20, SK c786b400, DST c6dbf0e0, DEV c72b2c00, PL 238, HL 0
+<7>[58832.379760]   HD c6f65800, DT c6f65852, MH c6f65852, NH c6f65860, TH c6f6587c, Tail c6f65940, End c6f65940
+<7>[58832.380401]   Other: ND.Ops bf02234c, Hops c0347940, Create c02437e4
+<7>[58832.381011]   Dev adr:  90 21 55 07 4c 10
+<7>[58832.381835]   MAC HDR:
+<7>[58832.381835]   000c29b6 b3de9021 55074c10 08004500
+<7>[58832.381866]   00cca67c 40008032 cdd2c0a8 005fc0a8
+<7>[58832.381866]   04010000 00000000 001f64e8 219201b2
+<7>[58832.381896]   9cc05ef4 56c92bbf aae94b03 28b88c33
+<7>[58832.384063] Control packet handled
+<7>[58832.384368] Kernel intercept: drop P3 control packet
+<7>[58832.387359] P3 source host found: pkt c72c1d0c, sysnet c6f61c20
+<7>[58832.387695] Decrypt packet: Seq 65
+<7>[58832.388366] Deobfuscate packet: New Len 176
+<7>[58832.388732] Idx 2 Loc 3 Len 139
+<7>[58832.389068] Idx 1 Loc 145 Len 17
+<7>[58832.389404] Idx 0 Loc 165 Len 11
+<7>[58832.390014] Decrypt control packet
+<7>[58832.390686] Control Pkt: Len 16 Seq 65
+<7>[58832.390686]  
+<7>[58832.390686]   4500002c 99b54000 8011db5a c0a80401 
+<7>[58832.390716]   c0a8005f 16151615 00100000 6fb77b02 
+<7>[58832.390747]   1bd6466e df62f902 d6592c9f
+<7>[58832.392944] Control message 4:
+<7>[58832.392944]  0000000a 04000000 0042
+<7>[58832.393585] Rekey: c7d7e434
+<7>[58832.393920]  == DE1 c732e600, DE0 (null), DD1 (null), DD0 c72a6800
+<7>[58832.394592]  == CE1 c72a6400, CE0 (null), CD1 (null), CD0 c7f76a00
+<7>[58832.395294]   New DKey:  111a52ae fbb5afe3 be331814 303fd86a
+<7>[58832.395690]   New CKey:  97e06344 e34a77ce 89ef0da2 8565e895
+<7>[58832.396331] Call init crypto: c7d7e484, 16
+<7>[58832.396728] Initial Key: 111a52aefbb5afe3be331814303fd86a
+<7>[58832.397094] Exit init crypto
+<7>[58832.397705] Control packet handled
+<7>[58832.398040] Kernel intercept: drop P3 control packet
+<7>[58836.216125] P3 dest subnet found: pkt c71c1bdc, sysnet c73fdb90
+<7>[58836.216430] Pkt (Len 52): 
+<7>[58836.216430]   45000034 ab794000 40060b98 c0a8005f 
+<7>[58836.216430]   c0a80203 ac19005a f5afe4ab 17c29e11 
+<7>[58836.216430]   80110b68 94e30000 0101080a 00594fdd 
+<7>[58836.216430]   061ebfc6
+<7>[58836.217163] Obfuscate pkt: New len 204
+<7>[58836.217285] Obfuscate
+<7>[58836.217376] Blocks: 2, Sizes: Pkt 52 Len 176, USec 51e77
+<7>[58836.217590] Idx 1 Loc 3 Len 32 From 20
+<7>[58836.217712]   PadSz 118 Step 14 PadBy 4
+<7>[58836.217803] Idx 0 Loc 156 Len 20 From 0
+<7>[58836.218017] Encrypt pkt Seq 32
+<7>[58836.218170] P3 Hdr:  450000cc a67d4000 8032cdd1 c0a8005f c0a80401 00000000 00000020
+<7>[58836.218353] Kernel intercept: handle P3 data packet
+<7>[58836.218475] SKB: c73fdb90, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58836.218688]   ML 0, DL 0, PL 52, HL 208, Pr 0, Sz 400, Us 1
+<7>[58836.218780]   DT c6818c9c, MH (null), NH c6818c9c, TH c6818cb0
+<7>[58836.218994]   HD c6818c00, Tail c6818cd0, End c6818ce0
+<7>[58836.219085] New SKB: c6f61ce0, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58836.219299]   ML 0, DL 0, PL 204, HL 360, Pr 0, Sz 560, Us 1
+<7>[58836.219421]   DT c6f2349c, MH (null), NH c6f2349c, TH c6f234b0
+<7>[58836.219604]   HD c6f23400, Tail c6f23568, End c6f23580
+<7>[58836.219726] Exit packet intercept (c6f61ce0)
+<7>[58836.222045] P3 source host found: pkt c72c1d0c, sysnet c6f61ce0
+<7>[58836.222076] Decrypt packet: Seq 66
+<7>[58836.222106] Deobfuscate packet: New Len 176
+<7>[58836.222106] Idx 1 Loc 3 Len 139
+<7>[58836.222106] Idx 0 Loc 145 Len 31
+<7>[58836.222229] Pkt (Len 52): 
+<7>[58836.222229]   45000034 13c24000 7f06644f c0a80203 
+<7>[58836.222229]   c0a8005f 005aac19 17c29e8d f5afe4ac 
+<7>[58836.222229]   80100102 97890000 0101080a 061ec70a 
+<7>[58836.222229]   00594fdd
+<7>[58836.222229] Kernel intercept: handle P3 data packet
+<7>[58836.222259] SKB: c6f61ce0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58836.222259]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58836.222259]   DT c6a25c60, MH c6a25c52, NH c6a25c60, TH c6a25c60
+<7>[58836.222290]   HD c6a25c00, Tail c6a25d2c, End c6a25d60
+<7>[58836.222290] New SKB: c6f61ce0, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58836.222320]   ML 14, DL 0, PL 52, HL 0, Pr 8, Sz 528, Us 1
+<7>[58836.222320]   DT c6a25c60, MH c6a25c52, NH c6a25c60, TH c6a25c74
+<7>[58836.222320]   HD c6a25c00, Tail c6a25c94, End c6a25d60
+<7>[58836.222351] Exit packet intercept (c6f61ce0)
+<7>[58836.282562] P3 source host found: pkt c72c1d0c, sysnet c6f67b00
+<7>[58836.283203] Decrypt packet: Seq 67
+<7>[58836.283599] Deobfuscate packet: New Len 176
+<7>[58836.283935] Idx 2 Loc 3 Len 140
+<7>[58836.284606] Idx 1 Loc 146 Len 5
+<7>[58836.284942] Idx 0 Loc 154 Len 22
+<7>[58836.285675] Pkt (Len 52): 
+<7>[58836.285675]   45000034 13c34000 7f06644e c0a80203 
+<7>[58836.285705]   c0a8005f 005aac19 17c29e8d f5afe4ac 
+<7>[58836.285736]   80110102 97820000 0101080a 061ec710 
+<7>[58836.285736]   00594fdd
+<7>[58836.287841] Kernel intercept: handle P3 data packet
+<7>[58836.288208] SKB: c6f67b00, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58836.288848]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58836.289215]   DT c7350060, MH c7350052, NH c7350060, TH c7350060
+<7>[58836.289825]   HD c7350000, Tail c735012c, End c7350160
+<7>[58836.290191] New SKB: c6f67b00, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58836.290832]   ML 14, DL 0, PL 52, HL 0, Pr 8, Sz 528, Us 1
+<7>[58836.291442]   DT c7350060, MH c7350052, NH c7350060, TH c7350074
+<7>[58836.291778]   HD c7350000, Tail c7350094, End c7350160
+<7>[58836.292205] P3 dest subnet found: pkt c72c1a74, sysnet c6f61c20
+<7>[58836.292816] Pkt (Len 40): 
+<7>[58836.292846]   45000028 00004000 4006b71d c0a8005f 
+<7>[58836.292846]   c0a80203 ac19005a f5afe4ac 00000000 
+<7>[58836.292877]   50040000 a55d0000
+<7>[58836.294403] Obfuscate pkt: New len 204
+<7>[58836.295043] Obfuscate
+<7>[58836.295379] Blocks: 3, Sizes: Pkt 40 Len 176, USec 64f0c
+<7>[58836.295715] Idx 2 Loc 3 Len 14 From 26
+<7>[58836.296325]   PadSz 127 Step 11 PadBy 1
+<7>[58836.296722] Idx 1 Loc 147 Len 13 From 13
+<7>[58836.297058] Idx 0 Loc 163 Len 13 From 0
+<7>[58836.297698] Encrypt pkt Seq 33
+<7>[58836.298248] P3 Hdr:  450000cc a67e4000 8032cdd0 c0a8005f c0a80401 00000000 00000021
+<7>[58836.298858] Kernel intercept: handle P3 data packet
+<7>[58836.299224] SKB: c6f61c20, SK c786bd60, DST c6dbf2e0, DEV (null) Fl: 1.0.0.0.0.0.0
+<7>[58836.299835]   ML 0, DL 0, PL 40, HL 0, Pr 0, Sz 336, Us 1
+<7>[58836.300231]   DT c732e460, MH (null), NH c732e460, TH c732e474
+<7>[58836.300842]   HD c732e400, Tail c732e488, End c732e4a0
+<7>[58836.301239] New SKB: c6f67980, SK c786bd60, DST c6dbf2e0, DEV (null) Fl: 1.0.0.0.0.0.0
+<7>[58836.301879]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 528, Us 1
+<7>[58836.302215]   DT c6ccd460, MH (null), NH c6ccd460, TH c6ccd474
+<7>[58836.302825]   HD c6ccd400, Tail c6ccd52c, End c6ccd560
+<7>[58836.303192] Exit packet intercept (c6f67980)
+<7>[58836.303802] Exit packet intercept (c6f67b00)
+<6>[58855.777679] batt:  98%, 4114 mV, -116 mA (-151 avg), 31.1 C, 1334 mAh
+<7>[58865.458801] P3 dest subnet found: pkt c7347bbc, sysnet c693eed0
+<7>[58865.459106] Pkt (Len 60): 
+<7>[58865.459106]   4500003c 2f9f4000 4006876a c0a8005f 
+<7>[58865.459136]   c0a80203 ac1b005a 21e274d6 00000000 
+<7>[58865.459136]   a00216d0 0eb30000 020405b4 0402080a 
+<7>[58865.459136]   00595b49 00000000 01030301
+<7>[58865.460021] Reduce MSS from 1460 to 1388
+<7>[58865.460174] Obfuscate pkt: New len 204
+<7>[58865.460418] Obfuscate
+<7>[58865.460571] Blocks: 2, Sizes: Pkt 60 Len 176, USec 8d472
+<7>[58865.460723] Idx 1 Loc 3 Len 29 From 31
+<7>[58865.460968]   PadSz 110 Step 9 PadBy 3
+<7>[58865.461120] Idx 0 Loc 145 Len 31 From 0
+<7>[58865.461273] Encrypt pkt Seq 34
+<7>[58865.461578] P3 Hdr:  450000cc a67f4000 8032cdcf c0a8005f c0a80401 00000000 00000022
+<7>[58865.461730] Kernel intercept: handle P3 data packet
+<7>[58865.462005] SKB: c693eed0, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58865.462158]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58865.462402]   DT c6b69c94, MH (null), NH c6b69c94, TH c6b69ca8
+<7>[58865.462554]   HD c6b69c00, Tail c6b69cd0, End c6b69ce0
+<7>[58865.462829] New SKB: c6f67980, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58865.463073]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58865.463226]   DT c7350094, MH (null), NH c7350094, TH c73500a8
+<7>[58865.463500]   HD c7350000, Tail c7350160, End c7350180
+<7>[58865.463684] Exit packet intercept (c6f67980)
+<7>[58865.465911] P3 source host found: pkt c72c1d0c, sysnet c6f67980
+<7>[58865.466186] Decrypt packet: Seq 68
+<7>[58865.466369] Deobfuscate packet: New Len 176
+<7>[58865.466613] Idx 1 Loc 3 Len 139
+<7>[58865.466766] Idx 0 Loc 145 Len 31
+<7>[58865.467071] Pkt (Len 60): 
+<7>[58865.467071]   4500003c 13d94000 7f066430 c0a80203 
+<7>[58865.467071]   c0a8005f 005aac1b 9edbd822 21e274d7 
+<7>[58865.467071]   a0122000 b61e0000 0204056c 01030308 
+<7>[58865.467102]   0402080a 061ed277 00595b49
+<7>[58865.467987] Kernel intercept: handle P3 data packet
+<7>[58865.468139] SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58865.468383]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58865.468658]   DT c7350060, MH c7350052, NH c7350060, TH c7350060
+<7>[58865.468811]   HD c7350000, Tail c735012c, End c7350160
+<7>[58865.469055] New SKB: c6f67980, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58865.469207]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58865.469482]   DT c7350060, MH c7350052, NH c7350060, TH c7350074
+<7>[58865.469604]   HD c7350000, Tail c735009c, End c7350160
+<7>[58865.469879] Exit packet intercept (c6f67980)
+<7>[58865.493225] P3 dest subnet found: pkt c7347cdc, sysnet c6f67b00
+<7>[58865.493530] Pkt (Len 52): 
+<7>[58865.493530]   45000034 2fa04000 40068771 c0a8005f 
+<7>[58865.493530]   c0a80203 ac1b005a 21e274d7 9edbd823 
+<7>[58865.493560]   80100b68 f9380000 0101080a 00595b4c 
+<7>[58865.493560]   061ed277
+<7>[58865.494140] Obfuscate pkt: New len 204
+<7>[58865.494354] Obfuscate
+<7>[58865.494476] Blocks: 2, Sizes: Pkt 52 Len 176, USec 958e3
+<7>[58865.494598] Idx 1 Loc 3 Len 33 From 19
+<7>[58865.494781]   PadSz 118 Step 10 PadBy 4
+<7>[58865.494903] Idx 0 Loc 157 Len 19 From 0
+<7>[58865.495025] Encrypt pkt Seq 35
+<7>[58865.495269] P3 Hdr:  450000cc a6804000 8032cdce c0a8005f c0a80401 00000000 00000023
+<7>[58865.495483] Kernel intercept: handle P3 data packet
+<7>[58865.495666] SKB: c6f67b00, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58865.495788]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58865.496002]   DT c6b69c9c, MH (null), NH c6b69c9c, TH c6b69cb0
+<7>[58865.496093]   HD c6b69c00, Tail c6b69cd0, End c6b69ce0
+<7>[58865.496307] New SKB: c6f61c20, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58865.496429]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58865.496612]   DT c6e63c9c, MH (null), NH c6e63c9c, TH c6e63cb0
+<7>[58865.496734]   HD c6e63c00, Tail c6e63d68, End c6e63d80
+<7>[58865.496948] Exit packet intercept (c6f61c20)
+<7>[58875.359283] P3 dest subnet found: pkt c7347b94, sysnet c693e2d0
+<7>[58875.359741] Pkt (Len 253): 
+<7>[58875.359741]   450000fd 2fa14000 400686a7 c0a8005f 
+<7>[58875.359741]   c0a80203 ac1b005a 21e274d7 9edbd823 
+<7>[58875.359741]   80180b68 27250000 0101080a 00595f27 
+<7>[58875.359771]   061ed277 41474953 5443500a 52656369 
+<7>[58875.359771]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58875.359771]   53656e64 65723a20 35353535 35353535
+<7>[58875.360748] Obfuscate pkt: New len 668
+<7>[58875.360839] Obfuscate
+<7>[58875.360961] Blocks: 2, Sizes: Pkt 253 Len 640, USec 74f3a
+<7>[58875.361145] Idx 1 Loc 3 Len 145 From 108
+<7>[58875.361267]   PadSz 381 Step 9 PadBy 3
+<7>[58875.361389] Idx 0 Loc 532 Len 108 From 0
+<7>[58875.361572] Encrypt pkt Seq 36
+<7>[58875.361816] P3 Hdr:  4500029c a6814000 8032cbfd c0a8005f c0a80401 00000000 00000024
+<7>[58875.361999] Kernel intercept: handle P3 data packet
+<7>[58875.362121] SKB: c693e2d0, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58875.362304]   ML 0, DL 0, PL 253, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58875.362426]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58875.362640]   HD c6f9f000, Tail c6f9f1a9, End c6f9f640
+<7>[58875.362731] New SKB: c7bb8180, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58875.362976]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58875.363067]   DT c6eef0ac, MH (null), NH c6eef0ac, TH c6eef0c0
+<7>[58875.363281]   HD c6eef000, Tail c6eef348, End c6eef7e0
+<7>[58875.363403] Exit packet intercept (c7bb8180)
+<7>[58875.874572] P3 dest subnet found: pkt c0421d0c, sysnet c693e2d0
+<7>[58875.875915] Pkt (Len 253): 
+<7>[58875.875946]   450000fd 2fa24000 400686a6 c0a8005f 
+<7>[58875.875946]   c0a80203 ac1b005a 21e274d7 9edbd823 
+<7>[58875.875976]   80180b68 26f10000 0101080a 00595f5b 
+<7>[58875.875976]   061ed277 41474953 5443500a 52656369 
+<7>[58875.876007]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58875.876037]   53656e64 65723a20 35353535 35353535
+<7>[58875.879058] Obfuscate pkt: New len 668
+<7>[58875.879394] Obfuscate
+<7>[58875.879730] Blocks: 2, Sizes: Pkt 253 Len 640, USec f39aa
+<7>[58875.880340] Idx 1 Loc 3 Len 145 From 108
+<7>[58875.880676]   PadSz 381 Step 9 PadBy 3
+<7>[58875.881347] Idx 0 Loc 532 Len 108 From 0
+<7>[58875.881683] Encrypt pkt Seq 37
+<7>[58875.882324] P3 Hdr:  4500029c a6824000 8032cbfc c0a8005f c0a80401 00000000 00000025
+<7>[58875.882934] Kernel intercept: handle P3 data packet
+<7>[58875.883300] SKB: c693e2d0, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58875.883941]   ML 0, DL 0, PL 253, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58875.884582]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58875.884918]   HD c6f9f000, Tail c6f9f1a9, End c6f9f640
+<7>[58875.885314] New SKB: c7bb8180, SK c6d4f560, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58875.885925]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58875.886566]   DT c6eef0ac, MH (null), NH c6eef0ac, TH c6eef0c0
+<7>[58875.886901]   HD c6eef000, Tail c6eef348, End c6eef7e0
+<7>[58875.887573] Exit packet intercept (c7bb8180)
+<7>[58875.897705] P3 source host found: pkt c72c1d0c, sysnet c7bb8180
+<7>[58875.898345] Decrypt packet: Seq 71
+<7>[58875.898742] Deobfuscate packet: New Len 176
+<7>[58875.899078] Idx 1 Loc 3 Len 138
+<7>[58875.899414] Idx 0 Loc 144 Len 32
+<7>[58875.900268] Pkt (Len 64): 
+<7>[58875.900268]   45000040 13dc4000 7f066429 c0a80203 
+<7>[58875.900299]   c0a8005f 005aac1b 9edbd89d 21e275a0 
+<7>[58875.900299]   b0100102 961a0000 0101080a 061ed68a 
+<7>[58875.900329]   00595f27 0101050a 21e274d7 21e275a0
+<7>[58875.902435] Kernel intercept: handle P3 data packet
+<7>[58875.902801] SKB: c7bb8180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58875.903442]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58875.903778]   DT c6818060, MH c6818052, NH c6818060, TH c6818060
+<7>[58875.904418]   HD c6818000, Tail c681812c, End c6818160
+<7>[58875.904815] New SKB: c7bb8180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58875.905456]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58875.905792]   DT c6818060, MH c6818052, NH c6818060, TH c6818074
+<7>[58875.906402]   HD c6818000, Tail c68180a0, End c6818160
+<7>[58875.906829] Exit packet intercept (c7bb8180)
+<7>[58894.400665] P3 source host found: pkt c72c1d0c, sysnet c7bb8480
+<7>[58894.401031] Decrypt packet: Seq 76
+<7>[58894.401733] Deobfuscate packet: New Len 176
+<7>[58894.402069] Idx 2 Loc 3 Len 141
+<7>[58894.402404] Idx 1 Loc 147 Len 13
+<7>[58894.402740] Idx 0 Loc 163 Len 13
+<7>[58894.403625] Pkt (Len 40): 
+<7>[58894.403625]   45000028 13e44000 7f066439 c0a80203 
+<7>[58894.403656]   c0a8005f 005aac1b 9edbd89d 21e275a0 
+<7>[58894.403686]   50140000 70ac0000
+<7>[58894.405273] Kernel intercept: handle P3 data packet
+<7>[58894.405883] SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58894.406250]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58894.406860]   DT c7158c60, MH c7158c52, NH c7158c60, TH c7158c60
+<7>[58894.407196]   HD c7158c00, Tail c7158d2c, End c7158d60
+<7>[58894.407836] New SKB: c7bb8480, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58894.408203]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58894.408843]   DT c7158c60, MH c7158c52, NH c7158c60, TH c7158c74
+<7>[58894.409179]   HD c7158c00, Tail c7158c88, End c7158d60
+<7>[58894.409881] Exit packet intercept (c7bb8480)
+<7>[58895.434204] P3 dest subnet found: pkt c7347bbc, sysnet c6d01d70
+<7>[58895.435455] Pkt (Len 60): 
+<7>[58895.435455]   4500003c 296f4000 40068d9a c0a8005f 
+<7>[58895.435485]   c0a80203 ac1d005a 3e4a4f91 00000000 
+<7>[58895.435516]   a00216d0 0bd90000 020405b4 0402080a 
+<7>[58895.435516]   005966fe 00000000 01030301
+<7>[58895.437377] Reduce MSS from 1460 to 1388
+<7>[58895.438018] Obfuscate pkt: New len 204
+<7>[58895.438323] Obfuscate
+<7>[58895.438659] Blocks: 2, Sizes: Pkt 60 Len 176, USec 87eda
+<7>[58895.439300] Idx 1 Loc 3 Len 29 From 31
+<7>[58895.439636]   PadSz 110 Step 9 PadBy 3
+<7>[58895.440002] Idx 0 Loc 145 Len 31 From 0
+<7>[58895.440612] Encrypt pkt Seq 38
+<7>[58895.441131] P3 Hdr:  450000cc a6834000 8032cdcb c0a8005f c0a80401 00000000 00000026
+<7>[58895.441772] Kernel intercept: handle P3 data packet
+<7>[58895.442108] SKB: c6d01d70, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58895.442749]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58895.443084]   DT c6b5ec94, MH (null), NH c6b5ec94, TH c6b5eca8
+<7>[58895.443725]   HD c6b5ec00, Tail c6b5ecd0, End c6b5ece0
+<7>[58895.444091] New SKB: c7bb8180, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58895.444793]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58895.445404]   DT c6f39494, MH (null), NH c6f39494, TH c6f394a8
+<7>[58895.445770]   HD c6f39400, Tail c6f39560, End c6f39580
+<7>[58895.446166] Exit packet intercept (c7bb8180)
+<7>[58895.457519] P3 source host found: pkt c72c1d0c, sysnet c7bb8180
+<7>[58895.457519] Decrypt packet: Seq 77
+<7>[58895.457550] Deobfuscate packet: New Len 176
+<7>[58895.457550] Idx 2 Loc 3 Len 133
+<7>[58895.457580] Idx 1 Loc 139 Len 20
+<7>[58895.457580] Idx 0 Loc 162 Len 14
+<7>[58895.457702] Pkt (Len 60): 
+<7>[58895.457702]   4500003c 13e54000 7f066424 c0a80203 
+<7>[58895.457702]   c0a8005f 005aac1d f0b375ef 3e4a4f92 
+<7>[58895.457702]   a0122000 b7e80000 0204056c 01030308 
+<7>[58895.457733]   0402080a 061ede2e 005966fe
+<7>[58895.457733] Kernel intercept: handle P3 data packet
+<7>[58895.457733] SKB: c7bb8180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58895.457763]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58895.457763]   DT c6f39460, MH c6f39452, NH c6f39460, TH c6f39460
+<7>[58895.457763]   HD c6f39400, Tail c6f3952c, End c6f39560
+<7>[58895.457794] New SKB: c7bb8180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58895.457794]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58895.457794]   DT c6f39460, MH c6f39452, NH c6f39460, TH c6f39474
+<7>[58895.457824]   HD c6f39400, Tail c6f3949c, End c6f39560
+<7>[58895.457885] P3 dest subnet found: pkt c72c1aa4, sysnet c7bb8480
+<7>[58895.457977] Pkt (Len 52): 
+<7>[58895.457977]   45000034 29704000 40068da1 c0a8005f 
+<7>[58895.457977]   c0a80203 ac1d005a 3e4a4f92 f0b375f0 
+<7>[58895.457977]   80100b68 fb020000 0101080a 00596701 
+<7>[58895.458007]   061ede2e
+<7>[58895.458007] Obfuscate pkt: New len 204
+<7>[58895.458007] Obfuscate
+<7>[58895.458007] Blocks: 2, Sizes: Pkt 52 Len 176, USec 8ca6e
+<7>[58895.458038] Idx 1 Loc 3 Len 32 From 20
+<7>[58895.458038]   PadSz 118 Step 13 PadBy 3
+<7>[58895.458038] Idx 0 Loc 156 Len 20 From 0
+<7>[58895.458068] Encrypt pkt Seq 39
+<7>[58895.458129] P3 Hdr:  450000cc a6844000 8032cdca c0a8005f c0a80401 00000000 00000027
+<7>[58895.458129] Kernel intercept: handle P3 data packet
+<7>[58895.458129] SKB: c7bb8480, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58895.458160]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58895.458160]   DT c6b5ec9c, MH (null), NH c6b5ec9c, TH c6b5ecb0
+<7>[58895.458160]   HD c6b5ec00, Tail c6b5ecd0, End c6b5ece0
+<7>[58895.458190] New SKB: c7bb8cc0, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58895.458190]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58895.458221]   DT c6f3989c, MH (null), NH c6f3989c, TH c6f398b0
+<7>[58895.458221]   HD c6f39800, Tail c6f39968, End c6f39980
+<7>[58895.458251] Exit packet intercept (c7bb8cc0)
+<7>[58895.458251] Exit packet intercept (c7bb8180)
+<7>[58905.420410] P3 dest subnet found: pkt c7347b94, sysnet c6d012f0
+<7>[58905.421783] Pkt (Len 253): 
+<7>[58905.421783]   450000fd 29714000 40068cd7 c0a8005f 
+<7>[58905.421813]   c0a80203 ac1d005a 3e4a4f92 f0b375f0 
+<7>[58905.421813]   80180b68 28e20000 0101080a 00596ae5 
+<7>[58905.421844]   061ede2e 41474953 5443500a 52656369 
+<7>[58905.421875]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58905.421875]   53656e64 65723a20 35353535 35353535
+<7>[58905.424743] Obfuscate pkt: New len 668
+<7>[58905.425354] Obfuscate
+<7>[58905.425689] Blocks: 2, Sizes: Pkt 253 Len 640, USec 84c12
+<7>[58905.426025] Idx 1 Loc 3 Len 145 From 108
+<7>[58905.426666]   PadSz 381 Step 9 PadBy 3
+<7>[58905.427062] Idx 0 Loc 532 Len 108 From 0
+<7>[58905.427398] Encrypt pkt Seq 40
+<7>[58905.428283] P3 Hdr:  4500029c a6854000 8032cbf9 c0a8005f c0a80401 00000000 00000028
+<7>[58905.428619] Kernel intercept: handle P3 data packet
+<7>[58905.429260] SKB: c6d012f0, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58905.429626]   ML 0, DL 0, PL 253, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58905.430267]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58905.430603]   HD c6f9f000, Tail c6f9f1a9, End c6f9f640
+<7>[58905.431243] New SKB: c7bb8180, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58905.431884]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58905.432220]   DT c6eef0ac, MH (null), NH c6eef0ac, TH c6eef0c0
+<7>[58905.432861]   HD c6eef000, Tail c6eef348, End c6eef7e0
+<7>[58905.433258] Exit packet intercept (c7bb8180)
+<7>[58905.964569] P3 dest subnet found: pkt c0421d0c, sysnet c6d012f0
+<7>[58905.966186] Pkt (Len 253): 
+<7>[58905.966186]   450000fd 29724000 40068cd6 c0a8005f 
+<7>[58905.966217]   c0a80203 ac1d005a 3e4a4f92 f0b375f0 
+<7>[58905.966247]   80180b68 28ab0000 0101080a 00596b1c 
+<7>[58905.966247]   061ede2e 41474953 5443500a 52656369 
+<7>[58905.966278]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58905.966278]   53656e64 65723a20 35353535 35353535
+<7>[58905.969299] Obfuscate pkt: New len 668
+<7>[58905.969635] Obfuscate
+<7>[58905.969970] Blocks: 2, Sizes: Pkt 253 Len 640, USec 157eb
+<7>[58905.970581] Idx 1 Loc 3 Len 145 From 108
+<7>[58905.970916]   PadSz 381 Step 10 PadBy 4
+<7>[58905.971313] Idx 0 Loc 532 Len 108 From 0
+<7>[58905.971923] Encrypt pkt Seq 41
+<7>[58905.972564] P3 Hdr:  4500029c a6864000 8032cbf8 c0a8005f c0a80401 00000000 00000029
+<7>[58905.973175] Kernel intercept: handle P3 data packet
+<7>[58905.973541] SKB: c6d012f0, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58905.974151]   ML 0, DL 0, PL 253, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58905.974487]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58905.975128]   HD c6f9f000, Tail c6f9f1a9, End c6f9f640
+<7>[58905.975494] New SKB: c7bb8180, SK c6f69a60, DST c6dbf2e0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58905.976135]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58905.976470]   DT c6eef0ac, MH (null), NH c6eef0ac, TH c6eef0c0
+<7>[58905.977111]   HD c6eef000, Tail c6eef348, End c6eef7e0
+<7>[58905.977508] Exit packet intercept (c7bb8180)
+<6>[58905.980560] batt:  98%, 4109 mV, -123 mA (-135 avg), 31.6 C, 1332 mAh
+<7>[58905.987457] P3 source host found: pkt c72c1d0c, sysnet c7bb8180
+<7>[58905.988067] Decrypt packet: Seq 80
+<7>[58905.988464] Deobfuscate packet: New Len 176
+<7>[58905.989105] Idx 1 Loc 3 Len 149
+<7>[58905.989440] Idx 0 Loc 155 Len 21
+<7>[58905.990295] Pkt (Len 64): 
+<7>[58905.990295]   45000040 14044000 7f066401 c0a80203 
+<7>[58905.990325]   c0a8005f 005aac1d f0b3766a 3e4a505b 
+<7>[58905.990325]   b0100102 a98b0000 0101080a 061ee24b 
+<7>[58905.990356]   00596ae5 0101050a 3e4a4f92 3e4a505b
+<7>[58905.992492] Kernel intercept: handle P3 data packet
+<7>[58905.992858] SKB: c7bb8180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58905.993469]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58905.994110]   DT c6f39460, MH c6f39452, NH c6f39460, TH c6f39460
+<7>[58905.994506]   HD c6f39400, Tail c6f3952c, End c6f39560
+<7>[58905.994873] New SKB: c7bb8180, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58905.995208]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58905.995849]   DT c6f39460, MH c6f39452, NH c6f39460, TH c6f39474
+<7>[58905.996185]   HD c6f39400, Tail c6f394a0, End c6f39560
+<7>[58905.996917] Exit packet intercept (c7bb8180)
+<6>[58917.290039] sony_tft_set_pwm_val: 23
+<6>[58917.305877] sony_tft_set_pwm_val: 22
+<6>[58917.322143] sony_tft_set_pwm_val: 21
+<6>[58917.339447] sony_tft_set_pwm_val: 20
+<6>[58924.290893] sony_tft_set_pwm_val: 18
+<6>[58924.306549] sony_tft_set_pwm_val: 17
+<6>[58924.321868] sony_tft_set_pwm_val: 16
+<6>[58924.338134] sony_tft_set_pwm_val: 15
+<6>[58924.354400] sony_tft_set_pwm_val: 14
+<6>[58924.370666] sony_tft_set_pwm_val: 13
+<6>[58924.386962] sony_tft_set_pwm_val: 12
+<6>[58924.403259] sony_tft_set_pwm_val: 11
+<6>[58924.419525] sony_tft_set_pwm_val: 10
+<6>[58924.435791] sony_tft_set_pwm_val: 8
+<6>[58924.452056] sony_tft_set_pwm_val: 7
+<6>[58924.468353] sony_tft_set_pwm_val: 6
+<6>[58924.484649] sony_tft_set_pwm_val: 5
+<6>[58924.501037] sony_tft_set_pwm_val: 4
+<7>[58924.503997] P3 source host found: pkt c72c1d0c, sysnet c7bb8240
+<7>[58924.504364] Decrypt packet: Seq 85
+<7>[58924.504791] Deobfuscate packet: New Len 176
+<7>[58924.505401] Idx 2 Loc 3 Len 141
+<7>[58924.505737] Idx 1 Loc 147 Len 13
+<7>[58924.506072] Idx 0 Loc 163 Len 13
+<7>[58924.506958] Pkt (Len 40): 
+<7>[58924.506958]   45000028 141a4000 7f066403 c0a80203 
+<7>[58924.506988]   c0a8005f 005aac1d f0b3766a 3e4a505b 
+<7>[58924.506988]   50140000 89e20000
+<7>[58924.508544] Kernel intercept: handle P3 data packet
+<7>[58924.508880] SKB: c7bb8240, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58924.509490]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58924.509887]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b460
+<7>[58924.510498]   HD c6c8b400, Tail c6c8b52c, End c6c8b560
+<7>[58924.510864] New SKB: c7bb8240, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58924.511505]   ML 14, DL 0, PL 40, HL 0, Pr 8, Sz 528, Us 1
+<7>[58924.512115]   DT c6c8b460, MH c6c8b452, NH c6c8b460, TH c6c8b474
+<7>[58924.512481]   HD c6c8b400, Tail c6c8b488, End c6c8b560
+<7>[58924.513183] Exit packet intercept (c7bb8240)
+<6>[58924.517913] sony_tft_set_pwm_val: 3
+<6>[58924.535552] sony_tft_set_pwm_val: 2
+<6>[58924.550567] sony_tft_set_pwm_val: 1
+<6>[58924.566345] request_suspend_state: sleep (0->3) at 58919841909343 (2011-10-11 13:49:49.684448252 UTC)
+<6>[58924.566650] capella_cm3602_ioctl cmd 1
+<6>[58924.567810] sony_tft_set_pwm_val: 0
+<7>[58924.568725] flashlight_control: mode 0 -> 0
+<6>[58924.568969] flashlight_control: off
+<6>[58924.571502] lcdc_blank: ()
+<6>[58924.571655] sony_tft_panel_blank: +()
+<6>[58924.572937] capella_cm3602_ioctl cmd 1
+<6>[58924.895843] sony_tft_panel_blank: -()
+<6>[58924.896942] mahimahi_ts_power: power 0
+<6>[58924.907714] lcdc_suspend: suspending
+<4>[58924.989135] save exit: isCheckpointed 1
+<4>[58925.100830] save exit: isCheckpointed 1
+<6>[58925.124847] active wake lock wlan_rx_wake, time left 38
+<6>[58925.125244] active wake lock SMD_DS, time left 2
+<7>[58925.482635] P3 dest subnet found: pkt c6c51bbc, sysnet c6d01ef0
+<7>[58925.483520] Pkt (Len 60): 
+<7>[58925.483520]   4500003c 464a4000 400670bf c0a8005f 
+<7>[58925.483551]   c0a80203 ac1f005a 5a1134f1 00000000 
+<7>[58925.483551]   a00216d0 fef20000 020405b4 0402080a 
+<7>[58925.483551]   005972bb 00000000 01030301
+<7>[58925.485290] Reduce MSS from 1460 to 1388
+<7>[58925.485565] Obfuscate pkt: New len 204
+<7>[58925.485809] Obfuscate
+<7>[58925.486297] Blocks: 2, Sizes: Pkt 60 Len 176, USec 938d2
+<7>[58925.486572] Idx 1 Loc 3 Len 29 From 31
+<7>[58925.486816]   PadSz 110 Step 9 PadBy 3
+<7>[58925.487304] Idx 0 Loc 145 Len 31 From 0
+<7>[58925.487579] Encrypt pkt Seq 42
+<7>[58925.487976] P3 Hdr:  450000cc a6874000 8032cdc7 c0a8005f c0a80401 00000000 0000002a
+<7>[58925.488464] Kernel intercept: handle P3 data packet
+<7>[58925.488739] SKB: c6d01ef0, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58925.489227]   ML 0, DL 0, PL 60, HL 208, Pr 0, Sz 400, Us 1
+<7>[58925.489685]   DT c7158c94, MH (null), NH c7158c94, TH c7158ca8
+<7>[58925.489959]   HD c7158c00, Tail c7158cd0, End c7158ce0
+<7>[58925.490447] New SKB: c7bb8300, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58925.490722]   ML 0, DL 0, PL 204, HL 352, Pr 0, Sz 560, Us 1
+<7>[58925.491210]   DT c6e63094, MH (null), NH c6e63094, TH c6e630a8
+<7>[58925.491485]   HD c6e63000, Tail c6e63160, End c6e63180
+<7>[58925.492034] Exit packet intercept (c7bb8300)
+<4>[58925.586975] save exit: isCheckpointed 1
+<6>[58925.664733] suspend: enter suspend
+<6>[58925.665252] PM: Syncing filesystems ... done.
+<4>[58925.745117] Freezing user space processes ... (elapsed 0.01 seconds) done.
+<4>[58925.761505] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58925.785461] power_suspend_late return 0
+<6>[58925.785461] clocks on: uart_clk
+<6>[58925.786010] wakeup wake lock: wlan_wake
+<4>[58925.796112] Restarting tasks ... done.
+<6>[58925.808013] suspend: exit suspend, ret = 0 (2011-10-11 13:49:51.513153076 UTC)
+<6>[58925.808410] active wake lock wlan_wake
+<6>[58925.809082] suspend: abort suspend
+<7>[58925.815307] P3 source host found: pkt c72c1d0c, sysnet c7bb8300
+<7>[58925.815704] Decrypt packet: Seq 86
+<7>[58925.816467] Deobfuscate packet: New Len 176
+<7>[58925.816833] Idx 2 Loc 3 Len 129
+<7>[58925.817199] Idx 1 Loc 135 Len 21
+<7>[58925.817871] Idx 0 Loc 159 Len 17
+<7>[58925.818725] Pkt (Len 60): 
+<7>[58925.818725]   4500003c 141d4000 7f0663ec c0a80203 
+<7>[58925.818756]   c0a8005f 005aac1f fad3ab27 5a1134f2 
+<7>[58925.818786]   a0122000 5fed0000 0204056c 01030308 
+<7>[58925.818786]   0402080a 061ee9eb 005972bb
+<7>[58925.821136] Kernel intercept: handle P3 data packet
+<7>[58925.821533] SKB: c7bb8300, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58925.822204]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58925.822601]   DT c6e63060, MH c6e63052, NH c6e63060, TH c6e63060
+<7>[58925.823272]   HD c6e63000, Tail c6e6312c, End c6e63160
+<7>[58925.823730] New SKB: c7bb8300, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.1.0.0.0.0
+<7>[58925.824432]   ML 14, DL 0, PL 60, HL 0, Pr 8, Sz 528, Us 1
+<7>[58925.824798]   DT c6e63060, MH c6e63052, NH c6e63060, TH c6e63074
+<7>[58925.825500]   HD c6e63000, Tail c6e6309c, End c6e63160
+<7>[58925.826019] P3 dest subnet found: pkt c72c1aa4, sysnet c7bb8240
+<7>[58925.827117] Pkt (Len 52): 
+<7>[58925.827117]   45000034 464b4000 400670c6 c0a8005f 
+<7>[58925.827148]   c0a80203 ac1f005a 5a1134f2 fad3ab28 
+<7>[58925.827148]   80100b68 a2e70000 0101080a 005972de 
+<7>[58925.827178]   061ee9eb
+<7>[58925.829498] Obfuscate pkt: New len 204
+<7>[58925.829864] Obfuscate
+<7>[58925.830261] Blocks: 3, Sizes: Pkt 52 Len 176, USec 82b68
+<7>[58925.830932] Idx 2 Loc 3 Len 17 From 35
+<7>[58925.831298]   PadSz 115 Step 7 PadBy 1
+<7>[58925.831726] Idx 1 Loc 138 Len 21 From 14
+<7>[58925.832397] Idx 0 Loc 162 Len 14 From 0
+<7>[58925.832763] Encrypt pkt Seq 43
+<7>[58925.833343] P3 Hdr:  450000cc a6884000 8032cdc6 c0a8005f c0a80401 00000000 0000002b
+<7>[58925.834075] Kernel intercept: handle P3 data packet
+<7>[58925.834472] SKB: c7bb8240, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58925.835174]   ML 0, DL 0, PL 52, HL 0, Pr 0, Sz 400, Us 1
+<7>[58925.835845]   DT c7158c9c, MH (null), NH c7158c9c, TH c7158cb0
+<7>[58925.836212]   HD c7158c00, Tail c7158cd0, End c7158ce0
+<7>[58925.836944] New SKB: c7bb8900, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58925.837341]   ML 0, DL 0, PL 204, HL 0, Pr 0, Sz 560, Us 1
+<7>[58925.838012]   DT c6e6389c, MH (null), NH c6e6389c, TH c6e638b0
+<7>[58925.838409]   HD c6e63800, Tail c6e63968, End c6e63980
+<7>[58925.839141] Exit packet intercept (c7bb8900)
+<7>[58925.839508] Exit packet intercept (c7bb8300)
+<6>[58926.833709] wake lock wlan_rx_wake, expired
+<6>[58926.913970] suspend: enter suspend
+<6>[58926.914367] PM: Syncing filesystems ... done.
+<4>[58926.994323] Freezing user space processes ... (elapsed 0.01 seconds) done.
+<4>[58927.010070] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58927.023498] power_suspend_late return 0
+<6>[58927.023925] clocks on: uart_clk
+<6>[58927.030548] wakeup wake lock: SMD_RPCCALL
+<4>[58927.037628] Restarting tasks ... done.
+<6>[58927.048248] suspend: exit suspend, ret = 0 (2011-10-11 13:49:54.512084961 UTC)
+<6>[58927.048950] active wake lock alarm_rtc, time left 98
+<6>[58927.049316] suspend: abort suspend
+<4>[58927.539520] save exit: isCheckpointed 1
+<6>[58927.573852] suspend: enter suspend
+<6>[58927.574005] PM: Syncing filesystems ... done.
+<4>[58927.654052] Freezing user space processes ... (elapsed 0.00 seconds) done.
+<4>[58927.662384] Freezing remaining freezable tasks ... (elapsed 0.00 seconds) done.
+<6>[58927.672973] power_suspend_late return 0
+<6>[58927.672973] clocks on: uart_clk
+<6>[58927.673339] wakeup wake lock: gpio_input
+<4>[58927.679962] Restarting tasks ... 
+<6>[58927.686157] request_suspend_state: wakeup (3->0) at 58922962758973 (2011-10-11 13:49:59.507019043 UTC)
+<6>[58927.696838] capella_cm3602_ioctl cmd 2
+<6>[58927.697113] capella_cm3602_disable
+<6>[58927.697387] capella_cm3602_disable: already disabled
+<6>[58927.697845] capella_cm3602_ioctl cmd 1
+<4>[58927.699310] done.
+<6>[58927.699615] suspend: exit suspend, ret = 0 (2011-10-11 13:49:59.520538330 UTC)
+<6>[58927.700134] active wake lock main
+<6>[58927.700378] active wake lock PowerManagerService
+<6>[58927.705352] capella_cm3602_ioctl cmd 1
+<6>[58927.714080] sony_tft_set_pwm_val: 1
+<6>[58927.741668] suspend: abort suspend
+<6>[58927.742218] lcdc_resume: resuming
+<6>[58927.770996] mahimahi_ts_power: power 1
+<6>[58927.783050] lcdc_unblank: ()
+<6>[58927.783172] sony_tft_panel_unblank: +()
+<6>[58928.184967] sony_tft_set_pwm_val: 1
+<6>[58928.185485] sony_tft_panel_unblank: -()
+<6>[58928.185546] sony_tft_set_pwm_val: 3
+<6>[58928.186035] sony_tft_set_pwm_val: 25
+<6>[58928.257537] binder: 95:95 transaction failed 29189, size 144-0
+<6>[58928.257751] binder: 95:95 transaction failed 29189, size 144-0
+<7>[58935.485229] P3 dest subnet found: pkt c6c51b94, sysnet c692bd90
+<7>[58935.486877] Pkt (Len 253): 
+<7>[58935.486877]   450000fd 464c4000 40066ffc c0a8005f 
+<7>[58935.486907]   c0a80203 ac1f005a 5a1134f2 fad3ab28 
+<7>[58935.486938]   80180b68 d2e50000 0101080a 005976a4 
+<7>[58935.486938]   061ee9eb 41474953 5443500a 52656369 
+<7>[58935.486968]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58935.486999]   53656e64 65723a20 35353535 35353535
+<7>[58935.489746] Obfuscate pkt: New len 668
+<7>[58935.490356] Obfuscate
+<7>[58935.490692] Blocks: 3, Sizes: Pkt 253 Len 640, USec 4c120
+<7>[58935.491027] Idx 2 Loc 3 Len 103 From 150
+<7>[58935.491638]   PadSz 378 Step 7 PadBy 1
+<7>[58935.492126] Idx 1 Loc 487 Len 84 From 66
+<7>[58935.492462] Idx 0 Loc 574 Len 66 From 0
+<7>[58935.493072] Encrypt pkt Seq 44
+<7>[58935.493804] P3 Hdr:  4500029c a6894000 8032cbf5 c0a8005f c0a80401 00000000 0000002c
+<7>[58935.494415] Kernel intercept: handle P3 data packet
+<7>[58935.494781] SKB: c692bd90, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58935.495391]   ML 0, DL 0, PL 253, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58935.495758]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58935.496368]   HD c6f9f000, Tail c6f9f1a9, End c6f9f640
+<7>[58935.496765] New SKB: c7bb8900, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58935.497375]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58935.497741]   DT c6eef0ac, MH (null), NH c6eef0ac, TH c6eef0c0
+<7>[58935.498352]   HD c6eef000, Tail c6eef348, End c6eef7e0
+<7>[58935.498779] Exit packet intercept (c7bb8900)
+<7>[58936.563476] P3 dest subnet found: pkt c0421d0c, sysnet c692bd90
+<7>[58936.564819] Pkt (Len 253): 
+<7>[58936.564849]   450000fd 464d4000 40066ffb c0a8005f 
+<7>[58936.564849]   c0a80203 ac1f005a 5a1134f2 fad3ab28 
+<7>[58936.564880]   80180b68 d2790000 0101080a 00597710 
+<7>[58936.564910]   061ee9eb 41474953 5443500a 52656369 
+<7>[58936.564910]   7069656e 74733a20 2a2e2a2e 2a2e2a0a 
+<7>[58936.564941]   53656e64 65723a20 35353535 35353535
+<7>[58936.567962] Obfuscate pkt: New len 668
+<7>[58936.568298] Obfuscate
+<7>[58936.568908] Blocks: 3, Sizes: Pkt 253 Len 640, USec 5f2a9
+<7>[58936.569274] Idx 2 Loc 3 Len 103 From 150
+<7>[58936.569610]   PadSz 378 Step 8 PadBy 2
+<7>[58936.570312] Idx 1 Loc 487 Len 84 From 66
+<7>[58936.570648] Idx 0 Loc 574 Len 66 From 0
+<7>[58936.570983] Encrypt pkt Seq 45
+<7>[58936.571868] P3 Hdr:  4500029c a68a4000 8032cbf4 c0a8005f c0a80401 00000000 0000002d
+<7>[58936.572235] Kernel intercept: handle P3 data packet
+<7>[58936.572875] SKB: c692bd90, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.1.0.0.0.0.0
+<7>[58936.573211]   ML 0, DL 0, PL 253, HL 224, Pr 0, Sz 1776, Us 1
+<7>[58936.573852]   DT c6f9f0ac, MH (null), NH c6f9f0ac, TH c6f9f0c0
+<7>[58936.574188]   HD c6f9f000, Tail c6f9f1a9, End c6f9f640
+<7>[58936.574829] New SKB: c7bb8900, SK c6f69a60, DST c71fcbc0, DEV (null) Fl: 0.0.0.0.0.0.0
+<7>[58936.575469]   ML 0, DL 0, PL 668, HL 840, Pr 0, Sz 2192, Us 1
+<7>[58936.575805]   DT c6eef0ac, MH (null), NH c6eef0ac, TH c6eef0c0
+<7>[58936.576416]   HD c6eef000, Tail c6eef348, End c6eef7e0
+<7>[58936.576843] Exit packet intercept (c7bb8900)
+<7>[58936.586334] P3 source host found: pkt c72c1d0c, sysnet c7bb8900
+<7>[58936.586975] Decrypt packet: Seq 88
+<7>[58936.587371] Deobfuscate packet: New Len 176
+<7>[58936.587982] Idx 2 Loc 3 Len 120
+<7>[58936.588317] Idx 1 Loc 126 Len 29
+<7>[58936.588653] Idx 0 Loc 158 Len 18
+<7>[58936.589477] Pkt (Len 64): 
+<7>[58936.589508]   45000040 14284000 7f0663dd c0a80203 
+<7>[58936.589508]   c0a8005f 005aac1f fad3aba2 5a1135bb 
+<7>[58936.589538]   b0100102 4c580000 0101080a 061ef0f0 
+<7>[58936.589569]   005976a4 0101050a 5a1134f2 5a1135bb
+<7>[58936.591400] Kernel intercept: handle P3 data packet
+<7>[58936.592010] SKB: c7bb8900, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58936.592376]   ML 14, DL 0, PL 204, HL 0, Pr 8, Sz 528, Us 1
+<7>[58936.592987]   DT c7158c60, MH c7158c52, NH c7158c60, TH c7158c60
+<7>[58936.593383]   HD c7158c00, Tail c7158d2c, End c7158d60
+<7>[58936.594024] New SKB: c7bb8900, SK (null), DST 0, DEV c72b2c00 Fl: 0.0.0.0.0.0.0
+<7>[58936.594665]   ML 14, DL 0, PL 64, HL 0, Pr 8, Sz 528, Us 1
+<7>[58936.595001]   DT c7158c60, MH c7158c52, NH c7158c60, TH c7158c74
+<7>[58936.595642]   HD c7158c00, Tail c7158ca0, End c7158d60
+<7>[58936.596069] Exit packet intercept (c7bb8900)
+<6>[58949.355133] batt:  98%, 4114 mV, -121 mA (-99 avg), 31.8 C, 1331 mAh
+<4>[58985.375640] mmc1: Starting deferred resume
+<4>[58985.544647] mmc1: Deferred resume completed
+<6>[58992.657135] sony_tft_set_pwm_val: 23
+<6>[58992.673461] sony_tft_set_pwm_val: 22
+<6>[58992.688812] sony_tft_set_pwm_val: 21
+<6>[58992.705108] sony_tft_set_pwm_val: 20
+<6>[58998.861511] sony_tft_set_pwm_val: 21
+<6>[58998.909393] sony_tft_set_pwm_val: 22
+<6>[58998.958190] sony_tft_set_pwm_val: 23
+<6>[58999.008270] sony_tft_set_pwm_val: 24
+<6>[58999.057128] sony_tft_set_pwm_val: 25
+<6>[58999.436492] batt:  98%, 4099 mV, -117 mA (-121 avg), 31.7 C, 1328 mAh
+<3>[59004.317474] init: untracked pid 841 exited
+<6>[59006.351593] p3secondary: Exit

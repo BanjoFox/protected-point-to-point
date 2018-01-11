@@ -1,0 +1,25 @@
+
+telnet 192.168.0.40 80
+
+
+GET / HTTP/1.2
+Host: 192.168.0.40
+
+GET /test16k.html HTTP/1.2
+Host: 192.168.0.40
+
+GET /words128k.html HTTP/1.2
+Host: 192.168.0.40
+
+GET /words256k.html HTTP/1.2
+Host: 192.168.0.40
+
+GET /test256k.html HTTP/1.2
+Host: 192.168.0.40
+
+
+
+dmesg > x1
+
+adb pull /data/local/tmp/x1 a
+

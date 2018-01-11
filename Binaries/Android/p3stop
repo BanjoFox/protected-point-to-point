@@ -1,0 +1,14 @@
+# /bin/sh
+#
+#
+
+p3PID=`ps p3syssecondary | busybox grep -v USER | busybox tr -s ' ' | busybox cut -f2 -d' '`
+echo "Stop p3syssecondary user space application"
+kill $p3PID
+
+sleep 2
+echo "Stop p3secondary kernel module"
+rmmod p3secondary
+
+echo "P3 system stopped"
+

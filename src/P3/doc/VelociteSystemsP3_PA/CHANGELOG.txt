@@ -1,0 +1,4 @@
+Oct 28, 2011 14:23 palexander -- Added "labels" to ../CentOS/p3primary.conf and ../CentOS/p3secondary.conf to clearly document which device configuration listing is which.
+Oct 28, 2011 14:23 palexander -- Commented out second P3 secondary device in ../CentOS/p3primary.conf
+Oct 28, 2011 14:23 palexander -- Added Red Hat kernel version to ../InstallP3.txt
+Oct 28, 2011 14:23 palexander -- Copied contents of ../CentOS to ../Redhat
